@@ -1,0 +1,9 @@
+0
+family_name:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPESPACE],0,L)
+given_name:RegPos([ESCAPESPACE],0,R)[PARAMSPLIT]RegPos([ESCAPESPACE],1,L)
+organization:RegPos([ESCAPESPACE],1,R)[PARAMSPLIT]AbsPos(-1)
+[ITEM]
+1
+family_name:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPEPERIOD],0,L)
+given_name:RegPos([ESCAPEPERIOD],0,R)[PARAMSPLIT]RegPos([ESCAPEAT],0,L)
+organization:RegPos([ESCAPEAT],0,R)[PARAMSPLIT]RegPos([ESCAPEPERIOD],1,L)

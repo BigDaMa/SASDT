@@ -1,0 +1,2 @@
+class BenchmarkCache:
+    OpenAICache = dict()

@@ -1,0 +1,13 @@
+0
+given_name:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPEPERIOD],0,L)
+family_name:RegPos([ESCAPEPERIOD],0,R)[PARAMSPLIT]RegPos([ESCAPEAT],0,L)
+domain:RegPos([ESCAPEAT],0,R)[PARAMSPLIT]AbsPos(-1)
+[ITEM]
+1
+family_name:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPEPERIOD],0,L)
+given_name:RegPos([ESCAPEPERIOD],0,R)[PARAMSPLIT]RegPos([ESCAPEAT],0,L)
+domain:RegPos([ESCAPEAT],0,R)[PARAMSPLIT]AbsPos(-1)
+[ITEM]
+2
+given_name:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPESPACE],0,L)
+family_name:RegPos([ESCAPESPACE],0,R)[PARAMSPLIT]AbsPos(-1)

@@ -1,0 +1,515 @@
+author:Dale A. Stirling
+year:2003
+title:Information rules
+venue:ACM SIGMOD Record
+[ITEM]
+author:Jeff Sidell
+title:The Mariposa distributed database management system
+venue:ACM SIGMOD Record
+year:1996
+[ITEM]
+author:Michael J. Carey
+year:1994
+title:Parallel database systems in the 1990's
+venue:International Conference on Management of Data
+[ITEM]
+author:Malcolm P. Atkinson
+year:2000
+title:Guest editorial
+venue:The VLDB Journal -- The International Journal on Very Large Data Bases 
+[ITEM]
+author:Terence Critchlow
+year:2001
+title:Report on XEWA-00: the XML enabled wide-area searches for bioinformatics workshop
+venue:ACM SIGMOD Record
+[ITEM]
+author:Arvola Chan
+title:Transactional publish/subscribe: the proactive multicast of database changes (abstract)
+venue:International Conference on Management of Data
+year:1998
+[ITEM]
+author:Harald Schoning
+year:1998
+title:The ADABAS Buffer Pool Manager
+venue:Very Large Data Bases
+[ITEM]
+author:Val Huber
+title:Challenges in automating declarative business rules to enable rapid business response
+venue:International Conference on Management of Data
+year:2000
+[ITEM]
+author:Richard Snodgrass
+year:2001
+title:Editorial
+venue:ACM Transactions on Database Systems (TODS) 
+[ITEM]
+author:Carsten Blecken
+year:2000
+title:Media360 Workflow-Implementing a Workflow Engine Inside a Database
+venue:Very Large Data Bases
+[ITEM]
+author:Leonid Libkin
+year:2003
+title:Database principles
+venue:ACM SIGMOD Record
+[ITEM]
+author:D. Scott Mackay
+title:Semantic integration of environmental models for application to global information systems and decision-making
+venue:ACM SIGMOD Record
+year:1999
+[ITEM]
+author:Gennady Antoshenkov
+title:Dictionary-based order-preserving string compression
+venue:The VLDB Journal -- The International Journal on Very Large Data Bases
+year:1997
+[ITEM]
+author:Ouri Wolfson
+year:2000
+title:Research issues in moving objects databases (tutorial session)
+venue:International Conference on Management of Data
+[ITEM]
+author:Nikos Mamoulis
+title:Efficient processing of joins on set-valued attributes
+venue:International Conference on Management of Data
+year:2003
+[ITEM]
+author:Daniel Barbara
+year:2001
+title:Special section on data mining for intrusion detection and threat analysis
+venue:ACM SIGMOD Record 
+[ITEM]
+author:Wilfred Ng
+year:2001
+title:An extension of the relational data model to incorporate ordered domains
+venue:ACM Transactions on Database Systems (TODS)
+[ITEM]
+author:Oded Shmueli
+year:2001
+title:Architectures for Internal Web Services Deployment
+venue:Very Large Data Bases
+[ITEM]
+author:Jiawei Han
+title:Towards on-line analytical mining in large databases
+venue:ACM SIGMOD Record
+year:1998
+[ITEM]
+author:Dan Suciu
+year:2001
+title:On database theory and XML
+venue:ACM SIGMOD Record 
+[ITEM]
+author:Luca Cardelli
+year:2001
+title:Describing semistructured data
+venue:ACM SIGMOD Record 
+[ITEM]
+author:Jim Melton
+year:2002
+title:Standards
+venue:ACM SIGMOD Record 
+[ITEM]
+author:Michael Stonebraker
+title:In memory of Bob Kooi (1951-1993)
+venue:ACM SIGMOD Record
+year:1994
+[ITEM]
+author:John L. Schnase
+title:Research Directions in Biodiversity Informatics
+venue:Very Large Data Bases
+year:2000
+[ITEM]
+author:Matthias Jarke
+year:1998
+title:Guest Editorial
+venue:The VLDB Journal -- The International Journal on Very Large Data Bases 
+[ITEM]
+author:Nam Huyn
+year:1997
+title:Multiple-View Self-Maintenance in Data Warehousing Environments
+venue:Very Large Data Bases
+[ITEM]
+author:Arvola Chan
+year:1998
+title:Transactional publish/subscribe: the proactive multicast of database changes (abstract)
+venue:International Conference on Management of Data
+[ITEM]
+author:Pierre-Paul Sondag
+title:The Semantic Web Paving the Way to the Knowledge Society
+venue:Very Large Data Bases
+year:2001
+[ITEM]
+author:Vijay V. Raghavan
+year:1996
+title:Loading the Data Warehouse Across Various Parallel Architectures
+venue:Very Large Data Bases
+[ITEM]
+author:Hannes Spintzik
+title:Informix-Online XPS: A Dynamically Scalable RDBMS for Open Parallel Platforms
+venue:Very Large Data Bases
+year:1995
+[ITEM]
+author:Leonid Libkin
+title:Database principles
+venue:ACM SIGMOD Record
+year:2002
+[ITEM]
+author:John L. Schnase
+year:2000
+title:Research Directions in Biodiversity Informatics
+venue:Very Large Data Bases
+[ITEM]
+author:Sridhar Ramaswamy
+year:2000
+title:E.piphany Epicenter Technology Overview
+venue:Very Large Data Bases
+[ITEM]
+author:Andrew Eisenberg
+title:Standards
+venue:ACM SIGMOD Record
+year:2003
+[ITEM]
+author:Kenneth A. Ross
+year:2001
+title:Reminiscences on Influential Papers
+venue:ACM SIGMOD Record
+[ITEM]
+author:John Gaffney
+title:An Illustra technical white paper
+venue:ACM SIGMOD Record
+year:1996
+[ITEM]
+author:Reed M. Meseck
+year:2001
+title:Data management: lasting impact on wild, wild, web
+venue:International Conference on Management of Data
+[ITEM]
+author:Avigdor Gal
+year:2002
+title:Articles
+venue:ACM SIGMOD Record
+[ITEM]
+author:Umeshwar Dayal
+title:Industrial Panel on Data Warehousing Technologies: Experiences, Challenges, and Directions
+venue:Very Large Data Bases
+year:1999
+[ITEM]
+author:Mario A. Nascimento
+title:Peer-to-peer: harnessing the power of disruptive technologies
+venue:ACM SIGMOD Record
+year:2003
+[ITEM]
+author:Limsoon Wong
+title:An introduction to Remy's fast polymorphic record projection
+venue:ACM SIGMOD Record
+year:1995
+[ITEM]
+author:Vadim Draluk
+year:2001
+title:Discovering Web Services: An Overview
+venue:Very Large Data Bases
+[ITEM]
+author:Daniel J. Dietterich
+year:1994
+title:DEC data distributor: for data replication and data warehousing
+venue:International Conference on Management of Data
+[ITEM]
+author:C. J. Date
+year:1996
+title:A response to R. Camps' article Domains, relations and religious wars
+venue:ACM SIGMOD Record 
+[ITEM]
+author:Luciana Duranti
+year:2001
+title:The Long-Term Preservation of Authentic Electronic Records
+venue:Very Large Data Bases
+[ITEM]
+author:Rick Greer
+year:1999
+title:Daytona and the foruth-generation language cymbal
+venue:International Conference on Management of Data
+[ITEM]
+author:Charu C. Aggarwal
+title:Hierarchical subspace sampling: a unified framework for high dimensional data reduction, selectivity estimation and nearest neighbor search
+venue:International Conference on Management of Data
+year:2002
+[ITEM]
+author:Martin Grohe
+title:Parameterized complexity for the database theorist
+venue:ACM SIGMOD Record
+year:2002
+[ITEM]
+author:Arun Hampapur
+year:1999
+title:Semantic video indexing: approach and issues
+venue:ACM SIGMOD Record 
+[ITEM]
+author:Rich Finkelstein
+year:1995
+title:The new middleware
+venue:ACM SIGMOD Record
+[ITEM]
+author:Reee J. Miller
+year:1998
+title:Using schematically heterogeneous structures
+venue:International Conference on Management of Data
+[ITEM]
+author:Hans-Jorg Schek
+title:Panel: Future Directions of Database Research - The VLDB Broadening Strategy, Part 1
+venue:Very Large Data Bases
+year:2000
+[ITEM]
+author:Ozgur Ulusoy
+year:1995
+title:An annotated bibliography on real-time database systems
+venue:ACM SIGMOD Record
+[ITEM]
+author:S. Chakravarthy
+title:Sentinel: an object-oriented DBMS with event-based rules
+venue:International Conference on Management of Data
+year:1997
+[ITEM]
+author:Alon Y. Halevy
+title:Theory of answering queries using views
+venue:ACM SIGMOD Record
+year:2000
+[ITEM]
+author:CORPORATE National Technical Univ. of Athens
+year:1995
+title:The database group at National Technical University of Athens (NTUA)
+venue:ACM SIGMOD Record 
+[ITEM]
+author:Jim Melton
+year:2002
+title:Standards
+venue:ACM SIGMOD Record 
+[ITEM]
+author:Sudarshan S. Chawathe
+year:1999
+title:Comparing Hierarchical Data in External Memory
+venue:Very Large Data Bases
+[ITEM]
+author:Jose A. Blakeley
+year:1994
+title:Open object database management systems
+venue:International Conference on Management of Data
+[ITEM]
+author:Paolo Giorgini
+year:2003
+title:Agent-Oriented software engineering report on the 4th AOSE workshop (AOSE 2003)
+venue:ACM SIGMOD Record
+[ITEM]
+author:Gonzalo Navarro
+title:Searching in metric spaces by spatial approximation
+venue:The VLDB Journal -- The International Journal on Very Large Data Bases
+year:2002
+[ITEM]
+author:Daniel Barbara
+title:Special section on data mining for intrusion detection and threat analysis
+venue:ACM SIGMOD Record
+year:2001
+[ITEM]
+author:Pedro Celis
+title:The Query Optimizer in Tandem's new ServerWare SQL Product
+venue:Very Large Data Bases
+year:1996
+[ITEM]
+author:Christian Bohm
+year:2000
+title:A cost model for query processing in high dimensional data spaces
+venue:ACM Transactions on Database Systems (TODS)
+[ITEM]
+author:Amit Sheth
+title:Research centers
+venue:ACM SIGMOD Record
+year:2002
+[ITEM]
+author:Marianne Winslett
+title:Distinguished database profiles
+venue:ACM SIGMOD Record
+year:2002
+[ITEM]
+author:Anil Nori
+year:2000
+title:Asera: Extranet Architecture for B2B Solutions
+venue:Very Large Data Bases
+[ITEM]
+author:Yannis E. Ioannidis
+year:1996
+title:Dynamic information visualization
+venue:ACM SIGMOD Record 
+[ITEM]
+author:Dean Kuo
+year:1996
+title:Model and verification of a data manager based on ARIES
+venue:ACM Transactions on Database Systems (TODS)
+[ITEM]
+author:Sanket Atal
+year:1996
+title:The XPS Approach to Loading and Unloading Terabyte Databases
+venue:Very Large Data Bases
+[ITEM]
+author:Clark D. French
+year:1995
+title:One size fits all database architectures do not work for DSS
+venue:International Conference on Management of Data
+[ITEM]
+author:Janet Perna
+year:1995
+title:Leveraging the information asset
+venue:International Conference on Management of Data
+[ITEM]
+author:Joseph Y. Halpern
+title:Hypothetical knowledge and counterfactual reasoning
+venue:Very Large Data Bases
+year:2000
+[ITEM]
+author:Martin Bertram
+year:1994
+title:Data modelling in the large
+venue:ACM SIGMOD Record 
+[ITEM]
+author:Marianne Winslett
+title:Distinguished DB profiles
+venue:ACM SIGMOD Record
+year:2002
+[ITEM]
+author:Richard Snodgrass
+year:1998
+title:Reminiscences on influential papers
+venue:ACM SIGMOD Record
+[ITEM]
+author:Martin Bertram
+year:1994
+title:Data modelling in the large
+venue:ACM SIGMOD Record
+[ITEM]
+author:Alexandros Labrinidis
+title:Career forum
+venue:ACM SIGMOD Record
+year:2002
+[ITEM]
+author:Alon Y. Halevy
+title:Theory of answering queries using views
+venue:ACM SIGMOD Record
+year:2000
+[ITEM]
+author:Richard Snodgrass
+title:Reminiscences in influential papers
+venue:ACM SIGMOD Record
+year:1998
+[ITEM]
+author:Ronald Fagin
+title:Combining fuzzy information: an overview
+venue:ACM SIGMOD Record
+year:2002
+[ITEM]
+author:Jan Chomicki
+year:1995
+title:Efficient checking of temporal integrity constraints using bounded history encoding
+venue:ACM Transactions on Database Systems (TODS) 
+[ITEM]
+author:Henry F. Korth
+year:1995
+title:The Double Life of the Transaction Abstraction: Fundamental Principle and Evolving System Concept
+venue:Very Large Data Bases
+[ITEM]
+author:Dale A. Stirling
+year:2003
+title:Information rules
+venue:ACM SIGMOD Record
+[ITEM]
+author:Dave Liles
+year:2000
+title:The Zero Latency Enterprise
+venue:Very Large Data Bases
+[ITEM]
+author:Daniel A. Keim
+year:1996
+title:databases and visualization
+venue:International Conference on Management of Data
+[ITEM]
+author:Amit Sheth
+year:2002
+title:Research centers
+venue:ACM SIGMOD Record
+[ITEM]
+author:Don Chamberlin
+year:2003
+title:XQuery: a query language for XML
+venue:International Conference on Management of Data
+[ITEM]
+author:Kenneth Moore
+title:The Lotus notes storage system
+venue:International Conference on Management of Data
+year:1995
+[ITEM]
+author:Praveen Seshadri
+title:Honey, I shrunk the database: footprint, mobility, and beyond
+venue:International Conference on Management of Data
+year:1999
+[ITEM]
+author:Chebel Mina
+year:1998
+title:MapInfo SpatialWare: A Spatial Information Server for RDBMS
+venue:Very Large Data Bases
+[ITEM]
+author:Carsten Blecken
+title:Media360 Workflow-Implementing a Workflow Engine Inside a Database
+venue:Very Large Data Bases
+year:2000
+[ITEM]
+author:Curtis E. Dyreson
+year:2003
+title:Temporal coalescing with now granularity, and incomplete information
+venue:International Conference on Management of Data
+[ITEM]
+author:Anant Jhingran
+year:2000
+title:Anatomy of a real E-commerce system
+venue:International Conference on Management of Data
+[ITEM]
+author:Xiaolei Qian
+year:1995
+title:Opportunities at ARPA, NSF, and elsewhere
+venue:ACM SIGMOD Record
+[ITEM]
+author:Daniel A. Keim
+year:1996
+title:databases and visualization
+venue:International Conference on Management of Data
+[ITEM]
+author:Rosa Meo
+year:2000
+title:Theory of dependence values
+venue:ACM Transactions on Database Systems (TODS)
+[ITEM]
+author:Carrie Ballinger
+year:1994
+title:Evolving teradata decision support for massively parallel processing with UNIX
+venue:International Conference on Management of Data
+[ITEM]
+author:Garth A. Gibson
+year:1995
+title:Tutorial on storage technology: RAID and beyond
+venue:International Conference on Management of Data
+[ITEM]
+author:Ken Ross
+title:Influential papers
+venue:ACM SIGMOD Record
+year:2003
+[ITEM]
+author:Dale A. Stirling
+title:Information rules
+[ITEM]
+author:Jeff Sidell
+title:The Mariposa distributed database management system
+[ITEM]
+author:Michael J. Carey
+title:Parallel database systems in the 1990's
+[ITEM]
+author:Malcolm P. Atkinson
+title:Guest editorial
+[ITEM]
+author:Terence Critchlow
+title:Report on XEWA-00: the XML enabled wide-area searches for bioinformatics workshop
+[ITEM]

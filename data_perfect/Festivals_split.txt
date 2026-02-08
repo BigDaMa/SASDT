@@ -1,0 +1,134 @@
+festival:Valentine Day
+year:2024
+[ITEM]
+year:2019
+festival:Thanksgiving Day
+[ITEM]
+year:1995
+festival:Dragon Boat Festival
+[ITEM]
+festival:Halloween
+year:2023
+[ITEM]
+year:2019
+festival:Songkran Festival
+[ITEM]
+year:2022
+festival:Diwali
+[ITEM]
+festival:Naadam Festival
+year:2021
+[ITEM]
+festival:Christmas
+year:1993
+[ITEM]
+year:2018
+festival:Beltane Day
+[ITEM]
+year:2009
+festival:Tsukimi Festival
+[ITEM]
+festival:Nowroz
+year:2020
+[ITEM]
+festival:Yeondeunghoe
+year:2008
+[ITEM]
+year:1985
+festival:Mid Autumn Festival
+[ITEM]
+festival:Holi Festival
+year:2017
+[ITEM]
+festival:Kadayawan Festival
+year:2016
+[ITEM]
+year:2009
+festival:Sangken Festival
+[ITEM]
+festival:Chinese National Day
+year:2022
+[ITEM]
+year:2019
+festival:Oktoberfest
+[ITEM]
+festival:Saturnalia Festival
+year:1990
+[ITEM]
+year:2009
+festival:Bastille Day
+[ITEM]
+festival:Ascention Day
+year:2021
+[ITEM]
+festival:Whitsun
+year:2018
+[ITEM]
+year:2002
+festival:German Unity Day
+[ITEM]
+festival:Independence Day
+year:2015
+[ITEM]
+festival:Eid al-Fitr
+year:2023
+[ITEM]
+year:2009
+festival:Labor Day
+[ITEM]
+festival:Greenery Day
+year:1997
+[ITEM]
+year:2015
+festival:Showa Day
+[ITEM]
+festival:Chuseok
+year:2020
+[ITEM]
+year:2019
+festival:Hangul Day
+[ITEM]
+year:2018
+festival:Ashura
+[ITEM]
+festival:Sizdah Bedar
+year:2016
+[ITEM]
+year:2005
+festival:Victory Day
+[ITEM]
+year:2004
+festival:Epiphany
+[ITEM]
+festival: Tomb Sweeping Day
+year:2024
+[ITEM]
+year:2000
+festival:Losar Festival
+[ITEM]
+year:2019
+festival:Canada Day
+[ITEM]
+festival:Boxing Day
+year:2021
+[ITEM]
+festival:Easter
+year:1998
+[ITEM]
+year:2024
+festival:Patronal Festival
+[ITEM]
+year:2024
+festival:Valentine Day
+[ITEM]
+year:2019
+festival:Thanksgiving Day
+[ITEM]
+year:1995
+festival:Dragon Boat Festival
+[ITEM]
+year:2023
+festival:Halloween
+[ITEM]
+year:2019
+festival:Songkran Festival

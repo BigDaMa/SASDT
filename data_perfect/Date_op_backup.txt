@@ -1,0 +1,16 @@
+0
+month:AbsPos(0)[PARAMSPLIT]AbsPos(1)
+day:AbsPos(3)[PARAMSPLIT]AbsPos(4)
+year:AbsPos(6)[PARAMSPLIT]AbsPos(9)
+hour:AbsPos(-5)[PARAMSPLIT]AbsPos(-4)
+minute:AbsPos(-2)[PARAMSPLIT]AbsPos(-1)
+[ITEM]
+1
+day:AbsPos(0)[PARAMSPLIT]AbsPos(1)
+month:AbsPos(3)[PARAMSPLIT]AbsPos(4)
+year:AbsPos(6)[PARAMSPLIT]AbsPos(9)
+[ITEM]
+2
+year:AbsPos(0)[PARAMSPLIT]AbsPos(3)
+month:AbsPos(5)[PARAMSPLIT]AbsPos(6)
+day:AbsPos(8)[PARAMSPLIT]AbsPos(9)

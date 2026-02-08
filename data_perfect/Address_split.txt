@@ -1,0 +1,345 @@
+street:Sternbuschweg
+house_number:52
+zip_code:47057
+city:Duisburg
+[ITEM]
+street:Bd de la Plaine
+house_number:2
+zip_code:1050
+city:Ixelles
+[ITEM]
+street:Karolinenplatz
+house_number:5
+zip_code:64289
+city:Darmstadt
+[ITEM]
+house_number:77
+street:Massachusetts Avenue
+city:Cambridge
+zip_code:MA 02139
+country:USA
+[ITEM]
+street:Europaplatz
+house_number:1
+zip_code:10557
+city:Berlin
+[ITEM]
+street:Welfengarten
+house_number:1
+zip_code:30167
+city:Hannover
+[ITEM]
+house_number:88
+street:Altona St
+city:Kensington
+zip_code:VIC 3031
+country:Australia
+[ITEM]
+street:Pl. del Pte.
+house_number:3
+zip_code:47003
+city:Valladolid
+country:Spain
+[ITEM]
+street:C. Alba de Tormes
+house_number:Km2
+zip_code:37188
+city:Carbajosa de la Sagrada
+country:Spain
+[ITEM]
+street:Kaiserstr
+house_number:10
+zip_code:47051
+city:Duisburg
+[ITEM]
+house_number:333
+street:Biscayne Boulevard Way
+city:Miami
+zip_code:Florida 33131
+country:USA
+[ITEM]
+street:2331 Broadway
+city:Sacramento
+zip_code:CA 95818
+country:USA
+[ITEM]
+street:Av. Complutense
+house_number:s/n
+zip_code:28040
+city:Madrid
+[ITEM]
+street:Hallerstr
+house_number:25
+zip_code:30161
+city:Hannover
+[ITEM]
+house_number:201 W
+street:Center St
+city:Rochester
+zip_code:MN 55902
+country:USA
+[ITEM]
+street:Via Castello di Verrazzano
+house_number:1
+zip_code:50022
+city:Greve in Chianti FI
+[ITEM]
+street:Het Eeuwsel
+house_number:53
+zip_code:5612 AZ
+city:Eindhoven
+[ITEM]
+street:Mathenesserlaan
+house_number:145
+zip_code:3015 CJ
+city:Rotterdam
+[ITEM]
+house_number:3356
+street:Kraus Rd
+city:Roberts Creek
+zip_code:BC V0N 2W2
+country:Canada
+[ITEM]
+street:Pl. du Vingt Aout
+house_number:7
+zip_code:4000
+city:Liege
+[ITEM]
+house_number:555
+street:Great Northern Wy
+city:Vancouver
+zip_code:BC V5T 1E1
+country:Canada
+[ITEM]
+street:Avda. del Cid
+house_number:2 bis
+zip_code:09005
+city:Burgos
+country:Spain
+[ITEM]
+street:Geschwister-Scholl-Platz
+house_number:1
+zip_code:80539
+city:Munich
+[ITEM]
+house_number:141
+street:Goodwood Rd
+city:Goodwood
+zip_code:SA 5034
+country:Australia
+[ITEM]
+street:Av. Vizcaya
+house_number:8
+zip_code:26200
+city:Haro
+country:La Rioja
+[ITEM]
+house_number:33
+street:Milligan St
+city:Perth
+zip_code:WA 6000
+country:Australia
+[ITEM]
+house_number:9
+street:Hertford St
+city:London
+zip_code:W1J 7RJ
+country:United Kingdom
+[ITEM]
+street:Via Festa del Perdono
+house_number:7
+zip_code:20122
+city:Milano
+[ITEM]
+street:Boompjes
+house_number:40
+zip_code:3011 XB
+city:Rotterdam
+[ITEM]
+house_number:910
+street:Victoria Ave
+city:Saskatoon
+zip_code:SK S7N 0Z6
+country:Canada
+[ITEM]
+street:Calle Ote.
+house_number:5
+zip_code:37187
+city:Aldeatejada
+country:Spain
+[ITEM]
+street:Av. Dom Carlos I
+house_number:17-25
+zip_code:1200-000
+city:Lisboa
+country:Portugal
+[ITEM]
+street:Rambla de Mar
+house_number:s/n
+zip_code:08039
+city:Barcelona
+country:Spain
+[ITEM]
+street:Piazzale Aldo Moro
+house_number:5
+zip_code:00185
+city:Roma
+country:Italy
+[ITEM]
+street:Universiteitstraat
+house_number:4
+zip_code:9000
+city:Gent
+[ITEM]
+house_number:34
+street:Windmill Rd
+city:Moneymore
+zip_code:Co. Louth A92 AYH7
+country:Ireland
+[ITEM]
+street:Burgemeester Tellegenstraat
+house_number:128
+zip_code:1073 KG
+city:Amsterdam
+[ITEM]
+street:Carrer de Sant Pau
+house_number:99
+zip_code:08001
+city:Barcelona
+country:Spain
+[ITEM]
+street:Piazza del Duomo
+house_number:1
+zip_code:50122
+city:Firenze
+country:Italy
+[ITEM]
+house_number:5
+street:Chipping Norton Rd
+city:Chadlington
+zip_code:Chipping Norton OXP 3PE
+country:United Kingdom
+[ITEM]
+street:Rue Joseph II
+house_number:32
+zip_code:1000
+city:Bruxelles
+[ITEM]
+street:Forsthausweg
+house_number:2
+zip_code:47057
+city:Duisburg
+[ITEM]
+house_number:827
+street:Lansdowne Ave
+city:Toronto
+zip_code:ON M6H 3Z2
+country:Canada
+[ITEM]
+street:Ernst-Reuter-Platz
+house_number:8
+zip_code:10611
+city:Berlin
+[ITEM]
+street:Av. D., Joao II
+zip_code:1990-233
+city:Lisboa
+[ITEM]
+street:R. da Firmeza
+house_number:138
+zip_code:4000-225
+city:Porto
+country:Portugal
+[ITEM]
+house_number:1
+street:William St
+city:Darlinghurst
+zip_code:NSW 2010
+country:Australia
+[ITEM]
+street:Viale Europa
+house_number:22
+zip_code:00122
+city:Roma RM
+[ITEM]
+house_number:350
+street:Trolley Line Blvd
+city:Mashantucket
+zip_code:Connecticut 06338
+country:USA
+[ITEM]
+street:Hirschengraben
+house_number:49
+zip_code:6003
+city:Luzern
+[ITEM]
+house_number:6
+street:Western Ave
+city:Perth
+zip_code:PH1 1NY
+country:United Kingdom
+[ITEM]
+street:Rua do Choupelo
+house_number:39
+zip_code:4400-088
+city:Vila Nova de Gaia
+[ITEM]
+street:C. de Embajadores
+house_number:138
+zip_code:28045
+city:Madrid
+country:Spain
+[ITEM]
+street:Charitepl.
+house_number:1
+zip_code:10117
+city:Berlin
+[ITEM]
+house_number:5
+street:Albatross Ct
+city:Yellowknife
+zip_code:NT X1A 1Y7
+country:Canada
+[ITEM]
+house_number:8
+street:Bride St
+city:Dublin
+zip_code:D08 Y2AY
+country:Ireland
+[ITEM]
+street:Rua do Quelhas
+house_number:6
+zip_code:1200-781
+city:Lisboa
+[ITEM]
+street:Drienerlolaan
+house_number:5
+zip_code:7522 NB
+city:Enschede
+[ITEM]
+street:C. Castillo
+house_number:1
+zip_code:45460
+city:Toledo
+country:Spain
+[ITEM]
+house_number:1600
+street:Pennsylvania Ave
+city:Washington DC
+zip_code:20500
+country:USA
+[ITEM]
+street:Sternbuschweg
+house_number:52
+[ITEM]
+street:Bd de la Plaine
+house_number:2
+[ITEM]
+street:Karolinenplatz
+house_number:5
+[ITEM]
+street:Massachusetts Avenue
+house_number:77
+[ITEM]
+street:Europaplatz
+house_number:1

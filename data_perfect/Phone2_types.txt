@@ -1,0 +1,4 @@
+country_code
+first_three_digits
+middle_three_digits
+last_four_digits

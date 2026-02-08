@@ -1,0 +1,5 @@
+event_type
+event_name
+country
+city
+year

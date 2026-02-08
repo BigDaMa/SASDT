@@ -1,0 +1,186 @@
+university:University of Pennsylvania
+city:Philadelphia
+state:Pennsylvania
+country:USA
+[ITEM]
+city:Ithaca
+university:Cornell University
+country:USA
+[ITEM]
+university:Massachusetts Institute of Technology
+city:Cambridge
+state:Massachusetts
+country:USA
+[ITEM]
+country:China
+city:Beijing
+university:Tsinghua University
+[ITEM]
+university:UC Berkeley
+city:Berkeley
+state:California
+country:USA
+[ITEM]
+university:Stanford University
+city:Stanford
+state:California
+country:USA
+[ITEM]
+city:Houston
+university:Rice University
+country:USA
+[ITEM]
+university:Harvard University
+city:Cambridge
+state:Massachusetts
+country:USA
+[ITEM]
+university:Caltech
+city:Pasadena
+state:California
+country:USA
+[ITEM]
+country:Germany
+city:Berlin
+university:Humboldt University of Berlin
+[ITEM]
+city:Paris
+university:Sorbonne University
+country:France
+[ITEM]
+university:University of Tokyo
+city:Tokyo
+country:Japan
+[ITEM]
+state:Hokkaido
+city:Sapporo
+university:Hokkaido University
+country:Japan
+[ITEM]
+country:China
+city:Shanghai
+university:Fudan University
+[ITEM]
+university:Drexel University
+city:Philadelphia
+state:Pennsylvania
+country:USA
+[ITEM]
+university:Imperial College London
+city:London
+country:United Kingdom
+[ITEM]
+country:China
+university:Peking University
+city:Beijing
+[ITEM]
+city:Edinburgh
+university:University of Edinburgh
+country:United Kingdom
+[ITEM]
+city:Hongkong
+university:University of Hongkong
+country:China
+[ITEM]
+city:Canberra
+university:Australian National University
+country:Australia
+[ITEM]
+city:Delft
+university:Delft University of Technology
+country:Netherlands
+[ITEM]
+university:Duke University
+city:Durham
+state:North Carolina
+country:USA
+[ITEM]
+city:Montreal
+university:McGill University
+country:Canada
+[ITEM]
+city:Lausanne
+university:EPFL
+country:Switzerland
+[ITEM]
+country:Uganda
+city:Kampala
+university:Makerere University
+[ITEM]
+city:Jakarta
+university:University of Indonesia
+country:Indonesia
+[ITEM]
+country:Czechia
+city:Prague
+university:Charles University
+[ITEM]
+country:China
+city:Nanjing
+university:Nanjing University
+[ITEM]
+city:Seoul
+university:Seoul National University
+country:South Korea
+[ITEM]
+university:Princeton University
+city:Princeton
+state:New Jersey
+country:USA
+[ITEM]
+city:Sendai
+university:Tohoku University
+country:Japan
+[ITEM]
+city:Tokyo
+university:Waseda University
+country:Japan
+[ITEM]
+university:Johns Hopkins University
+city:Baltimore
+state:Maryland
+country:USA
+[ITEM]
+city:Toronto
+university:University of Toronto
+country:Canada
+[ITEM]
+city:Leipzig
+university:Leipzig University
+country:Germany
+[ITEM]
+city:Osaka
+university:Osaka University
+country:Japan
+[ITEM]
+country:China
+city:Shanghai
+university:Tongji University
+[ITEM]
+country:China
+city:Tianjin
+university:Nankai University
+[ITEM]
+city:Manchester
+country:United Kingdom
+university:University of Manchester
+[ITEM]
+university:Carnegie Mellon University
+city:Pittsburgh
+state:Pennsylvania
+country:USA
+[ITEM]
+university:University of Pennsylvania
+city:Philadelphia
+[ITEM]
+university:Cornell University
+city:Ithaca
+[ITEM]
+university:Massachusetts Institute of Technology
+city:Cambridge
+[ITEM]
+university:Tsinghua University
+city:Beijing
+[ITEM]
+university:UC Berkeley
+city:Berkeley
