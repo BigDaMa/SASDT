@@ -40,7 +40,7 @@ def parse_arguments():
                        default='cache',
                        help='Specify cache directory (default: cache)')
     
-    parser.add_argument('-pc', '--perfect_cluster', 
+    parser.add_argument('-pg', '--perfect_cluster', 
                        action='store_true', 
                        default=False,
                        help='Enable perfect clustering (default: False)')
@@ -50,7 +50,7 @@ def parse_arguments():
                        default=False,
                        help='Enable perfect splitting (default: False)')
     
-    parser.add_argument('-po', '--perfect_operator', 
+    parser.add_argument('-pp', '--perfect_operator', 
                        action='store_true', 
                        default=False,
                        help='Enable perfect operator (requires -pc/--perfect_cluster, default: False)')
