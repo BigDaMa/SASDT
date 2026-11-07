@@ -1,0 +1,38 @@
+AGENTS.md
+
+# Credentials (the experiment intentionally reads plaintext key files).
+openaiapi.txt
+novitaapi.txt
+
+# Experiment inputs, generated features, caches, models, and results.
+data/
+data_*/
+truth/
+truth_*/
+data_feature/
+cache/
+results/
+model/
+result*.txt
+resreport.txt
+*.zip
+
+# Python environments, packaging output, and caches.
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# Local editor and OS state.
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
