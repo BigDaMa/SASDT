@@ -1,0 +1,121 @@
+Sternbuschweg 52, 47057 Duisburg
+street:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPESPACE],-3,L)
+house_number:RegPos([ESCAPESPACE],-3,R)[PARAMSPLIT]RegPos([ESCAPECOMMA],0,L)
+zip_code:RegPos([ESCAPESPACE],-2,R)[PARAMSPLIT]RegPos([ESCAPESPACE],-1,L)
+city:RegPos([ESCAPESPACE],-1,R)[PARAMSPLIT]AbsPos(None)
+[ITEM]
+Karolinenplatz 5, 64289 Darmstadt
+street:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPESPACE],-3,L)
+house_number:RegPos([ESCAPESPACE],-3,R)[PARAMSPLIT]RegPos([ESCAPECOMMA],0,L)
+zip_code:RegPos([ESCAPESPACE],-2,R)[PARAMSPLIT]RegPos([ESCAPESPACE],-1,L)
+city:RegPos([ESCAPESPACE],-1,R)[PARAMSPLIT]AbsPos(None)
+[ITEM]
+Europaplatz 1, 10557 Berlin
+street:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPESPACE],-3,L)
+house_number:RegPos([ESCAPESPACE],-3,R)[PARAMSPLIT]RegPos([ESCAPECOMMA],0,L)
+zip_code:RegPos([ESCAPESPACE],-2,R)[PARAMSPLIT]RegPos([ESCAPESPACE],-1,L)
+city:RegPos([ESCAPESPACE],-1,R)[PARAMSPLIT]AbsPos(None)
+[ITEM]
+Welfengarten 1, 30167 Hannover
+street:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPESPACE],-3,L)
+house_number:RegPos([ESCAPESPACE],-3,R)[PARAMSPLIT]RegPos([ESCAPECOMMA],0,L)
+zip_code:RegPos([ESCAPESPACE],-2,R)[PARAMSPLIT]RegPos([ESCAPESPACE],-1,L)
+city:RegPos([ESCAPESPACE],-1,R)[PARAMSPLIT]AbsPos(None)
+[ITEM]
+Het Eeuwsel 53, 5612 AZ Eindhoven
+street:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPESPACE],-4,L)
+house_number:RegPos([ESCAPENUMBER],0,L)[PARAMSPLIT]RegPos([ESCAPECOMMA],0,L)
+zip_code:RegPos([ESCAPESPACE],-3,R)[PARAMSPLIT]RegPos([ESCAPESPACE],-1,L)
+city:RegPos([ESCAPESPACE],-1,R)[PARAMSPLIT]AbsPos(None)
+[ITEM]
+77 Massachusetts Avenue, Cambridge, MA 02139, USA
+house_number:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPENUMBER],0,R)
+street:RegPos([ESCAPESPACE],0,R)[PARAMSPLIT]RegPos([ESCAPECOMMA],0,L)
+zip_code:RegPos([ESCAPENUMBER],-1,R)[PARAMSPLIT]RegPos([ESCAPENUMBER],-1,R)
+city:RegPos([ESCAPESPACE],-3,R)[PARAMSPLIT]RegPos([ESCAPESPACE],-2,L)
+country:RegPos([ESCAPEWORD],-1,L)[PARAMSPLIT]AbsPos(None)
+[ITEM]
+3356 Kraus Rd, Roberts Creek, BC V0N 2W2, Canada
+house_number:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPENUMBER],0,R)
+street:RegPos([ESCAPESPACE],0,R)[PARAMSPLIT]RegPos([ESCAPECOMMA],0,L)
+zip_code:RegPos([ESCAPESPACE],-3,R)[PARAMSPLIT]RegPos([ESCAPECOMMA],-1,L)
+city:RegPos([ESCAPESPACE],-6,R)[PARAMSPLIT]RegPos([ESCAPECOMMA],1,L)
+country:RegPos([ESCAPEWORD],-1,L)[PARAMSPLIT]AbsPos(None)
+[ITEM]
+5 Chipping Norton Rd, Chadlington, Chipping Norton OX7 3PE, United Kingdom
+house_number:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPENUMBER],0,R)
+street:RegPos([ESCAPESPACE],0,R)[PARAMSPLIT]RegPos([ESCAPECOMMA],0,L)
+city:RegPos([ESCAPESPACE],4,R)[PARAMSPLIT]RegPos([ESCAPECOMMA],1,L)
+zip_code:RegPos([ESCAPESPACE],-4,R)[PARAMSPLIT]RegPos([ESCAPECOMMA],-1,L)
+country:RegPos([ESCAPESPACE],-2,R)[PARAMSPLIT]AbsPos(None)
+[ITEM]
+Pl. del Pte., 3, 47003 Valladolid, Spain
+street:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPECOMMA],0,L)
+house_number:RegPos([ESCAPESPACE],-4,R)[PARAMSPLIT]RegPos([ESCAPECOMMA],1,L)
+zip_code:RegPos([ESCAPESPACE],-3,R)[PARAMSPLIT]RegPos([ESCAPESPACE],-2,L)
+city:RegPos([ESCAPESPACE],-2,R)[PARAMSPLIT]RegPos([ESCAPECOMMA],-1,L)
+country:RegPos([ESCAPEWORD],-1,L)[PARAMSPLIT]AbsPos(None)
+[ITEM]
+Via Castello di Verrazzano, 1, 50022 Greve in Chianti FI
+street:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPECOMMA],0,L)
+house_number:RegPos([ESCAPENUMBER],0,L)[PARAMSPLIT]RegPos([ESCAPECOMMA],1,L)
+zip_code:RegPos([ESCAPENUMBER],-1,L)[PARAMSPLIT]RegPos([ESCAPENUMBER],-1,R)
+city:RegPos([ESCAPESPACE],-4,R)[PARAMSPLIT]AbsPos(None)
+[ITEM]
+Av. D., Joao II, 1900-233, Lisboa
+street:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPECOMMA],0,L)
+house_number:RegPos([ESCAPENUMBER],0,L)[PARAMSPLIT]RegPos([ESCAPECOMMA],1,R)
+city:RegPos([ESCAPESPACE],-1,R)[PARAMSPLIT]AbsPos(None)
+[ITEM]
+R. da Firmeza 138, 4000-225 Porto, Portugal
+street:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPESPACE],2,L)
+house_number:RegPos([ESCAPENUMBER],0,L)[PARAMSPLIT]RegPos([ESCAPECOMMA],0,R)
+zip_code:RegPos([ESCAPENUMBER],-2,L)[PARAMSPLIT]RegPos([ESCAPENUMBER],-1,R)
+city:RegPos([ESCAPESPACE],-2,R)[PARAMSPLIT]RegPos([ESCAPECOMMA],-1,L)
+country:RegPos([ESCAPESPACE],-1,R)[PARAMSPLIT]AbsPos(None)
+[ITEM]
+Rua do Choupelo, 39, 4400-088 Vila Nova de Gaia
+street:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPECOMMA],0,L)
+house_number:RegPos([ESCAPENUMBER],0,L)[PARAMSPLIT]RegPos([ESCAPECOMMA],1,L)
+zip_code:RegPos([ESCAPENUMBER],-2,L)[PARAMSPLIT]RegPos([ESCAPENUMBER],-1,R)
+city:RegPos([ESCAPESPACE],-4,R)[PARAMSPLIT]AbsPos(None)
+[ITEM]
+C. Alba de Tormes, 2, 37188 Carbajosa de la Sagrada, Salamanca, Spain
+street:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPECOMMA],0,L)
+house_number:RegPos([ESCAPENUMBER],0,L)[PARAMSPLIT]RegPos([ESCAPECOMMA],1,L)
+zip_code:RegPos([ESCAPENUMBER],-1,L)[PARAMSPLIT]RegPos([ESCAPENUMBER],-1,R)
+[ITEM]
+Avda. del Cid, 2 bis, 09005 Burgos, Spain
+house_number:RegPos([ESCAPENUMBER],0,L)[PARAMSPLIT]RegPos([ESCAPECOMMA],1,L)
+street:RegPos([ESCAPESPACE],0,R)[PARAMSPLIT]RegPos([ESCAPECOMMA],0,L)
+city:RegPos([ESCAPESPACE],-5,R)[PARAMSPLIT]RegPos([ESCAPECOMMA],-2,L)
+state:RegPos([ESCAPESPACE],-4,R)[PARAMSPLIT]RegPos([ESCAPESPACE],-3,L)
+zip_code:RegPos([ESCAPESPACE],-3,R)[PARAMSPLIT]RegPos([ESCAPECOMMA],-1,L)
+country:RegPos([ESCAPESPACE],-1,R)[PARAMSPLIT]AbsPos(None)
+[ITEM]
+Piazzale Aldo Moro, 5, 00185 Roma, Italy
+house_number:RegPos([ESCAPENUMBER],0,L)[PARAMSPLIT]RegPos([ESCAPENUMBER],0,R)
+street:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPECOMMA],0,L)
+city:RegPos([ESCAPESPACE],-5,R)[PARAMSPLIT]RegPos([ESCAPECOMMA],-2,L)
+state:RegPos([ESCAPESPACE],-4,R)[PARAMSPLIT]RegPos([ESCAPESPACE],-3,L)
+zip_code:RegPos([ESCAPESPACE],-3,R)[PARAMSPLIT]RegPos([ESCAPECOMMA],-1,L)
+country:RegPos([ESCAPESPACE],-1,R)[PARAMSPLIT]AbsPos(None)
+[ITEM]
+Calle Ote., 5, 37187 Aldeatejada, Salamanca, Spain
+street:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPECOMMA],0,L)
+house_number:RegPos([ESCAPENUMBER],0,L)[PARAMSPLIT]RegPos([ESCAPECOMMA],1,L)
+zip_code:RegPos([ESCAPENUMBER],-1,L)[PARAMSPLIT]RegPos([ESCAPENUMBER],-1,R)
+city:RegPos([ESCAPESPACE],-3,R)[PARAMSPLIT]RegPos([ESCAPECOMMA],-2,L)
+state:RegPos([ESCAPESPACE],-2,R)[PARAMSPLIT]RegPos([ESCAPECOMMA],-1,L)
+country:RegPos([ESCAPESPACE],-1,R)[PARAMSPLIT]AbsPos(None)
+[ITEM]
+Av. Dom Carlos I, 17-25, 1200-000 Lisboa, Portugal
+street:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPECOMMA],0,L)
+house_number:RegPos([ESCAPENUMBER],0,L)[PARAMSPLIT]RegPos([ESCAPECOMMA],1,L)
+zip_code:RegPos([ESCAPENUMBER],-2,L)[PARAMSPLIT]RegPos([ESCAPENUMBER],-1,R)
+city:RegPos([ESCAPESPACE],-2,R)[PARAMSPLIT]RegPos([ESCAPECOMMA],-1,L)
+country:RegPos([ESCAPESPACE],-1,R)[PARAMSPLIT]AbsPos(None)
+[ITEM]
+Sternbuschweg 52
+street:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPESPACE],-1,L)
+house_number:RegPos([ESCAPESPACE],-1,R)[PARAMSPLIT]AbsPos(None)

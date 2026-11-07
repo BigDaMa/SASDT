@@ -5,16 +5,11 @@ openaiapi.txt
 novitaapi.txt
 
 # Experiment inputs, generated features, caches, models, and results.
-data/
-data_*/
 truth/
 truth_*/
 data_feature/
 cache/
-results/
 model/
-result*.txt
-resreport.txt
 *.zip
 
 # Python environments, packaging output, and caches.

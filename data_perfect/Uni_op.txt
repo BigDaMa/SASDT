@@ -1,0 +1,53 @@
+University of Pennsylvania, Philadelphia, Pennsylvania, USA
+university:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPECOMMA],0,L)
+city:RegPos([ESCAPESPACE],-3,R)[PARAMSPLIT]RegPos([ESCAPECOMMA],-2,L)
+state:RegPos([ESCAPESPACE],-2,R)[PARAMSPLIT]RegPos([ESCAPECOMMA],-1,L)
+country:RegPos([ESCAPESPACE],-1,R)[PARAMSPLIT]AbsPos(None)
+[ITEM]
+Massachusetts Institute of Technology, Cambridge, Massachusetts, USA
+university:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPECOMMA],0,L)
+city:RegPos([ESCAPESPACE],-3,R)[PARAMSPLIT]RegPos([ESCAPECOMMA],-2,L)
+state:RegPos([ESCAPESPACE],-2,R)[PARAMSPLIT]RegPos([ESCAPECOMMA],-1,L)
+country:RegPos([ESCAPESPACE],-1,R)[PARAMSPLIT]AbsPos(None)
+[ITEM]
+UC Berkeley, Berkeley, California, USA
+university:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPECOMMA],0,L)
+city:RegPos([ESCAPESPACE],-3,R)[PARAMSPLIT]RegPos([ESCAPECOMMA],-2,L)
+state:RegPos([ESCAPESPACE],-2,R)[PARAMSPLIT]RegPos([ESCAPECOMMA],-1,L)
+country:RegPos([ESCAPESPACE],-1,R)[PARAMSPLIT]AbsPos(None)
+[ITEM]
+Duke University, Durham, North Carolina, USA
+university:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPECOMMA],0,L)
+city:RegPos([ESCAPESPACE],-4,R)[PARAMSPLIT]RegPos([ESCAPECOMMA],-2,L)
+state:RegPos([ESCAPESPACE],-3,R)[PARAMSPLIT]RegPos([ESCAPECOMMA],-1,L)
+country:RegPos([ESCAPESPACE],-1,R)[PARAMSPLIT]AbsPos(None)
+[ITEM]
+Ithaca, Cornell University, USA
+city:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPECOMMA],0,L)
+university:RegPos([ESCAPESPACE],0,R)[PARAMSPLIT]RegPos([ESCAPECOMMA],-1,L)
+country:RegPos([ESCAPESPACE],-1,R)[PARAMSPLIT]AbsPos(None)
+[ITEM]
+China, Beijing, Tsinghua University
+country:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPECOMMA],0,L)
+city:RegPos([ESCAPESPACE],0,R)[PARAMSPLIT]RegPos([ESCAPECOMMA],-1,L)
+university:RegPos([ESCAPESPACE],1,R)[PARAMSPLIT]AbsPos(None)
+[ITEM]
+University of Tokyo, Tokyo, Japan
+university:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPECOMMA],0,L)
+city:RegPos([ESCAPESPACE],-2,R)[PARAMSPLIT]RegPos([ESCAPECOMMA],-1,L)
+country:RegPos([ESCAPESPACE],-1,R)[PARAMSPLIT]AbsPos(None)
+[ITEM]
+Imperial College London, London, United Kingdom
+university:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPECOMMA],0,L)
+city:RegPos([ESCAPESPACE],-3,R)[PARAMSPLIT]RegPos([ESCAPECOMMA],-1,L)
+country:RegPos([ESCAPESPACE],-2,R)[PARAMSPLIT]AbsPos(None)
+[ITEM]
+Hokaido, Sapporo, Hokkaido University, Japan
+state:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPECOMMA],0,L)
+city:RegPos([ESCAPESPACE],0,R)[PARAMSPLIT]RegPos([ESCAPECOMMA],1,L)
+university:RegPos([ESCAPESPACE],1,R)[PARAMSPLIT]RegPos([ESCAPECOMMA],-1,L)
+country:RegPos([ESCAPESPACE],-1,R)[PARAMSPLIT]AbsPos(None)
+[ITEM]
+University of Pennsylvania in Philadelphia
+university:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPESPACE],-2,L)
+city:RegPos([ESCAPESPACE],-1,R)[PARAMSPLIT]AbsPos(None)

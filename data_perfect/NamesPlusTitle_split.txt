@@ -1,0 +1,225 @@
+Albert Einstein
+given_name:Albert
+family_name:Einstein
+[ITEM]
+Yukawa Hideki
+given_name:Hideki
+family_name:Yukawa
+[ITEM]
+Richard Phillips Feynman
+given_name:Richard
+middle_name:Phillips
+family_name:Feynman
+[ITEM]
+Stephen Hawking
+given_name:Stephen
+family_name:Hawking
+[ITEM]
+Yang Zhenning
+family_name:Yang
+given_name:Zhenning
+[ITEM]
+Mayim Bialik
+given_name:Mayim
+family_name:Bialik
+[ITEM]
+Tsungdao Lee
+given_name:Tsungdao
+family_name:Lee
+[ITEM]
+Dorothy Hodgkin
+given_name:Dorothy
+family_name:Hodgkin
+[ITEM]
+Julius Robert Oppenheimer
+given_name:Julius
+middle_name:Robert
+family_name:Oppenheimer
+[ITEM]
+Wang Ganchang
+family_name:Wang
+given_name:Ganchang
+[ITEM]
+Marie Curie
+given_name:Marie
+family_name:Curie
+[ITEM]
+David Baltimore
+given_name:David
+family_name:Baltimore
+[ITEM]
+Kajita Takaaki
+family_name:Kajita
+given_name:Takaaki
+[ITEM]
+Koshiba Masatoshi
+family_name:Koshiba
+given_name:Masatoshi
+[ITEM]
+Yousef Sobouti
+given_name:Yousef
+family_name:Sobouti
+[ITEM]
+Samuel Ting
+given_name:Samuel
+family_name:Ting
+[ITEM]
+Philip William Higgs
+given_name:Philip
+middle_name:William
+family_name:Higgs
+[ITEM]
+Walter Kohn
+given_name:Walter
+family_name:Kohn
+[ITEM]
+Nakamura Shuji
+family_name:Nakamura
+given_name:Shuji
+[ITEM]
+Robert Koch
+given_name:Robert
+family_name:Koch
+[ITEM]
+Donald Arthur Glaser
+given_name:Donald
+middle_name:Arthur
+family_name:Glaser
+[ITEM]
+Kobayashi Makoto
+family_name:Kobayashi
+given_name:Makoto
+[ITEM]
+Steven Weinberg
+given_name:Steven
+family_name:Weinberg
+[ITEM]
+Amano Hiroshi
+family_name:Amano
+given_name:Hiroshi
+[ITEM]
+Konstantin Novoselov
+given_name:Konstantin
+family_name:Novoselov
+[ITEM]
+Martin Karplus
+given_name:Martin
+family_name:Karplus
+[ITEM]
+Fukui Kenichi
+family_name:Fukui
+given_name:Kenichi
+[ITEM]
+Enrico Fermi
+given_name:Enrico
+family_name:Fermi
+[ITEM]
+Wu Chienshiung
+family_name:Wu
+given_name:Chienshiung
+[ITEM]
+Niels Bohr
+given_name:Niels
+family_name:Bohr
+[ITEM]
+Richard Axel
+given_name:Richard
+family_name:Axel
+[ITEM]
+Andrew Fielding Huxley
+given_name:Andrew
+middle_name:Fielding
+family_name:Huxley
+[ITEM]
+Masukawa Toshihide
+family_name:Masukawa
+given_name:Toshihide
+[ITEM]
+Akasaki Isamu
+family_name:Akasaki
+given_name:Isamu
+[ITEM]
+Har Gobind Khorana
+given_name:Har
+middle_name:Gobind
+family_name:Khorana
+[ITEM]
+Edgar Codd
+given_name:Edgar
+family_name:Codd
+[ITEM]
+Edsger Dijkstra
+given_name:Edsger
+family_name:Dijkstra
+[ITEM]
+Li Kai
+family_name:Li
+given_name:Kai
+[ITEM]
+Li Sanli
+family_name:Li
+given_name:Sanli
+[ITEM]
+Syed Ahson
+given_name:Syed
+family_name:Ahson
+[ITEM]
+Dr. Einstein
+family_name:Einstein
+[ITEM]
+Dr. Yukawa
+family_name:Yukawa
+[ITEM]
+Dr. Feynman
+family_name:Feynman
+[ITEM]
+Dr. Hawking
+family_name:Hawking
+[ITEM]
+Dr. Yang
+family_name:Yang
+[ITEM]
+Dr. Codd
+title:Dr.
+family_name:Codd
+[ITEM]
+Dr. Oppenheimer
+title:Dr.
+family_name:Oppenheimer
+[ITEM]
+Dr. Masukawa
+title:Dr.
+family_name:Masukawa
+[ITEM]
+Dr. Koch
+title:Dr.
+family_name:Koch
+[ITEM]
+Dr. Koshiba
+title:Dr.
+family_name:Koshiba
+[ITEM]
+Dr. Kobayashi
+title:Dr.
+family_name:Kobayashi
+[ITEM]
+Dr. Wu
+title:Dr.
+family_name:Wu
+[ITEM]
+Dr. Ting
+title:Dr.
+family_name:Ting
+[ITEM]
+Dr. Bohr
+title:Dr.
+family_name:Bohr
+[ITEM]
+Dr. Nakamura
+title:Dr.
+family_name:Nakamura
+[ITEM]
+Dr. Weinberg
+title:Dr.
+family_name:Weinberg
+[ITEM]

@@ -1,0 +1,16 @@
+04/03/2023 T13:25
+month:AbsPos(0)[PARAMSPLIT]AbsPos(2)
+day:AbsPos(3)[PARAMSPLIT]AbsPos(5)
+year:AbsPos(6)[PARAMSPLIT]AbsPos(10)
+hour:AbsPos(-5)[PARAMSPLIT]AbsPos(-3)
+minute:AbsPos(-2)[PARAMSPLIT]AbsPos(None)
+[ITEM]
+20.07.1944
+day:AbsPos(0)[PARAMSPLIT]AbsPos(2)
+month:AbsPos(3)[PARAMSPLIT]AbsPos(5)
+year:AbsPos(6)[PARAMSPLIT]AbsPos(10)
+[ITEM]
+01.03.2003
+day:AbsPos(0)[PARAMSPLIT]AbsPos(2)
+month:AbsPos(3)[PARAMSPLIT]AbsPos(5)
+year:AbsPos(6)[PARAMSPLIT]AbsPos(10)

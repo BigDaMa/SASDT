@@ -1,0 +1,62 @@
+University of Pennsylvania, Philadelphia, Pennsylvania, USA
+Massachusetts Institute of Technology, Cambridge, Massachusetts, USA
+UC Berkeley, Berkeley, California, USA
+Stanford University, Stanford, California, USA
+Harvard University, Cambridge, Massachusetts, USA
+Caltech, Pasadena, California, USA
+Drexel University, Philadelphia, Pennsylvania, USA
+Johns Hopkins University, Baltimore, Maryland, USA
+Carnegie Mellon University, Pittsburgh, Pennsylvania, USA
+[ITEM]
+Duke University, Durham, North Carolina, USA
+Princeton University, Princeton, New Jersey, USA
+[ITEM]
+Ithaca, Cornell University, USA
+Houston, Rice University, USA
+Paris, Sorbonne University, France
+Beijing, Peking University, China
+Edinburgh, University of Edinburgh, United Kingdom
+Hongkong, University of Hongkong, China
+Canberra, Australian National University, Australia
+Delft, Delft University of Technology, Netherlands
+Montreal, McGill University, Canada
+Lausanne, EPFL, Switzerland
+Jakarta, University of Indonesia, Indonesia
+Seoul, Seoul National University, South Korea
+Sendai, Tohoku University, Japan
+Tokyo, Waseda University, Japan
+Toronto, University of Toronto, Canada
+Leipzig, Leipzig University, Germany
+Osaka, Osaka University, Japan
+Manchester, University of Manchester, United Kingdom
+[ITEM]
+China, Beijing, Tsinghua University
+Germany, Berlin, Humboldt University of Berlin
+China, Shanghai, Fudan University
+Uganda, Kampala, Makerere University
+Czechia, Prague, Charles University
+China, Nanjing, Nanjing University
+China, Shanghai, Tongji University
+China, Tianjin, Nankai University
+[ITEM]
+University of Tokyo, Tokyo, Japan
+[ITEM]
+Imperial College London, London, United Kingdom
+[ITEM]
+Hokaido, Sapporo, Hokkaido University, Japan
+[ITEM]
+University of Pennsylvania in Philadelphia
+Cornell University in Ithaca
+Massachusetts Institute of Technology in Cambridge
+Tsinghua University in Beijing
+UC Berkeley in Berkeley
+Makerere University in Kampala
+Charles University in Prague
+Leipzig University in Leipzig
+Princeton University in Princeton
+Stanford University in Stanford
+Peking University in Beijing
+Harvard University in Cambridge
+Humboldt University of Berlin in Berlin
+University of Edinburgh in Edinburgh
+University of Toronto in Toronto

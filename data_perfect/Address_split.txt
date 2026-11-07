@@ -1,0 +1,460 @@
+Sternbuschweg 52, 47057 Duisburg
+street:Sternbuschweg
+house_number:52
+zip_code:47057
+city:Duisburg
+[ITEM]
+Bd de la Plaine 2, 1050 Ixelles
+street:Bd de la Plaine
+house_number:2
+zip_code:1050
+city:Ixelles
+[ITEM]
+Karolinenplatz 5, 64289 Darmstadt
+street:Karolinenplatz
+house_number:5
+zip_code:64289
+city:Darmstadt
+[ITEM]
+77 Massachusetts Avenue, Cambridge, MA 02139, USA
+house_number:77
+street:Massachusetts Avenue
+city:Cambridge
+zip_code:MA 02139
+country:USA
+[ITEM]
+Europaplatz 1, 10557 Berlin
+street:Europaplatz
+house_number:1
+zip_code:10557
+city:Berlin
+[ITEM]
+Welfengarten 1, 30167 Hannover
+street:Welfengarten
+house_number:1
+zip_code:30167
+city:Hannover
+[ITEM]
+88 Altona St, Kensington, VIC 3031, Australia
+house_number:88
+street:Altona St
+city:Kensington
+zip_code:VIC 3031
+country:Australia
+[ITEM]
+Pl. del Pte., 3, 47003 Valladolid, Spain
+street:Pl. del Pte.
+house_number:3
+zip_code:47003
+city:Valladolid
+country:Spain
+[ITEM]
+C. Alba de Tormes, 2, 37188 Carbajosa de la Sagrada, Salamanca, Spain
+street:C. Alba de Tormes
+house_number:2
+zip_code:37188
+city:Carbajosa de la Sagrada
+country:Spain
+[ITEM]
+Kaiserstr 10, 47051 Duisburg
+street:Kaiserstr
+house_number:10
+zip_code:47051
+city:Duisburg
+[ITEM]
+333 Biscayne Boulevard Way, Miami, Florida 33131, USA
+house_number:333
+street:Biscayne Boulevard Way
+city:Miami
+zip_code:Florida 33131
+country:USA
+[ITEM]
+2331 Broadway, Sacramento, CA 95818, USA
+house_number:2331
+street:Broadway
+city:Sacramento
+zip_code:CA 95818
+country:USA
+[ITEM]
+Av. Complutense, s/n, 28040 Madrid, Spain
+street:Av. Complutense
+house_number:s/n
+zip_code:28040
+city:Madrid
+[ITEM]
+Hallerstr 25, 30161 Hannover
+street:Hallerstr
+house_number:25
+zip_code:30161
+city:Hannover
+[ITEM]
+201 W Center St, Rochester, MN 55902, USA
+house_number:201
+street:W Center St
+city:Rochester
+zip_code:MN 55902
+country:USA
+[ITEM]
+Via Castello di Verrazzano, 1, 50022 Greve in Chianti FI
+street:Via Castello di Verrazzano
+house_number:1
+zip_code:50022
+city:Greve in Chianti FI
+[ITEM]
+Het Eeuwsel 53, 5612 AZ Eindhoven
+street:Het Eeuwsel
+house_number:53
+zip_code:5612 AZ
+city:Eindhoven
+[ITEM]
+Mathenesserlaan 145, 3015 CJ Rotterdam
+street:Mathenesserlaan
+house_number:145
+zip_code:3015 CJ
+city:Rotterdam
+[ITEM]
+3356 Kraus Rd, Roberts Creek, BC V0N 2W2, Canada
+house_number:3356
+street:Kraus Rd
+city:Roberts Creek
+zip_code:BC V0N 2W2
+country:Canada
+[ITEM]
+Pl. du Vingt Aout 7, 4000 Liege
+street:Pl. du Vingt Aout
+house_number:7
+zip_code:4000
+city:Liege
+[ITEM]
+555 Great Northern Wy, Vancouver, BC V5T 1E1, Canada
+house_number:555
+street:Great Northern Wy
+city:Vancouver
+zip_code:BC V5T 1E1
+country:Canada
+[ITEM]
+Avda. del Cid, 2 bis, 09005 Burgos, Spain
+street:Avda. del Cid
+house_number:2 bis
+zip_code:09005
+city:Burgos
+country:Spain
+[ITEM]
+Geschwister-Scholl-Platz 1, 80539 Munich
+street:Geschwister-Scholl-Platz
+house_number:1
+zip_code:80539
+city:Munich
+[ITEM]
+141 Goodwood Rd, Goodwood, SA 5034, Australia
+house_number:141
+street:Goodwood Rd
+city:Goodwood
+zip_code:SA 5034
+country:Australia
+[ITEM]
+Av. Vizcaya, 8, 26200 Haro, La Rioja
+street:Av. Vizcaya
+house_number:8
+zip_code:26200
+city:Haro
+country:La Rioja
+[ITEM]
+33 Milligan St, Perth, WA 6000, Australia
+house_number:33
+street:Milligan St
+city:Perth
+zip_code:WA 6000
+country:Australia
+[ITEM]
+9 Hertford St, London, W1J 7RJ, United Kingdom
+house_number:9
+street:Hertford St
+city:London
+zip_code:W1J 7RJ
+country:United Kingdom
+[ITEM]
+Via Festa del Perdono, 7, 20122 Milano
+street:Via Festa del Perdono
+house_number:7
+zip_code:20122
+city:Milano
+[ITEM]
+Boompjes 40, 3011 XB Rotterdam
+street:Boompjes
+house_number:40
+zip_code:3011 XB
+city:Rotterdam
+[ITEM]
+910 Victoria Ave, Saskatoon, SK S7N 0Z6, Canada
+house_number:910
+street:Victoria Ave
+city:Saskatoon
+zip_code:SK S7N 0Z6
+country:Canada
+[ITEM]
+Calle Ote., 5, 37187 Aldeatejada, Salamanca, Spain
+street:Calle Ote.
+house_number:5
+zip_code:37187
+city:Aldeatejada
+country:Spain
+[ITEM]
+Av. Dom Carlos I, 17-25, 1200-000 Lisboa, Portugal
+street:Av. Dom Carlos I
+house_number:17-25
+zip_code:1200-000
+city:Lisboa
+country:Portugal
+[ITEM]
+Rambla de Mar, s/n, 08039 Barcelona, Spain
+street:Rambla de Mar
+house_number:s/n
+zip_code:08039
+city:Barcelona
+country:Spain
+[ITEM]
+Piazzale Aldo Moro, 5, 00185 Roma, Italy
+street:Piazzale Aldo Moro
+house_number:5
+zip_code:00185
+city:Roma
+country:Italy
+[ITEM]
+Universiteitstraat 4, 9000 Gent
+street:Universiteitstraat
+house_number:4
+zip_code:9000
+city:Gent
+[ITEM]
+34 Windmill Rd, Moneymore, Drogheda, Co. Louth A92 AYH7, Ireland
+house_number:34
+street:Windmill Rd
+city:Moneymore
+zip_code:Co. Louth A92 AYH7
+country:Ireland
+[ITEM]
+Burgemeester Tellegenstraat 128, 1073 KG Amsterdam
+street:Burgemeester Tellegenstraat
+house_number:128
+zip_code:1073 KG
+city:Amsterdam
+[ITEM]
+Carrer de Sant Pau, 99, Ciutat Vella, 08001 Barcelona, Spain
+street:Carrer de Sant Pau
+house_number:99
+zip_code:08001
+city:Barcelona
+country:Spain
+[ITEM]
+Piazza del Duomo, 1, 50122 Firenze, Italy
+street:Piazza del Duomo
+house_number:1
+zip_code:50122
+city:Firenze
+country:Italy
+[ITEM]
+5 Chipping Norton Rd, Chadlington, Chipping Norton OX7 3PE, United Kingdom
+house_number:5
+street:Chipping Norton Rd
+city:Chadlington
+zip_code:Chipping Norton OX7 3PE
+country:United Kingdom
+[ITEM]
+Rue Joseph II 32, 1000 Bruxelles
+street:Rue Joseph II
+house_number:32
+zip_code:1000
+city:Bruxelles
+[ITEM]
+Forsthausweg 2, 47057 Duisburg
+street:Forsthausweg
+house_number:2
+zip_code:47057
+city:Duisburg
+[ITEM]
+827 Lansdowne Ave, Toronto, ON M6H 3Z2, Canada
+house_number:827
+street:Lansdowne Ave
+city:Toronto
+zip_code:ON M6H 3Z2
+country:Canada
+[ITEM]
+Ernst-Reuter-Platz 8, 10611 Berlin
+street:Ernst-Reuter-Platz
+house_number:8
+zip_code:10611
+city:Berlin
+[ITEM]
+Av. D., Joao II, 1900-233, Lisboa
+street:Av. D., Joao II
+zip_code:1900-233
+city:Lisboa
+[ITEM]
+R. da Firmeza 138, 4000-225 Porto, Portugal
+street:R. da Firmeza
+house_number:138
+zip_code:4000-225
+city:Porto
+country:Portugal
+[ITEM]
+1 William St, Darlinghurst, NSW 2010, Australia
+house_number:1
+street:William St
+city:Darlinghurst
+zip_code:NSW 2010
+country:Australia
+[ITEM]
+Viale Europa, 22, 00122 Roma RM
+street:Viale Europa
+house_number:22
+zip_code:00122
+city:Roma RM
+[ITEM]
+350 Trolley Line Blvd, Mashantucket, Connecticut 06338, USA
+house_number:350
+street:Trolley Line Blvd
+city:Mashantucket
+zip_code:Connecticut 06338
+country:USA
+[ITEM]
+Hirschengraben 49, 6003 Luzern
+street:Hirschengraben
+house_number:49
+zip_code:6003
+city:Luzern
+[ITEM]
+6 Western Ave, Perth, PH1 1NY, United Kingdom
+house_number:6
+street:Western Ave
+city:Perth
+zip_code:PH1 1NY
+country:United Kingdom
+[ITEM]
+Rua do Choupelo, 39, 4400-088 Vila Nova de Gaia
+street:Rua do Choupelo
+house_number:39
+zip_code:4400-088
+city:Vila Nova de Gaia
+[ITEM]
+C. de Embajadores, 138, Arganzuela, 28045 Madrid, Spain
+street:C. de Embajadores
+house_number:138
+zip_code:28045
+city:Madrid
+country:Spain
+[ITEM]
+Charitepl. 1, 10117 Berlin
+street:Charitepl.
+house_number:1
+zip_code:10117
+city:Berlin
+[ITEM]
+5 Albatross Ct, Yellowknife, NT X1A 1Y7, Canada
+house_number:5
+street:Albatross Ct
+city:Yellowknife
+zip_code:NT X1A 1Y7
+country:Canada
+[ITEM]
+8 Bride St, Dublin, D08 Y2AY, Ireland
+house_number:8
+street:Bride St
+city:Dublin
+zip_code:D08 Y2AY
+country:Ireland
+[ITEM]
+Rua do Quelhas, 6, 1200-781 Lisbon
+street:Rua do Quelhas
+house_number:6
+zip_code:1200-781
+city:Lisbon
+[ITEM]
+Drienerlolaan 5, 7522 NB Enschede
+street:Drienerlolaan
+house_number:5
+zip_code:7522 NB
+city:Enschede
+[ITEM]
+C. Castillo, 1, 45460 Manzaneque, Toledo, Spain
+street:C. Castillo
+house_number:1
+zip_code:45460
+city:Toledo
+country:Spain
+[ITEM]
+1600 Pennsylvania Ave, Washington DC 20500, USA
+house_number:1600
+street:Pennsylvania Ave
+city:Washington DC
+zip_code:20500
+country:USA
+[ITEM]
+Sternbuschweg 52
+street:Sternbuschweg
+house_number:52
+[ITEM]
+Bd de la Plaine 2
+street:Bd de la Plaine
+house_number:2
+[ITEM]
+Karolinenplatz 5
+street:Karolinenplatz
+house_number:5
+[ITEM]
+Massachusetts Avenue 77
+street:Massachusetts Avenue
+house_number:77
+[ITEM]
+Europaplatz 1
+street:Europaplatz
+house_number:1
+[ITEM]
+Hallerstr 25
+street:Hallerstr
+house_number:25
+[ITEM]
+C. Alba de Tormes 2
+street:C. Alba de Tormes
+house_number:2
+[ITEM]
+Trolley Line Blvd 350
+street:Trolley Line Blvd
+house_number:350
+[ITEM]
+Rua do Choupelo 39
+street:Rua do Choupelo
+house_number:39
+[ITEM]
+Chipping Norton Rd 5
+street:Chipping Norton Rd
+house_number:5
+[ITEM]
+Hirschengraben 49
+street:Hirschengraben
+house_number:49
+[ITEM]
+Ernst-Reuter-Platz 8
+street:Ernst-Reuter-Platz
+house_number:8
+[ITEM]
+Biscayne Boulevard Way 333
+street:Biscayne Boulevard Way
+house_number:333
+[ITEM]
+Via Castello di Verrazzano 1
+street:Via Castello di Verrazzano
+house_number:1
+[ITEM]
+Broadway 2331
+street:Broadway
+house_number:2331
+[ITEM]
+Burgemeester Tellegenstraat 128
+street:Burgemeester Tellegenstraat
+house_number:128
+[ITEM]
+Rua do Quelhas 6
+street:Rua do Quelhas
+house_number:6
+[ITEM]

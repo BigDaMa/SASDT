@@ -1,0 +1,23 @@
+Valentine Day in 2024
+festival:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPESPACE],-2,L)
+year:RegPos([ESCAPESPACE],-1,R)[PARAMSPLIT]AbsPos(None)
+[ITEM]
+Halloween in 2023
+festival:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPESPACE],-2,L)
+year:RegPos([ESCAPESPACE],-1,R)[PARAMSPLIT]AbsPos(None)
+[ITEM]
+2019 Thanksgiving Day
+year:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPESPACE],0,L)
+festival:RegPos([ESCAPESPACE],0,R)[PARAMSPLIT]AbsPos(None)
+[ITEM]
+1995 Dragon Boat Festival
+year:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPESPACE],0,L)
+festival:RegPos([ESCAPESPACE],0,R)[PARAMSPLIT]AbsPos(None)
+[ITEM]
+2019 Songkran Festival
+year:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPESPACE],0,L)
+festival:RegPos([ESCAPESPACE],0,R)[PARAMSPLIT]AbsPos(None)
+[ITEM]
+2024, Valentine Day
+year:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPECOMMA],0,L)
+festival:RegPos([ESCAPESPACE],0,R)[PARAMSPLIT]AbsPos(None)

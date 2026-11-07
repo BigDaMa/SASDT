@@ -1,0 +1,39 @@
+twitter xie kun
+organization:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPESPACE],0,L)
+last_name:RegPos([ESCAPESPACE],0,R)[PARAMSPLIT]RegPos([ESCAPESPACE],-1,L)
+first_name:RegPos([ESCAPESPACE],-1,R)[PARAMSPLIT]AbsPos(None)
+[ITEM]
+pamela hussain mastercard
+first_name:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPESPACE],0,L)
+last_name:RegPos([ESCAPESPACE],0,R)[PARAMSPLIT]RegPos([ESCAPESPACE],-1,L)
+organization:RegPos([ESCAPESPACE],-1,R)[PARAMSPLIT]AbsPos(None)
+[ITEM]
+ruth griffiths unitedhealth
+first_name:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPESPACE],0,L)
+last_name:RegPos([ESCAPESPACE],0,R)[PARAMSPLIT]RegPos([ESCAPESPACE],-1,L)
+organization:RegPos([ESCAPESPACE],-1,R)[PARAMSPLIT]AbsPos(None)
+[ITEM]
+yoo minseok siemens
+last_name:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPESPACE],0,L)
+first_name:RegPos([ESCAPESPACE],0,R)[PARAMSPLIT]RegPos([ESCAPESPACE],-1,L)
+organization:RegPos([ESCAPESPACE],-1,R)[PARAMSPLIT]AbsPos(None)
+[ITEM]
+saudi aramco ishikawa ayaka
+organization:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPESPACE],1,L)
+last_name:RegPos([ESCAPESPACE],1,R)[PARAMSPLIT]RegPos([ESCAPESPACE],-1,L)
+first_name:RegPos([ESCAPESPACE],-1,R)[PARAMSPLIT]AbsPos(None)
+[ITEM]
+paypal angela ali
+organization:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPESPACE],0,L)
+first_name:RegPos([ESCAPESPACE],0,R)[PARAMSPLIT]RegPos([ESCAPESPACE],-1,L)
+last_name:RegPos([ESCAPESPACE],-1,R)[PARAMSPLIT]AbsPos(None)
+[ITEM]
+hannah webb deutsche bank
+first_name:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPESPACE],0,L)
+last_name:RegPos([ESCAPESPACE],0,R)[PARAMSPLIT]RegPos([ESCAPESPACE],1,L)
+organization:RegPos([ESCAPESPACE],1,R)[PARAMSPLIT]AbsPos(None)
+[ITEM]
+xie.kun@twitter.com
+last_name:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPEPERIOD],0,L)
+first_name:RegPos([ESCAPEPERIOD],0,R)[PARAMSPLIT]RegPos([ESCAPEAT],0,L)
+organization:RegPos([ESCAPEAT],0,R)[PARAMSPLIT]RegPos([ESCAPEPERIOD],-1,L)

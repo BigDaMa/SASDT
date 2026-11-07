@@ -1,0 +1,91 @@
+Dale A. Stirling. 2003. Information rules. In ACM SIGMOD Record.
+author:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPEPERIOD],1,L)
+year:RegPos([ESCAPENUMBER],0,L)[PARAMSPLIT]RegPos([ESCAPENUMBER],0,R)
+title:RegPos([ESCAPESPACE],3,R)[PARAMSPLIT]RegPos([ESCAPEPERIOD],-2,L)
+venue:RegPos([ESCAPESPACE],-3,R)[PARAMSPLIT]RegPos([ESCAPEPERIOD],-1,L)
+[ITEM]
+Jeff Sidell. "The Mariposa distributed database management system". ACM SIGMOD Record, 1996.
+author:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPEPERIOD],0,L)
+title:RegPos([ESCAPEDOUBLEQUOTE],0,R)[PARAMSPLIT]RegPos([ESCAPEDOUBLEQUOTE],-1,L)
+venue:RegPos([ESCAPESPACE],-4,R)[PARAMSPLIT]AbsPos(-7)
+year:RegPos([ESCAPENUMBER],-1,L)[PARAMSPLIT]RegPos([ESCAPENUMBER],-1,R)
+[ITEM]
+Mario A. Nascimento. "Peer-to-peer: harnessing the power of disruptive technologies". ACM SIGMOD Record, 2003.
+author:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPEPERIOD],1,L)
+title:RegPos([ESCAPEDOUBLEQUOTE],0,R)[PARAMSPLIT]RegPos([ESCAPEDOUBLEQUOTE],-1,L)
+venue:RegPos([ESCAPESPACE],-4,R)[PARAMSPLIT]AbsPos(-7)
+year:RegPos([ESCAPENUMBER],-1,L)[PARAMSPLIT]RegPos([ESCAPENUMBER],-1,R)
+[ITEM]
+Arvola Chan. "Transactional publish/subscribe: the proactive multicast of database changes (abstract)". International Conference on Management of Data, 1998.
+author:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPEPERIOD],0,L)
+title:RegPos([ESCAPEDOUBLEQUOTE],0,R)[PARAMSPLIT]RegPos([ESCAPEDOUBLEQUOTE],-1,L)
+venue:RegPos([ESCAPESPACE],-7,R)[PARAMSPLIT]AbsPos(-7)
+year:RegPos([ESCAPENUMBER],-1,L)[PARAMSPLIT]RegPos([ESCAPENUMBER],-1,R)
+[ITEM]
+Michael J. Carey (1994). "Parallel database systems in the 1990's". International Conference on Management of Data.
+author:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPESPACE],2,L)
+year:RegPos([ESCAPENUMBER],0,L)[PARAMSPLIT]RegPos([ESCAPENUMBER],0,R)
+title:RegPos([ESCAPEDOUBLEQUOTE],0,R)[PARAMSPLIT]RegPos([ESCAPEDOUBLEQUOTE],-1,L)
+venue:RegPos([ESCAPESPACE],-5,R)[PARAMSPLIT]RegPos([ESCAPEPERIOD],-1,L)
+[ITEM]
+Malcolm P. Atkinson (2000). "Guest editorial". The VLDB Journal.
+author:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPESPACE],2,L)
+year:RegPos([ESCAPENUMBER],0,L)[PARAMSPLIT]RegPos([ESCAPENUMBER],0,R)
+title:RegPos([ESCAPEDOUBLEQUOTE],0,R)[PARAMSPLIT]RegPos([ESCAPEDOUBLEQUOTE],-1,L)
+venue:RegPos([ESCAPESPACE],-3,R)[PARAMSPLIT]RegPos([ESCAPEPERIOD],-1,L)
+[ITEM]
+Ouri Wolfson (2000). "Research issues in moving objects databases (tutorial session)". International Conference on Management of Data.
+author:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPESPACE],1,L)
+year:RegPos([ESCAPENUMBER],0,L)[PARAMSPLIT]RegPos([ESCAPENUMBER],0,R)
+title:RegPos([ESCAPEDOUBLEQUOTE],0,R)[PARAMSPLIT]RegPos([ESCAPEDOUBLEQUOTE],-1,L)
+venue:RegPos([ESCAPESPACE],-6,R)[PARAMSPLIT]RegPos([ESCAPEPERIOD],-1,L)
+[ITEM]
+Matthias Jarke (1998). "Guest Editorial". The VLDB Journal.
+author:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPESPACE],1,L)
+year:RegPos([ESCAPENUMBER],0,L)[PARAMSPLIT]RegPos([ESCAPENUMBER],0,R)
+title:RegPos([ESCAPEDOUBLEQUOTE],0,R)[PARAMSPLIT]RegPos([ESCAPEDOUBLEQUOTE],-1,L)
+venue:RegPos([ESCAPESPACE],-3,R)[PARAMSPLIT]RegPos([ESCAPEPERIOD],-1,L)
+[ITEM]
+Richard Snodgrass (2001). "Editorial". ACM Transactions on Database Systems (TODS).
+author:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPESPACE],1,L)
+year:RegPos([ESCAPENUMBER],0,L)[PARAMSPLIT]RegPos([ESCAPENUMBER],0,R)
+title:RegPos([ESCAPEDOUBLEQUOTE],0,R)[PARAMSPLIT]RegPos([ESCAPEDOUBLEQUOTE],-1,L)
+venue:RegPos([ESCAPESPACE],-6,R)[PARAMSPLIT]RegPos([ESCAPEPERIOD],-1,L)
+[ITEM]
+CORPORATE National Technical Univ. of Athens (1995). "The database group at National Technical University of Athens (NTUA)". ACM SIGMOD Record.
+author:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPESPACE],5,L)
+year:RegPos([ESCAPENUMBER],0,L)[PARAMSPLIT]RegPos([ESCAPENUMBER],0,R)
+title:RegPos([ESCAPEDOUBLEQUOTE],0,R)[PARAMSPLIT]RegPos([ESCAPEDOUBLEQUOTE],-1,L)
+venue:RegPos([ESCAPESPACE],-3,R)[PARAMSPLIT]RegPos([ESCAPEPERIOD],-1,L)
+[ITEM]
+Terence Critchlow. 2001. Report on XEWA-00: the XML enabled wide-area searches for bioinformatics workshop. In ACM SIGMOD Record.
+author:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPEPERIOD],0,L)
+year:RegPos([ESCAPENUMBER],0,L)[PARAMSPLIT]RegPos([ESCAPENUMBER],0,R)
+title:RegPos([ESCAPESPACE],2,R)[PARAMSPLIT]RegPos([ESCAPEPERIOD],-2,L)
+venue:RegPos([ESCAPESPACE],-3,R)[PARAMSPLIT]RegPos([ESCAPEPERIOD],-1,L)
+[ITEM]
+Reed M. Meseck. 2001. Data management: lasting impact on wild, wild, web. In International Conference on Management of Data.
+author:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPEPERIOD],1,L)
+year:RegPos([ESCAPENUMBER],0,L)[PARAMSPLIT]RegPos([ESCAPENUMBER],0,R)
+title:RegPos([ESCAPESPACE],3,R)[PARAMSPLIT]RegPos([ESCAPEPERIOD],-2,L)
+venue:RegPos([ESCAPESPACE],-6,R)[PARAMSPLIT]RegPos([ESCAPEPERIOD],-1,L)
+[ITEM]
+Wilfred Ng. 2001. An extension of the relational data model to incorporate ordered domains. In ACM Transactions on Database Systems (TODS).
+author:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPEPERIOD],0,L)
+year:RegPos([ESCAPENUMBER],0,L)[PARAMSPLIT]RegPos([ESCAPENUMBER],0,R)
+title:RegPos([ESCAPESPACE],2,R)[PARAMSPLIT]RegPos([ESCAPEPERIOD],-2,L)
+venue:RegPos([ESCAPESPACE],-6,R)[PARAMSPLIT]RegPos([ESCAPEPERIOD],-1,L)
+[ITEM]
+Rick Greer. 1999. Daytona and the foruth-generation language cymbal. In International Conference on Management of Data.
+author:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPEPERIOD],0,L)
+year:RegPos([ESCAPENUMBER],0,L)[PARAMSPLIT]RegPos([ESCAPENUMBER],0,R)
+title:RegPos([ESCAPESPACE],2,R)[PARAMSPLIT]RegPos([ESCAPEPERIOD],-2,L)
+venue:RegPos([ESCAPESPACE],-6,R)[PARAMSPLIT]RegPos([ESCAPEPERIOD],-1,L)
+[ITEM]
+Information rules by Dale A. Stirling
+title:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPESPACE],-4,L)
+author:RegPos([ESCAPESPACE],-3,R)[PARAMSPLIT]AbsPos(None)
+[ITEM]
+The Mariposa distributed database management system by Jeff Sidell
+title:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPESPACE],-3,L)
+author:RegPos([ESCAPESPACE],-2,R)[PARAMSPLIT]AbsPos(None)

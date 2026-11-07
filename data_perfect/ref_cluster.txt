@@ -1,0 +1,127 @@
+Dale A. Stirling. 2003. Information rules. In ACM SIGMOD Record.
+Kenneth A. Ross. 2001. Reminiscences on Influential Papers. In ACM SIGMOD Record.
+Vijay V. Raghavan. 1996. Loading the Data Warehouse Across Various Parallel Architectures. In Very Large Data Bases.
+Sudarshan S. Chawathe. 1999. Comparing Hierarchical Data in External Memory. In Very Large Data Bases.
+Henry F. Korth. 1995. The Double Life of the Transaction Abstraction: Fundamental Principle and Evolving System Concept. In Very Large Data Bases.
+[ITEM]
+Reed M. Meseck. 2001. Data management: lasting impact on wild, wild, web. In International Conference on Management of Data.
+Daniel J. Dietterich. 1994. DEC data distributor: for data replication and data warehousing. In International Conference on Management of Data.
+Reee J. Miller. 1998. Using schematically heterogeneous structures. In International Conference on Management of Data.
+Curtis E. Dyreson. 2003. Temporal coalescing with now granularity, and incomplete information. In International Conference on Management of Data.
+Daniel A. Keim. 1996. databases and visualization. In International Conference on Management of Data.
+Garth A. Gibson. 1995. Tutorial on storage technology: RAID and beyond. In International Conference on Management of Data.
+[ITEM]
+Jeff Sidell. "The Mariposa distributed database management system". ACM SIGMOD Record, 1996.
+Jiawei Han. "Towards on-line analytical mining in large databases". ACM SIGMOD Record, 1998.
+Leonid Libkin. "Database principles". ACM SIGMOD Record, 2002.
+Andrew Eisenberg. "Standards". ACM SIGMOD Record, 2003.
+John Gaffney. "An Illustra technical white paper". ACM SIGMOD Record, 1996.
+Michael Stonebraker. "In memory of Bob Kooi (1951-1993)". ACM SIGMOD Record, 1994.
+Limsoon Wong. "An introduction to Remy's fast polymorphic record projection". ACM SIGMOD Record, 1995.
+Martin Grohe. "Parameterized complexity for the database theorist". ACM SIGMOD Record, 2002.
+Daniel Barbara. "Special section on data mining for intrusion detection and threat analysis". ACM SIGMOD Record, 2001.
+Amit Sheth. "Research centers". ACM SIGMOD Record, 2002.
+Marianne Winslett. "Distinguished database profiles". ACM SIGMOD Record, 2002.
+Marianne Winslett. "Distinguished DB profiles". ACM SIGMOD Record, 2002.
+Alexandros Labrinidis. "Career forum". ACM SIGMOD Record, 2002.
+Richard Snodgrass. "Reminiscences in influential papers". ACM SIGMOD Record, 1998.
+Ronald Fagin. "Combining fuzzy information: an overview". ACM SIGMOD Record, 2002.
+Ken Ross. "Influential papers". ACM SIGMOD Record, 2003.
+Gennady Antoshenkov. "Dictionary-based order-preserving string compression". The VLDB Journal, 1997.
+Gonzalo Navarro. "Searching in metric spaces by spatial approximation". The VLDB Journal, 2002.
+Pierre-Paul Sondag. "The Semantic Web Paving the Way to the Knowledge Society". Very Large Data Bases, 2001.
+Hannes Spintzik. "Informix-Online XPS: A Dynamically Scalable RDBMS for Open Parallel Platforms". Very Large Data Bases, 1995.
+Umeshwar Dayal. "Industrial Panel on Data Warehousing Technologies: Experiences, Challenges, and Directions". Very Large Data Bases, 1999.
+Hans-Jorg Schek. "Panel: Future Directions of Database Research - The VLDB Broadening Strategy, Part 1". Very Large Data Bases, 2000.
+Pedro Celis. "The Query Optimizer in Tandem's new ServerWare SQL Product". Very Large Data Bases, 1996.
+Carsten Blecken. "Media360 Workflow-Implementing a Workflow Engine Inside a Database". Very Large Data Bases, 2000.
+[ITEM]
+Mario A. Nascimento. "Peer-to-peer: harnessing the power of disruptive technologies". ACM SIGMOD Record, 2003.
+Alon Y. Halevy. "Theory of answering queries using views". ACM SIGMOD Record, 2000.
+D. Scott Mackay. "Semantic integration of environmental models for application to global information systems and decision-making". ACM SIGMOD Record, 1999.
+Charu C. Aggarwal. "Hierarchical subspace sampling: a unified framework for high dimensional data reduction, selectivity estimation and nearest neighbor search". International Conference on Management of Data, 2002.
+John L. Schnase. "Research Directions in Biodiversity Informatics". Very Large Data Bases, 2000.
+Joseph Y. Halpern. "Hypothetical knowledge and counterfactual reasoning". Very Large Data Bases, 2000.
+S. Chakravarthy. "Sentinel: an object-oriented DBMS with event-based rules". International Conference on Management of Data, 1997.
+[ITEM]
+Arvola Chan. "Transactional publish/subscribe: the proactive multicast of database changes (abstract)". International Conference on Management of Data, 1998.
+Val Huber. "Challenges in automating declarative business rules to enable rapid business response". International Conference on Management of Data, 2000.
+Nikos Mamoulis. "Efficient processing of joins on set-valued attributes". International Conference on Management of Data, 2003.
+Kenneth Moore. "The Lotus notes storage system". International Conference on Management of Data, 1995.
+Praveen Seshadri. "Honey, I shrunk the database: footprint, mobility, and beyond". International Conference on Management of Data, 1999.
+[ITEM]
+Michael J. Carey (1994). "Parallel database systems in the 1990's". International Conference on Management of Data.
+Jose A. Blakeley (1994). "Open object database management systems". International Conference on Management of Data.
+Clark D. French (1995). "One size fits all database architectures do not work for DSS". International Conference on Management of Data.
+Daniel A. Keim (1996). "databases and visualization". International Conference on Management of Data.
+[ITEM]
+Ouri Wolfson (2000). "Research issues in moving objects databases (tutorial session)". International Conference on Management of Data.
+Arvola Chan (1998). "Transactional publish/subscribe: the proactive multicast of database changes (abstract)". International Conference on Management of Data.
+Janet Perna (1995). "Leveraging the information asset". International Conference on Management of Data.
+Don Chamberlin (2003). "XQuery: a query language for XML". International Conference on Management of Data.
+Carrie Ballinger (1994). "Evolving teradata decision support for massively parallel processing with UNIX". International Conference on Management of Data.
+[ITEM]
+Malcolm P. Atkinson (2000). "Guest editorial". The VLDB Journal.
+John L. Schnase (2000). "Research Directions in Biodiversity Informatics". Very Large Data Bases.
+C. J. Date (1996). "A response to R. Camps' article Domains, relations and religious wars". ACM SIGMOD Record.
+Yannis E. Ioannidis (1996). "Dynamic information visualization". ACM SIGMOD Record.
+[ITEM]
+Matthias Jarke (1998). "Guest Editorial". The VLDB Journal.
+Carsten Blecken (2000). "Media360 Workflow-Implementing a Workflow Engine Inside a Database". Very Large Data Bases.
+Oded Shmueli (2001). "Architectures for Internal Web Services Deployment". Very Large Data Bases.
+Sridhar Ramaswamy (2000). "E.piphany Epicenter Technology Overview". Very Large Data Bases.
+Vadim Draluk (2001). "Discovering Web Services: An Overview". Very Large Data Bases.
+Anil Nori (2000). "Asera: Extranet Architecture for B2B Solutions". Very Large Data Bases.
+Sanket Atal (1996). "The XPS Approach to Loading and Unloading Terabyte Databases". Very Large Data Bases.
+Dave Liles (2000). "The Zero Latency Enterprise". Very Large Data Bases.
+Daniel Barbara (2001). "Special section on data mining for intrusion detection and threat analysis". ACM SIGMOD Record.
+Dan Suciu (2001). "On database theory and XML". ACM SIGMOD Record.
+Luca Cardelli (2001). "Describing semistructured data". ACM SIGMOD Record.
+Jim Melton (2002). "Standards". ACM SIGMOD Record.
+Arun Hampapur (1999). "Semantic video indexing: approach and issues". ACM SIGMOD Record.
+Jim Melton (2002). "Standards". ACM SIGMOD Record.
+Martin Bertram (1994). "Data modelling in the large". ACM SIGMOD Record.
+[ITEM]
+Richard Snodgrass (2001). "Editorial". ACM Transactions on Database Systems (TODS).
+Jan Chomicki (1995). "Efficient checking of temporal integrity constraints using bounded history encoding". ACM Transactions on Database Systems (TODS).
+[ITEM]
+CORPORATE National Technical Univ. of Athens (1995). "The database group at National Technical University of Athens (NTUA)". ACM SIGMOD Record.
+[ITEM]
+Terence Critchlow. 2001. Report on XEWA-00: the XML enabled wide-area searches for bioinformatics workshop. In ACM SIGMOD Record.
+Harald Schoning. 1998. The ADABAS Buffer Pool Manager. In Very Large Data Bases.
+Leonid Libkin. 2003. Database principles. In ACM SIGMOD Record.
+Avigdor Gal. 2002. Articles. In ACM SIGMOD Record.
+Rich Finkelstein. 1995. The new middleware. In ACM SIGMOD Record.
+Ozgur Ulusoy. 1995. An annotated bibliography on real-time database systems. In ACM SIGMOD Record.
+Paolo Giorgini. 2003. Agent-Oriented software engineering report on the 4th AOSE workshop (AOSE 2003). In ACM SIGMOD Record.
+Richard Snodgrass. 1998. Reminiscences on influential papers. In ACM SIGMOD Record.
+Martin Bertram. 1994. Data modelling in the large. In ACM SIGMOD Record.
+Amit Sheth. 2002. Research centers. In ACM SIGMOD Record.
+Nam Huyn. 1997. Multiple-View Self-Maintenance in Data Warehousing Environments. In Very Large Data Bases.
+Luciana Duranti. 2001. The Long-Term Preservation of Authentic Electronic Records. In Very Large Data Bases.
+Chebel Mina. 1998. MapInfo SpatialWare: A Spatial Information Server for RDBMS. In Very Large Data Bases.
+[ITEM]
+Wilfred Ng. 2001. An extension of the relational data model to incorporate ordered domains. In ACM Transactions on Database Systems (TODS).
+Christian Bohm. 2000. A cost model for query processing in high dimensional data spaces. In ACM Transactions on Database Systems (TODS).
+Dean Kuo. 1996. Model and verification of a data manager based on ARIES. In ACM Transactions on Database Systems (TODS).
+Xiaolei Qian. 1995. Opportunities at ARPA, NSF, and elsewhere. In ACM SIGMOD Record.
+Rosa Meo. 2000. Theory of dependence values. In ACM Transactions on Database Systems (TODS).
+[ITEM]
+Rick Greer. 1999. Daytona and the foruth-generation language cymbal. In International Conference on Management of Data.
+Anant Jhingran. 2000. Anatomy of a real E-commerce system. In International Conference on Management of Data.
+[ITEM]
+Information rules by Dale A. Stirling
+Parallel database systems in the 1990's by Michael J. Carey
+Guest editorial by Malcolm P. Atkinson
+Theory of answering queries using views by Alon Y. Halevy
+[ITEM]
+The Mariposa distributed database management system by Jeff Sidell
+Report on XEWA-00: the XML enabled wide-area searches for bioinformatics workshop by Terence Critchlow
+Research issues in moving objects databases (tutorial session) by Ouri Wolfson
+MapInfo SpatialWare: A Spatial Information Server for RDBMS by Chebel Mina
+Theory of dependence values by Rosa Meo
+Opportunities at ARPA, NSF, and elsewhere by Xiaolei Qian
+The new middleware by Rich Finkelstein
+Towards on-line analytical mining in large databases by Jiawei Han
+Articles by Avigdor Gal
+Research centers by Amit Sheth

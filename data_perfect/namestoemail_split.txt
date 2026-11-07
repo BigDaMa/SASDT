@@ -1,0 +1,1580 @@
+twitter xie kun
+organization:twitter
+last_name:xie
+first_name:kun
+[ITEM]
+pamela hussain mastercard
+first_name:pamela
+last_name:hussain
+organization:mastercard
+[ITEM]
+yoo minseok siemens
+last_name:yoo
+first_name:minseok
+organization:siemens
+[ITEM]
+ruth griffiths unitedhealth
+first_name:ruth
+last_name:griffiths
+organization:unitedhealth
+[ITEM]
+saudi aramco ishikawa ayaka
+organization:saudi aramco
+first_name:ayaka
+last_name:ishikawa
+[ITEM]
+yamaguchi itsuki ferrari
+last_name:yamaguchi
+first_name:itsuki
+organization:ferrari
+[ITEM]
+ko irene nestle
+last_name:ko
+first_name:irene
+organization:nestle
+[ITEM]
+victoria clark wipro
+first_name:victoria
+last_name:clark
+organization:wipro
+[ITEM]
+kato ayumi glaxosmithkline
+last_name:kato
+first_name:ayumi
+organization:glaxosmithkline
+[ITEM]
+pamela cox intel
+first_name:pamela
+last_name:cox
+organization:intel
+[ITEM]
+kenneth green moderna
+first_name:kenneth
+last_name:green
+organization:moderna
+[ITEM]
+tsmc song lei
+organization:tsmc
+last_name:song
+first_name:lei
+[ITEM]
+wipro choe bora
+organization:wipro
+last_name:choe
+first_name:bora
+[ITEM]
+shell yamaguchi yuzuki
+organization:shell
+last_name:yamaguchi
+first_name:yuzuki
+[ITEM]
+ibm hasegawa minato
+organization:ibm
+last_name:hasegawa
+first_name:minato
+[ITEM]
+chang hana zara
+last_name:chang
+first_name:hana
+organization:zara
+[ITEM]
+chevron gao tao
+organization:chevron
+last_name:gao
+first_name:tao
+[ITEM]
+zhao jun ford
+last_name:zhao
+first_name:jun
+organization:ford
+[ITEM]
+basf scott lewis
+organization:basf
+first_name:scott
+last_name:lewis
+[ITEM]
+feng lei airbnb
+last_name:feng
+first_name:lei
+organization:airbnb
+[ITEM]
+bae joonho philips
+last_name:bae
+first_name:joonho
+organization:philips
+[ITEM]
+cocacola dok changmin
+organization:cocacola
+last_name:dok
+first_name:changmin
+[ITEM]
+caleb cooper philips
+first_name:caleb
+last_name:cooper
+organization:philips
+[ITEM]
+hyundai chu donghyun
+organization:hyundai
+last_name:chu
+first_name:donghyun
+[ITEM]
+rolex ryu minjun
+organization:rolex
+last_name:ryu
+first_name:minjun
+[ITEM]
+exxon hayashi saki
+organization:exxon
+last_name:hayashi
+first_name:saki
+[ITEM]
+volkswagen kato honoka
+organization:volkswagen
+last_name:kato
+first_name:honoka
+[ITEM]
+panasonic furukawa hina
+organization:panasonic
+last_name:furukawa
+first_name:hina
+[ITEM]
+amazon tanaka nozomi
+organization:amazon
+last_name:tanaka
+first_name:nozomi
+[ITEM]
+johnsonjohnson yang chao
+organization:johnsonjohnson
+last_name:yang
+first_name:chao
+[ITEM]
+lvmh han lin
+organization:lvmh
+last_name:han
+first_name:lin
+[ITEM]
+adobe maeda saki
+organization:adobe
+last_name:maeda
+first_name:saki
+[ITEM]
+da jieun citigroup
+last_name:da
+first_name:jieun
+organization:citigroup
+[ITEM]
+baek jiwon tencent
+last_name:baek
+first_name:jiwon
+organization:tencent
+[ITEM]
+microsoft qiu zihan
+organization:microsoft
+last_name:qiu
+first_name:zihan
+[ITEM]
+lucas white mitsubishi
+first_name:lucas
+last_name:white
+organization:mitsubishi
+[ITEM]
+airbnb joyce smith
+organization:airbnb
+first_name:joyce
+last_name:smith
+[ITEM]
+tang jiahao schneider
+last_name:tang
+first_name:jiahao
+organization:schneider
+[ITEM]
+roger singh mcdonald
+first_name:roger
+last_name:singh
+organization:mcdonald
+[ITEM]
+cynthia hill zara
+first_name:cynthia
+last_name:hill
+organization:zara
+[ITEM]
+mcdonald du suwei
+organization:mcdonald
+last_name:du
+first_name:suwei
+[ITEM]
+zoom sasaki hayato
+organization:zoom
+last_name:sasaki
+first_name:hayato
+[ITEM]
+snap shimizu mio
+organization:snap
+last_name:shimizu
+first_name:mio
+[ITEM]
+shin jiwon exxon
+last_name:shin
+first_name:jiwon
+organization:exxon
+[ITEM]
+costco qiu ming
+organization:costco
+last_name:qiu
+first_name:ming
+[ITEM]
+starbucks chu jisoo
+organization:starbucks
+last_name:chu
+first_name:jisoo
+[ITEM]
+kobayashi mika accenture
+last_name:kobayashi
+first_name:mika
+organization:accenture
+[ITEM]
+choi seungmin chevron
+last_name:choi
+first_name:seungmin
+organization:chevron
+[ITEM]
+zhang yiming 3m
+last_name:zhang
+first_name:yiming
+organization:3m
+[ITEM]
+wipro mason collins
+organization:wipro
+first_name:mason
+last_name:collins
+[ITEM]
+tesla yoo jaesang
+organization:tesla
+last_name:yoo
+first_name:jaesang
+[ITEM]
+toyota zhang lei
+organization:toyota
+last_name:zhang
+first_name:lei
+[ITEM]
+asano ayaka sumitomo
+last_name:asano
+first_name:ayaka
+organization:sumitomo
+[ITEM]
+toyota frank watson
+organization:toyota
+first_name:frank
+last_name:watson
+[ITEM]
+roche chun minjun
+organization:roche
+last_name:chun
+first_name:minjun
+[ITEM]
+fujimoto reina basf
+last_name:fujimoto
+first_name:reina
+organization:basf
+[ITEM]
+lee minso nike
+last_name:lee
+first_name:minso
+organization:nike
+[ITEM]
+pepsico guo chao
+organization:pepsico
+last_name:guo
+first_name:chao
+[ITEM]
+byun soyeon adobe
+last_name:byun
+first_name:soyeon
+organization:adobe
+[ITEM]
+stephen johnson canon
+first_name:stephen
+last_name:johnson
+organization:canon
+[ITEM]
+petrochina ma ziyu
+organization:petrochina
+last_name:ma
+first_name:ziyu
+[ITEM]
+reliance park changmin
+organization:reliance
+last_name:park
+first_name:changmin
+[ITEM]
+daimler kimura taiga
+organization:daimler
+last_name:kimura
+first_name:taiga
+[ITEM]
+rolex bai shuang
+organization:rolex
+last_name:bai
+first_name:shuang
+[ITEM]
+3m patrick ellis
+organization:3m
+first_name:patrick
+last_name:ellis
+[ITEM]
+wu yong 3m
+last_name:wu
+first_name:yong
+organization:3m
+[ITEM]
+xiao xin shell
+last_name:xiao
+first_name:xin
+organization:shell
+[ITEM]
+philips jin xinyi
+organization:philips
+last_name:jin
+first_name:xinyi
+[ITEM]
+fukushima miyu jpmorgan
+last_name:fukushima
+first_name:miyu
+organization:jpmorgan
+[ITEM]
+rolex joan webb
+organization:rolex
+first_name:joan
+last_name:webb
+[ITEM]
+roche shi zhen
+organization:roche
+last_name:shi
+first_name:zhen
+[ITEM]
+dang mina tencent
+last_name:dang
+first_name:mina
+organization:tencent
+[ITEM]
+asano saki softbank
+last_name:asano
+first_name:saki
+organization:softbank
+[ITEM]
+choe heungmin hitachi
+last_name:choe
+first_name:heungmin
+organization:hitachi
+[ITEM]
+harada tsubasa lenovo
+last_name:harada
+first_name:tsubasa
+organization:lenovo
+[ITEM]
+bai hao intel
+last_name:bai
+first_name:hao
+organization:intel
+[ITEM]
+roche kang heungmin
+organization:roche
+last_name:kang
+first_name:heungmin
+[ITEM]
+lg benjamin ward
+organization:lg
+first_name:benjamin
+last_name:ward
+[ITEM]
+qin lei unitedhealth
+last_name:qin
+first_name:lei
+organization:unitedhealth
+[ITEM]
+panasonic ronald morris
+organization:panasonic
+first_name:ronald
+last_name:morris
+[ITEM]
+lenovo honda yuna
+organization:lenovo
+last_name:honda
+first_name:yuna
+[ITEM]
+seo donghyun hitachi
+last_name:seo
+first_name:donghyun
+organization:hitachi
+[ITEM]
+luo jiahao hyundai
+last_name:luo
+first_name:jiahao
+organization:hyundai
+[ITEM]
+sara scott unilever
+first_name:sara
+last_name:scott
+organization:unilever
+[ITEM]
+oracle arai mika
+organization:oracle
+last_name:arai
+first_name:mika
+[ITEM]
+softbank helen begum
+organization:softbank
+first_name:helen
+last_name:begum
+[ITEM]
+novartis abe chihiro
+organization:novartis
+last_name:abe
+first_name:chihiro
+[ITEM]
+joe robinson lg
+first_name:joe
+last_name:robinson
+organization:lg
+[ITEM]
+lexus zhao mengda
+organization:lexus
+last_name:zhao
+first_name:mengda
+[ITEM]
+cao jiahao novartis
+last_name:cao
+first_name:jiahao
+organization:novartis
+[ITEM]
+cocacola zhu rui
+organization:cocacola
+last_name:zhu
+first_name:rui
+[ITEM]
+song kun nestle
+last_name:song
+first_name:kun
+organization:nestle
+[ITEM]
+walter thomas mastercard
+first_name:walter
+last_name:thomas
+organization:mastercard
+[ITEM]
+hwang soyeon starbucks
+last_name:hwang
+first_name:soyeon
+organization:starbucks
+[ITEM]
+bpcl seo seulgi
+organization:bpcl
+last_name:seo
+first_name:seulgi
+[ITEM]
+hitachi song changmin
+organization:hitachi
+last_name:song
+first_name:changmin
+[ITEM]
+hattori daiki fedex
+last_name:hattori
+first_name:daiki
+organization:fedex
+[ITEM]
+philips shen gang
+organization:philips
+last_name:shen
+first_name:gang
+[ITEM]
+ma yiming philips
+last_name:ma
+first_name:yiming
+organization:philips
+[ITEM]
+elijah thompson azure
+first_name:elijah
+last_name:thompson
+organization:azure
+[ITEM]
+xie.kun@twitter.com
+last_name:xie
+first_name:kun
+organization:twitter
+[ITEM]
+hussain.pamela@mastercard.com
+last_name:hussain
+first_name:pamela
+organization:mastercard
+[ITEM]
+yoo.minseok@siemens.com
+last_name:yoo
+first_name:minseok
+organization:siemens
+[ITEM]
+griffiths.ruth@unitedhealth.com
+last_name:griffiths
+first_name:ruth
+organization:unitedhealth
+[ITEM]
+ishikawa.ayaka@saudi aramco.com
+last_name:ishikawa
+first_name:ayaka
+organization:saudi aramco
+[ITEM]
+cooper.caleb@philips.com
+last_name:cooper
+first_name:caleb
+organization:philips
+[ITEM]
+paypal angela ali
+organization:paypal
+first_name:angela
+last_name:ali
+[ITEM]
+nvidia song yeonwoo
+organization:nvidia
+last_name:song
+first_name:yeonwoo
+[ITEM]
+katherine johnson pfizer
+first_name:katherine
+last_name:johnson
+organization:pfizer
+[ITEM]
+cao rui sony
+last_name:cao
+first_name:rui
+organization:sony
+[ITEM]
+jung subin twitter
+last_name:jung
+first_name:subin
+organization:twitter
+[ITEM]
+toyota fukui airi
+organization:toyota
+last_name:fukui
+first_name:airi
+[ITEM]
+microsoft billy simpson
+organization:microsoft
+first_name:billy
+last_name:simpson
+[ITEM]
+melissa richardson reliance
+first_name:melissa
+last_name:richardson
+organization:reliance
+[ITEM]
+softbank roger mason
+organization:softbank
+first_name:roger
+last_name:mason
+[ITEM]
+daimler shon seojun
+organization:daimler
+last_name:shon
+first_name:seojun
+[ITEM]
+byd hae heungmin
+organization:byd
+last_name:hae
+first_name:heungmin
+[ITEM]
+kondo sho lvmh
+last_name:kondo
+first_name:sho
+organization:lvmh
+[ITEM]
+bpcl wei jiahao
+organization:bpcl
+last_name:wei
+first_name:jiahao
+[ITEM]
+sim hyunwoo vodafone
+last_name:sim
+first_name:hyunwoo
+organization:vodafone
+[ITEM]
+liu zihan toyota
+last_name:liu
+first_name:zihan
+organization:toyota
+[ITEM]
+wang zhihe paypal
+last_name:wang
+first_name:zhihe
+organization:paypal
+[ITEM]
+schneider hamada rina
+organization:schneider
+last_name:hamada
+first_name:rina
+[ITEM]
+toyota zhu zhen
+organization:toyota
+last_name:zhu
+first_name:zhen
+[ITEM]
+panasonic deng haoran
+organization:panasonic
+last_name:deng
+first_name:haoran
+[ITEM]
+deutsche bank hara ren
+organization:deutsche bank
+last_name:hara
+first_name:ren
+[ITEM]
+tanaka momoka siemens
+last_name:tanaka
+first_name:momoka
+organization:siemens
+[ITEM]
+aoki taiga zara
+last_name:aoki
+first_name:taiga
+organization:zara
+[ITEM]
+tencent jim wood
+organization:tencent
+first_name:jim
+last_name:wood
+[ITEM]
+siemens go taeyang
+organization:siemens
+last_name:go
+first_name:taeyang
+[ITEM]
+du mengda exxon
+last_name:du
+first_name:mengda
+organization:exxon
+[ITEM]
+lin juan glaxosmithkline
+last_name:lin
+first_name:juan
+organization:glaxosmithkline
+[ITEM]
+zara bae jiwon
+organization:zara
+last_name:bae
+first_name:jiwon
+[ITEM]
+baek yeonwoo airtel
+last_name:baek
+first_name:yeonwoo
+organization:airtel
+[ITEM]
+toyota ito rina
+organization:toyota
+last_name:ito
+first_name:rina
+[ITEM]
+sony jung minso
+organization:sony
+last_name:jung
+first_name:minso
+[ITEM]
+jeon jimin sony
+last_name:jeon
+first_name:jimin
+organization:sony
+[ITEM]
+mastercard zhang suwei
+organization:mastercard
+last_name:zhang
+first_name:suwei
+[ITEM]
+li peng sony
+last_name:li
+first_name:peng
+organization:sony
+[ITEM]
+roche liu lei
+organization:roche
+last_name:liu
+first_name:lei
+[ITEM]
+vodafone fujita aoi
+organization:vodafone
+last_name:fujita
+first_name:aoi
+[ITEM]
+canon hwang soyeon
+organization:canon
+last_name:hwang
+first_name:soyeon
+[ITEM]
+hashimoto koki sony
+last_name:hashimoto
+first_name:koki
+organization:sony
+[ITEM]
+pang seungmin berkshire hathaway
+last_name:pang
+first_name:seungmin
+organization:berkshire hathaway
+[ITEM]
+kayla walker basf
+first_name:kayla
+last_name:walker
+organization:basf
+[ITEM]
+liu fang moderna
+last_name:liu
+first_name:fang
+organization:moderna
+[ITEM]
+samsung zhu yiming
+organization:samsung
+last_name:zhu
+first_name:yiming
+[ITEM]
+oracle song gang
+organization:oracle
+last_name:song
+first_name:gang
+[ITEM]
+tesla tang weiwei
+organization:tesla
+last_name:tang
+first_name:weiwei
+[ITEM]
+philips terry owen
+organization:philips
+first_name:terry
+last_name:owen
+[ITEM]
+uber yang zhihao
+organization:uber
+last_name:yang
+first_name:zhihao
+[ITEM]
+wei weiwei samsung
+last_name:wei
+first_name:weiwei
+organization:samsung
+[ITEM]
+lg watanabe tsubasa
+organization:lg
+last_name:watanabe
+first_name:tsubasa
+[ITEM]
+andrea wilson wipro
+first_name:andrea
+last_name:wilson
+organization:wipro
+[ITEM]
+citigroup eric martin
+organization:citigroup
+first_name:eric
+last_name:martin
+[ITEM]
+wang zihan ford
+last_name:wang
+first_name:zihan
+organization:ford
+[ITEM]
+xiao suwei intel
+last_name:xiao
+first_name:suwei
+organization:intel
+[ITEM]
+fukui yuki mitsubishi
+last_name:fukui
+first_name:yuki
+organization:mitsubishi
+[ITEM]
+gary morris hsbc
+first_name:gary
+last_name:morris
+organization:hsbc
+[ITEM]
+yoon hana hp
+last_name:yoon
+first_name:hana
+organization:hp
+[ITEM]
+lisa cook infosys
+first_name:lisa
+last_name:cook
+organization:infosys
+[ITEM]
+nakamura hina amazon
+last_name:nakamura
+first_name:hina
+organization:amazon
+[ITEM]
+fujita yuki saudi aramco
+last_name:fujita
+first_name:yuki
+organization:saudi aramco
+[ITEM]
+ko soyeon microsoft
+last_name:ko
+first_name:soyeon
+organization:microsoft
+[ITEM]
+dai na bytedance
+last_name:dai
+first_name:na
+organization:bytedance
+[ITEM]
+yu jian american express
+last_name:yu
+first_name:jian
+organization:american express
+[ITEM]
+zoom carl shaw
+organization:zoom
+first_name:carl
+last_name:shaw
+[ITEM]
+natalie griffiths disney
+first_name:natalie
+last_name:griffiths
+organization:disney
+[ITEM]
+zhao qiang ups
+last_name:zhao
+first_name:qiang
+organization:ups
+[ITEM]
+aoki taiga lyft
+last_name:aoki
+first_name:taiga
+organization:lyft
+[ITEM]
+alice ward mcdonald
+first_name:alice
+last_name:ward
+organization:mcdonald
+[ITEM]
+toyota hwang eunji
+organization:toyota
+last_name:hwang
+first_name:eunji
+[ITEM]
+bao jun toyota
+last_name:bao
+first_name:jun
+organization:toyota
+[ITEM]
+apple daniel lewis
+organization:apple
+first_name:daniel
+last_name:lewis
+[ITEM]
+oracle ha yerin
+organization:oracle
+last_name:ha
+first_name:yerin
+[ITEM]
+wu haoran bp
+last_name:wu
+first_name:haoran
+organization:bp
+[ITEM]
+goto airi ford
+last_name:goto
+first_name:airi
+organization:ford
+[ITEM]
+choi jisoo walmart
+last_name:choi
+first_name:jisoo
+organization:walmart
+[ITEM]
+dok yuna infosys
+last_name:dok
+first_name:yuna
+organization:infosys
+[ITEM]
+randy richardson daimler
+first_name:randy
+last_name:richardson
+organization:daimler
+[ITEM]
+guo lei snap
+last_name:guo
+first_name:lei
+organization:snap
+[ITEM]
+vodafone tang hui
+organization:vodafone
+last_name:tang
+first_name:hui
+[ITEM]
+airtel chen kai
+organization:airtel
+last_name:chen
+first_name:kai
+[ITEM]
+denise campbell ibm
+first_name:denise
+last_name:campbell
+organization:ibm
+[ITEM]
+tencent denise taylor
+organization:tencent
+first_name:denise
+last_name:taylor
+[ITEM]
+ferrari zhang dong
+organization:ferrari
+last_name:zhang
+first_name:dong
+[ITEM]
+seo chaeyoung alphabet
+last_name:seo
+first_name:chaeyoung
+organization:alphabet
+[ITEM]
+azure fujita koharu
+organization:azure
+last_name:fujita
+first_name:koharu
+[ITEM]
+reliance vincent ward
+organization:reliance
+first_name:vincent
+last_name:ward
+[ITEM]
+intel hashimoto tsubasa
+organization:intel
+last_name:hashimoto
+first_name:tsubasa
+[ITEM]
+3m sandra morris
+organization:3m
+first_name:sandra
+last_name:morris
+[ITEM]
+canon jose miller
+organization:canon
+first_name:jose
+last_name:miller
+[ITEM]
+fujii aoi audi
+last_name:fujii
+first_name:aoi
+organization:audi
+[ITEM]
+jeon minso starbucks
+last_name:jeon
+first_name:minso
+organization:starbucks
+[ITEM]
+gabriel cooper lexus
+first_name:gabriel
+last_name:cooper
+organization:lexus
+[ITEM]
+ibm dong guodong
+organization:ibm
+last_name:dong
+first_name:guodong
+[ITEM]
+wang dong moderna
+last_name:wang
+first_name:dong
+organization:moderna
+[ITEM]
+apple luo hongda
+organization:apple
+last_name:luo
+first_name:hongda
+[ITEM]
+reliance chen hui
+organization:reliance
+last_name:chen
+first_name:hui
+[ITEM]
+lyft shimizu airi
+organization:lyft
+last_name:shimizu
+first_name:airi
+[ITEM]
+aoyama honoka google
+last_name:aoyama
+first_name:honoka
+organization:google
+[ITEM]
+cho yerin lenovo
+last_name:cho
+first_name:yerin
+organization:lenovo
+[ITEM]
+3m bryan mitchell
+organization:3m
+first_name:bryan
+last_name:mitchell
+[ITEM]
+allianz zhou pengfei
+organization:allianz
+last_name:zhou
+first_name:pengfei
+[ITEM]
+ishii akari hyundai
+last_name:ishii
+first_name:akari
+organization:hyundai
+[ITEM]
+robert young allianz
+first_name:robert
+last_name:young
+organization:allianz
+[ITEM]
+ali.angela@paypal.com
+last_name:ali
+first_name:angela
+organization:paypal
+[ITEM]
+song.yeonwoo@nvidia.com
+last_name:song
+first_name:yeonwoo
+organization:nvidia
+[ITEM]
+johnson.katherine@pfizer.com
+last_name:johnson
+first_name:katherine
+organization:pfizer
+[ITEM]
+cao.rui@sony.com
+last_name:cao
+first_name:rui
+organization:sony
+[ITEM]
+jung.subin@twitter.com
+last_name:jung
+first_name:subin
+organization:twitter
+[ITEM]
+accenture tanaka haruto
+organization:accenture
+last_name:tanaka
+first_name:haruto
+[ITEM]
+ikeda rin zoom
+last_name:ikeda
+first_name:rin
+organization:zoom
+[ITEM]
+lvmh yamamoto kenta
+organization:lvmh
+last_name:yamamoto
+first_name:kenta
+[ITEM]
+disney judith rogers
+organization:disney
+first_name:judith
+last_name:rogers
+[ITEM]
+endo itsuki wipro
+last_name:endo
+first_name:itsuki
+organization:wipro
+[ITEM]
+feng yiming basf
+last_name:feng
+first_name:yiming
+organization:basf
+[ITEM]
+adobe shimizu sakura
+organization:adobe
+last_name:shimizu
+first_name:sakura
+[ITEM]
+hattori yuzuki toyota
+last_name:hattori
+first_name:yuzuki
+organization:toyota
+[ITEM]
+hwang youngho basf
+last_name:hwang
+first_name:youngho
+organization:basf
+[ITEM]
+lu kun shell
+last_name:lu
+first_name:kun
+organization:shell
+[ITEM]
+ford kathy watson
+organization:ford
+first_name:kathy
+last_name:watson
+[ITEM]
+han minso ford
+last_name:han
+first_name:minso
+organization:ford
+[ITEM]
+helen wilkinson dhl
+first_name:helen
+last_name:wilkinson
+organization:dhl
+[ITEM]
+disney rachel murphy
+organization:disney
+first_name:rachel
+last_name:murphy
+[ITEM]
+hp asano emi
+organization:hp
+last_name:asano
+first_name:emi
+[ITEM]
+lg yamaguchi airi
+organization:lg
+last_name:yamaguchi
+first_name:airi
+[ITEM]
+meta choe donghyun
+organization:meta
+last_name:choe
+first_name:donghyun
+[ITEM]
+scott bell porsche
+first_name:scott
+last_name:bell
+organization:porsche
+[ITEM]
+wang weiwei uber
+last_name:wang
+first_name:weiwei
+organization:uber
+[ITEM]
+ubs byun jisoo
+organization:ubs
+last_name:byun
+first_name:jisoo
+[ITEM]
+canon oh nayeon
+organization:canon
+last_name:oh
+first_name:nayeon
+[ITEM]
+audi jesse allen
+organization:audi
+first_name:jesse
+last_name:allen
+[ITEM]
+yoo heungmin fedex
+last_name:yoo
+first_name:heungmin
+organization:fedex
+[ITEM]
+johnsonjohnson lu haoran
+organization:johnsonjohnson
+last_name:lu
+first_name:haoran
+[ITEM]
+jeremiah shaw ikea
+first_name:jeremiah
+last_name:shaw
+organization:ikea
+[ITEM]
+ryu ara cocacola
+last_name:ryu
+first_name:ara
+organization:cocacola
+[ITEM]
+allianz keith moore
+organization:allianz
+first_name:keith
+last_name:moore
+[ITEM]
+sinopec henry jones
+organization:sinopec
+first_name:henry
+last_name:jones
+[ITEM]
+visa sasaki itsuki
+organization:visa
+last_name:sasaki
+first_name:itsuki
+[ITEM]
+jung seojun glaxosmithkline
+last_name:jung
+first_name:seojun
+organization:glaxosmithkline
+[ITEM]
+azure shin jimin
+organization:azure
+last_name:shin
+first_name:jimin
+[ITEM]
+hasegawa daiki volkswagen
+last_name:hasegawa
+first_name:daiki
+organization:volkswagen
+[ITEM]
+song jiho hitachi
+last_name:song
+first_name:jiho
+organization:hitachi
+[ITEM]
+bmw zhou haoran
+organization:bmw
+last_name:zhou
+first_name:haoran
+[ITEM]
+ford kwon seulgi
+organization:ford
+last_name:kwon
+first_name:seulgi
+[ITEM]
+hsbc inoue yuto
+organization:hsbc
+last_name:inoue
+first_name:yuto
+[ITEM]
+liu chao rolex
+last_name:liu
+first_name:chao
+organization:rolex
+[ITEM]
+disney honda ayaka
+organization:disney
+last_name:honda
+first_name:ayaka
+[ITEM]
+amanda walker ubs
+first_name:amanda
+last_name:walker
+organization:ubs
+[ITEM]
+tang zhihao unilever
+last_name:tang
+first_name:zhihao
+organization:unilever
+[ITEM]
+lim minjun airbnb
+last_name:lim
+first_name:minjun
+organization:airbnb
+[ITEM]
+amazon jang haeun
+organization:amazon
+last_name:jang
+first_name:haeun
+[ITEM]
+theresa white ups
+first_name:theresa
+last_name:white
+organization:ups
+[ITEM]
+fedex jill jackson
+organization:fedex
+first_name:jill
+last_name:jackson
+[ITEM]
+nakamura asuka azure
+last_name:nakamura
+first_name:asuka
+organization:azure
+[ITEM]
+sato tsubasa huawei
+last_name:sato
+first_name:tsubasa
+organization:huawei
+[ITEM]
+nvidia jin pengfei
+organization:nvidia
+last_name:jin
+first_name:pengfei
+[ITEM]
+jill thomas dell
+first_name:jill
+last_name:thomas
+organization:dell
+[ITEM]
+zoom qiu jielun
+organization:zoom
+last_name:qiu
+first_name:jielun
+[ITEM]
+mcdonald shen lili
+organization:mcdonald
+last_name:shen
+first_name:lili
+[ITEM]
+novartis dang eunji
+organization:novartis
+last_name:dang
+first_name:eunji
+[ITEM]
+fukuda nana daimler
+last_name:fukuda
+first_name:nana
+organization:daimler
+[ITEM]
+hattori hina intel
+last_name:hattori
+first_name:hina
+organization:intel
+[ITEM]
+logan hughes sumitomo
+first_name:logan
+last_name:hughes
+organization:sumitomo
+[ITEM]
+ubs kathy moore
+organization:ubs
+first_name:kathy
+last_name:moore
+[ITEM]
+kwon eunji toyota
+last_name:kwon
+first_name:eunji
+organization:toyota
+[ITEM]
+3m hara takumi
+organization:3m
+last_name:hara
+first_name:takumi
+[ITEM]
+choi haeun 3m
+last_name:choi
+first_name:haeun
+organization:3m
+[ITEM]
+dhl suzuki riku
+organization:dhl
+last_name:suzuki
+first_name:riku
+[ITEM]
+shin sungmin glaxosmithkline
+last_name:shin
+first_name:sungmin
+organization:glaxosmithkline
+[ITEM]
+microsoft huang xinyi
+organization:microsoft
+last_name:huang
+first_name:xinyi
+[ITEM]
+netflix go minji
+organization:netflix
+last_name:go
+first_name:minji
+[ITEM]
+samantha smith lexus
+first_name:samantha
+last_name:smith
+organization:lexus
+[ITEM]
+xu weiwei shell
+last_name:xu
+first_name:weiwei
+organization:shell
+[ITEM]
+xie xin nike
+last_name:xie
+first_name:xin
+organization:nike
+[ITEM]
+hp chang jieun
+organization:hp
+last_name:chang
+first_name:jieun
+[ITEM]
+furukawa airi ferrari
+last_name:furukawa
+first_name:airi
+organization:ferrari
+[ITEM]
+shon minso sap
+last_name:shon
+first_name:minso
+organization:sap
+[ITEM]
+nike xiao suwei
+organization:nike
+last_name:xiao
+first_name:suwei
+[ITEM]
+microsoft jason morgan
+organization:microsoft
+first_name:jason
+last_name:morgan
+[ITEM]
+hattori emi daimler
+last_name:hattori
+first_name:emi
+organization:daimler
+[ITEM]
+virginia anderson azure
+first_name:virginia
+last_name:anderson
+organization:azure
+[ITEM]
+arai saki saudi aramco
+last_name:arai
+first_name:saki
+organization:saudi aramco
+[ITEM]
+amazon ma jielun
+organization:amazon
+last_name:ma
+first_name:jielun
+[ITEM]
+meta cho seojun
+organization:meta
+last_name:cho
+first_name:seojun
+[ITEM]
+zoom patrick griffiths
+organization:zoom
+first_name:patrick
+last_name:griffiths
+[ITEM]
+sinopec melinda kelly
+organization:sinopec
+first_name:melinda
+last_name:kelly
+[ITEM]
+tesla hae bora
+organization:tesla
+last_name:hae
+first_name:bora
+[ITEM]
+mitsubishi liang bin
+organization:mitsubishi
+last_name:liang
+first_name:bin
+[ITEM]
+pang haeun unilever
+last_name:pang
+first_name:haeun
+organization:unilever
+[ITEM]
+walmart he bin
+organization:walmart
+last_name:he
+first_name:bin
+[ITEM]
+shon woojin schneider
+last_name:shon
+first_name:woojin
+organization:schneider
+[ITEM]
+sony choe subin
+organization:sony
+last_name:choe
+first_name:subin
+[ITEM]
+saudi aramco mary anderson
+organization:saudi aramco
+first_name:mary
+last_name:anderson
+[ITEM]
+volkswagen aoki sota
+organization:volkswagen
+last_name:aoki
+first_name:sota
+[ITEM]
+huang haoran nike
+last_name:huang
+first_name:haoran
+organization:nike
+[ITEM]
+chen hui ubs
+last_name:chen
+first_name:hui
+organization:ubs
+[ITEM]
+furukawa yuzuki snap
+last_name:furukawa
+first_name:yuzuki
+organization:snap
+[ITEM]
+jin fang lg
+last_name:jin
+first_name:fang
+organization:lg
+[ITEM]
+hannah webb deutsche bank
+first_name:hannah
+last_name:webb
+organization:deutsche bank
+[ITEM]
+lenovo ma yifan
+organization:lenovo
+last_name:ma
+first_name:yifan
+[ITEM]
+isaac james samsung
+first_name:isaac
+last_name:james
+organization:samsung
+[ITEM]
+toyota han jun
+organization:toyota
+last_name:han
+first_name:jun
+[ITEM]
+fedex song hao
+organization:fedex
+last_name:song
+first_name:hao
+[ITEM]
+kobayashi nozomi toyota
+last_name:kobayashi
+first_name:nozomi
+organization:toyota
+[ITEM]
+basf bao jin
+organization:basf
+last_name:bao
+first_name:jin
+[ITEM]
+hannah evans lexus
+first_name:hannah
+last_name:evans
+organization:lexus
+[ITEM]
+allianz yu ming
+organization:allianz
+last_name:yu
+first_name:ming
+[ITEM]
+hong shuang volkswagen
+last_name:hong
+first_name:shuang
+organization:volkswagen
+[ITEM]
+angela murphy bp
+first_name:angela
+last_name:murphy
+organization:bp
+[ITEM]
+tanaka.haruto@accenture.com
+last_name:tanaka
+first_name:haruto
+organization:accenture
+[ITEM]
+ikeda.rin@zoom.com
+last_name:ikeda
+first_name:rin
+organization:zoom
+[ITEM]
+yamamoto.kenta@lvmh.com
+last_name:yamamoto
+first_name:kenta
+organization:lvmh
+[ITEM]
+rogers.judith@disney.com
+last_name:rogers
+first_name:judith
+organization:disney
+[ITEM]
+endo.itsuki@wipro.com
+last_name:endo
+first_name:itsuki
+organization:wipro
+[ITEM]

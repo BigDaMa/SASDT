@@ -1,0 +1,272 @@
+University of Pennsylvania, Philadelphia, Pennsylvania, USA
+university:University of Pennsylvania
+city:Philadelphia
+state:Pennsylvania
+country:USA
+[ITEM]
+Ithaca, Cornell University, USA
+city:Ithaca
+university:Cornell University
+country:USA
+[ITEM]
+Massachusetts Institute of Technology, Cambridge, Massachusetts, USA
+university:Massachusetts Institute of Technology
+city:Cambridge
+state:Massachusetts
+country:USA
+[ITEM]
+China, Beijing, Tsinghua University
+country:China
+city:Beijing
+university:Tsinghua University
+[ITEM]
+UC Berkeley, Berkeley, California, USA
+university:UC Berkeley
+city:Berkeley
+state:California
+country:USA
+[ITEM]
+Stanford University, Stanford, California, USA
+university:Stanford University
+city:Stanford
+state:California
+country:USA
+[ITEM]
+Houston, Rice University, USA
+city:Houston
+university:Rice University
+country:USA
+[ITEM]
+Harvard University, Cambridge, Massachusetts, USA
+university:Harvard University
+city:Cambridge
+state:Massachusetts
+country:USA
+[ITEM]
+Caltech, Pasadena, California, USA
+university:Caltech
+city:Pasadena
+state:California
+country:USA
+[ITEM]
+Germany, Berlin, Humboldt University of Berlin
+country:Germany
+city:Berlin
+university:Humboldt University of Berlin
+[ITEM]
+Paris, Sorbonne University, France
+city:Paris
+university:Sorbonne University
+country:France
+[ITEM]
+University of Tokyo, Tokyo, Japan
+university:University of Tokyo
+city:Tokyo
+country:Japan
+[ITEM]
+Hokaido, Sapporo, Hokkaido University, Japan
+state:Hokaido
+city:Sapporo
+university:Hokkaido University
+country:Japan
+[ITEM]
+China, Shanghai, Fudan University
+country:China
+city:Shanghai
+university:Fudan University
+[ITEM]
+Drexel University, Philadelphia, Pennsylvania, USA
+university:Drexel University
+city:Philadelphia
+state:Pennsylvania
+country:USA
+[ITEM]
+Imperial College London, London, United Kingdom
+university:Imperial College London
+city:London
+country:United Kingdom
+[ITEM]
+Beijing, Peking University, China
+country:China
+university:Peking University
+city:Beijing
+[ITEM]
+Edinburgh, University of Edinburgh, United Kingdom
+city:Edinburgh
+university:University of Edinburgh
+country:United Kingdom
+[ITEM]
+Hongkong, University of Hongkong, China
+city:Hongkong
+university:University of Hongkong
+country:China
+[ITEM]
+Canberra, Australian National University, Australia
+city:Canberra
+university:Australian National University
+country:Australia
+[ITEM]
+Delft, Delft University of Technology, Netherlands
+city:Delft
+university:Delft University of Technology
+country:Netherlands
+[ITEM]
+Duke University, Durham, North Carolina, USA
+university:Duke University
+city:Durham
+state:North Carolina
+country:USA
+[ITEM]
+Montreal, McGill University, Canada
+city:Montreal
+university:McGill University
+country:Canada
+[ITEM]
+Lausanne, EPFL, Switzerland
+city:Lausanne
+university:EPFL
+country:Switzerland
+[ITEM]
+Uganda, Kampala, Makerere University
+country:Uganda
+city:Kampala
+university:Makerere University
+[ITEM]
+Jakarta, University of Indonesia, Indonesia
+city:Jakarta
+university:University of Indonesia
+country:Indonesia
+[ITEM]
+Czechia, Prague, Charles University
+country:Czechia
+city:Prague
+university:Charles University
+[ITEM]
+China, Nanjing, Nanjing University
+country:China
+city:Nanjing
+university:Nanjing University
+[ITEM]
+Seoul, Seoul National University, South Korea
+city:Seoul
+university:Seoul National University
+country:South Korea
+[ITEM]
+Princeton University, Princeton, New Jersey, USA
+university:Princeton University
+city:Princeton
+state:New Jersey
+country:USA
+[ITEM]
+Sendai, Tohoku University, Japan
+city:Sendai
+university:Tohoku University
+country:Japan
+[ITEM]
+Tokyo, Waseda University, Japan
+city:Tokyo
+university:Waseda University
+country:Japan
+[ITEM]
+Johns Hopkins University, Baltimore, Maryland, USA
+university:Johns Hopkins University
+city:Baltimore
+state:Maryland
+country:USA
+[ITEM]
+Toronto, University of Toronto, Canada
+city:Toronto
+university:University of Toronto
+country:Canada
+[ITEM]
+Leipzig, Leipzig University, Germany
+city:Leipzig
+university:Leipzig University
+country:Germany
+[ITEM]
+Osaka, Osaka University, Japan
+city:Osaka
+university:Osaka University
+country:Japan
+[ITEM]
+China, Shanghai, Tongji University
+country:China
+city:Shanghai
+university:Tongji University
+[ITEM]
+China, Tianjin, Nankai University
+country:China
+city:Tianjin
+university:Nankai University
+[ITEM]
+Manchester, University of Manchester, United Kingdom
+city:Manchester
+country:United Kingdom
+university:University of Manchester
+[ITEM]
+Carnegie Mellon University, Pittsburgh, Pennsylvania, USA
+university:Carnegie Mellon University
+city:Pittsburgh
+state:Pennsylvania
+country:USA
+[ITEM]
+University of Pennsylvania in Philadelphia
+university:University of Pennsylvania
+city:Philadelphia
+[ITEM]
+Cornell University in Ithaca
+university:Cornell University
+city:Ithaca
+[ITEM]
+Massachusetts Institute of Technology in Cambridge
+university:Massachusetts Institute of Technology
+city:Cambridge
+[ITEM]
+Tsinghua University in Beijing
+university:Tsinghua University
+city:Beijing
+[ITEM]
+UC Berkeley in Berkeley
+university:UC Berkeley
+city:Berkeley
+[ITEM]
+Makerere University in Kampala
+university:Makerere University
+city:Kampala
+[ITEM]
+Humboldt University of Berlin in Berlin
+university:Humboldt University of Berlin
+city:Berlin
+[ITEM]
+Charles University in Prague
+university:Charles University
+city:Prague
+[ITEM]
+Leipzig University in Leipzig
+university:Leipzig University
+city:Leipzig
+[ITEM]
+Princeton University in Princeton
+university:Princeton University
+city:Princeton
+[ITEM]
+Stanford University in Stanford
+university:Stanford University
+city:Stanford
+[ITEM]
+University of Edinburgh in Edinburgh
+university:University of Edinburgh
+city:Edinburgh
+[ITEM]
+Peking University in Beijing
+university:Peking University
+city:Beijing
+[ITEM]
+University of Toronto in Toronto
+university:University of Toronto
+city:Toronto
+[ITEM]
+Harvard University in Cambridge
+university:Harvard University
+city:Cambridge
+[ITEM]

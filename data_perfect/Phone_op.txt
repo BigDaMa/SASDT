@@ -1,0 +1,34 @@
+773-420-6612
+first_three_digits:AbsPos(0)[PARAMSPLIT]AbsPos(3)
+middle_three_digits:AbsPos(4)[PARAMSPLIT]AbsPos(7)
+last_four_digits:AbsPos(8)[PARAMSPLIT]AbsPos(12)
+[ITEM]
+312-984-2761
+first_three_digits:AbsPos(0)[PARAMSPLIT]AbsPos(3)
+middle_three_digits:AbsPos(4)[PARAMSPLIT]AbsPos(7)
+last_four_digits:AbsPos(8)[PARAMSPLIT]AbsPos(12)
+[ITEM]
+(305) 667-4455
+first_three_digits:AbsPos(1)[PARAMSPLIT]AbsPos(4)
+middle_three_digits:AbsPos(6)[PARAMSPLIT]AbsPos(9)
+last_four_digits:AbsPos(10)[PARAMSPLIT]AbsPos(14)
+[ITEM]
+(626) 391-2477
+first_three_digits:AbsPos(1)[PARAMSPLIT]AbsPos(4)
+middle_three_digits:AbsPos(6)[PARAMSPLIT]AbsPos(9)
+last_four_digits:AbsPos(10)[PARAMSPLIT]AbsPos(14)
+[ITEM]
+415-901-4433
+first_three_digits:AbsPos(0)[PARAMSPLIT]AbsPos(3)
+middle_three_digits:AbsPos(4)[PARAMSPLIT]AbsPos(7)
+last_four_digits:AbsPos(8)[PARAMSPLIT]AbsPos(12)
+[ITEM]
+773 420 6612
+first_three_digits:AbsPos(0)[PARAMSPLIT]AbsPos(3)
+middle_three_digits:AbsPos(4)[PARAMSPLIT]AbsPos(7)
+last_four_digits:AbsPos(8)[PARAMSPLIT]AbsPos(12)
+[ITEM]
+213.589.7777
+first_three_digits:AbsPos(0)[PARAMSPLIT]AbsPos(3)
+middle_three_digits:AbsPos(4)[PARAMSPLIT]AbsPos(7)
+last_four_digits:AbsPos(8)[PARAMSPLIT]AbsPos(12)

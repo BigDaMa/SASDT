@@ -1,0 +1,29 @@
+Steve Jobs
+given_name:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPESPACE],0,L)
+family_name:RegPos([ESCAPESPACE],0,R)[PARAMSPLIT]AbsPos(None)
+[ITEM]
+Natalie Portman
+given_name:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPESPACE],0,L)
+family_name:RegPos([ESCAPESPACE],0,R)[PARAMSPLIT]AbsPos(None)
+[ITEM]
+Tim Cook
+given_name:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPESPACE],0,L)
+family_name:RegPos([ESCAPESPACE],0,R)[PARAMSPLIT]AbsPos(None)
+[ITEM]
+Zhou Chuanxiong
+family_name:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPESPACE],0,L)
+given_name:RegPos([ESCAPESPACE],0,R)[PARAMSPLIT]AbsPos(None)
+[ITEM]
+Justin Randall Timberlake
+given_name:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPESPACE],0,L)
+middle_name:RegPos([ESCAPESPACE],0,R)[PARAMSPLIT]RegPos([ESCAPESPACE],-1,L)
+family_name:RegPos([ESCAPESPACE],-1,R)[PARAMSPLIT]AbsPos(None)
+[ITEM]
+Tran Thu Ha
+family_name:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPESPACE],0,L)
+given_name:RegPos([ESCAPESPACE],0,R)[PARAMSPLIT]RegPos([ESCAPESPACE],-1,L)
+middle_name:RegPos([ESCAPESPACE],-1,R)[PARAMSPLIT]AbsPos(None)
+[ITEM]
+Jobs, Steve
+family_name:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPECOMMA],0,L)
+given_name:RegPos([ESCAPESPACE],0,R)[PARAMSPLIT]AbsPos(None)

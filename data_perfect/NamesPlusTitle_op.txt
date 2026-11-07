@@ -1,0 +1,23 @@
+Albert Einstein
+given_name:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPESPACE],0,L)
+family_name:RegPos([ESCAPESPACE],0,R)[PARAMSPLIT]AbsPos(None)
+[ITEM]
+Stephen Hawking
+given_name:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPESPACE],0,L)
+family_name:RegPos([ESCAPESPACE],0,R)[PARAMSPLIT]AbsPos(None)
+[ITEM]
+Yukawa Hideki
+family_name:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPESPACE],0,L)
+given_name:RegPos([ESCAPESPACE],0,R)[PARAMSPLIT]AbsPos(None)
+[ITEM]
+Yang Zhenning
+family_name:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPESPACE],0,L)
+given_name:RegPos([ESCAPESPACE],0,R)[PARAMSPLIT]AbsPos(None)
+[ITEM]
+Richard Phillips Feynman
+given_name:AbsPos(0)[PARAMSPLIT]RegPos([ESCAPESPACE],0,L)
+middle_name:RegPos([ESCAPESPACE],0,R)[PARAMSPLIT]RegPos([ESCAPESPACE],-1,L)
+family_name:RegPos([ESCAPESPACE],-1,R)[PARAMSPLIT]AbsPos(None)
+[ITEM]
+Dr. Einstein
+family_name:RegPos([ESCAPESPACE],0,R)[PARAMSPLIT]AbsPos(None)

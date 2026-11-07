@@ -1,0 +1,62 @@
+Tim Cook CEO
+Albert Einstein Doctor
+Angela Merkel Chancellor
+Brian Olsavsky CFO
+Marie Curie Doctor
+Sundar Pichai CEO
+Niels Bohr Doctor
+Walter Kohn Doctor
+Colin Huang CTO
+Emmanuel Macron President
+Ronald Reagan President
+[ITEM]
+Fukui Kenichi Doctor
+Iwata Satoru President
+Koshiba Masatoshi Doctor
+Wu Eddie CEO
+Ma Huateng President
+Li Sanli Doctor
+Nakamura Shuji Doctor
+[ITEM]
+CEO Satya Nadella
+President Barack Obama
+Professor Stephen Hawking
+CTO Pravjit Tiwana
+Doctor Syed Ahson
+CEO Elon Musk
+President Joachim Gauck
+CFO Vaibhav Taneja
+President Mark Zuckerberg
+Chancellor Helmut Kohl
+Professor David Baltimore
+Professor Robert Koch
+President Bill Clinton
+[ITEM]
+Professor Michael Ralph Stonebraker
+President George Walker Bush
+Doctor Julius Robert Oppenheimer
+Professor Edgar Frank Codd
+Doctor Richard Phillips Feynman
+Doctor Andrew Fielding Huxley
+Professor Philip William Higgs
+[ITEM]
+President Abe Shinzo
+Professor Yukawa Hideki
+[ITEM]
+CEO Cook
+Doctor Fukui
+CEO Nadella
+Professor Stonebraker
+Doctor Einstein
+President Clinton
+Doctor Oppenheimer
+Doctor Nakamura
+Doctor Bohr
+President Ma
+President Bush
+CEO Wu
+CTO Tiwana
+President Macron
+President Reagan
+Professor Hawking
+[ITEM]

@@ -1,0 +1,240 @@
+Valentine Day in 2024
+festival:Valentine Day
+year:2024
+[ITEM]
+2019 Thanksgiving Day
+year:2019
+festival:Thanksgiving Day
+[ITEM]
+1995 Dragon Boat Festival
+year:1995
+festival:Dragon Boat Festival
+[ITEM]
+Halloween in 2023
+festival:Halloween
+year:2023
+[ITEM]
+2019 Songkran Festival
+year:2019
+festival:Songkran Festival
+[ITEM]
+2022 Diwali
+year:2022
+festival:Diwali
+[ITEM]
+Naadam Festival in 2021
+festival:Naadam Festival
+year:2021
+[ITEM]
+Christmas in 1993
+festival:Christmas
+year:1993
+[ITEM]
+2018 Beltane Day
+year:2018
+festival:Beltane Day
+[ITEM]
+2009 Tsukimi Festival
+year:2009
+festival:Tsukimi Festival
+[ITEM]
+Nowroz in 2020
+festival:Nowroz
+year:2020
+[ITEM]
+Yeondeunghoe in 2008
+festival:Yeondeunghoe
+year:2008
+[ITEM]
+1985 Mid Autumn Festival
+year:1985
+festival:Mid Autumn Festival
+[ITEM]
+Holi Festival in 2017
+festival:Holi Festival
+year:2017
+[ITEM]
+Kadayawan Festival in 2016
+festival:Kadayawan Festival
+year:2016
+[ITEM]
+2009 Sangken Festival
+year:2009
+festival:Sangken Festival
+[ITEM]
+Chinese National Day in 2022
+festival:Chinese National Day
+year:2022
+[ITEM]
+2019 Oktoberfest
+year:2019
+festival:Oktoberfest
+[ITEM]
+Saturnalia Festival in 1990
+festival:Saturnalia Festival
+year:1990
+[ITEM]
+2009 Bastille Day
+year:2009
+festival:Bastille Day
+[ITEM]
+Ascention Day in 2021
+festival:Ascention Day
+year:2021
+[ITEM]
+Whitsun in 2018
+festival:Whitsun
+year:2018
+[ITEM]
+2002 German Unity Day
+year:2002
+festival:German Unity Day
+[ITEM]
+Independence Day in 2015
+festival:Independence Day
+year:2015
+[ITEM]
+Eid al-Fitr in 2023
+festival:Eid al-Fitr
+year:2023
+[ITEM]
+2009 Labor Day
+year:2009
+festival:Labor Day
+[ITEM]
+Greenery Day in 1997
+festival:Greenery Day
+year:1997
+[ITEM]
+2015 Showa Day
+year:2015
+festival:Showa Day
+[ITEM]
+Chuseok in 2020
+festival:Chuseok
+year:2020
+[ITEM]
+2019 Hangul Day
+year:2019
+festival:Hangul Day
+[ITEM]
+2018 Ashura
+year:2018
+festival:Ashura
+[ITEM]
+Sizdah Bedar in 2016
+festival:Sizdah Bedar
+year:2016
+[ITEM]
+2005 Victory Day
+year:2005
+festival:Victory Day
+[ITEM]
+2004 Epiphany
+year:2004
+festival:Epiphany
+[ITEM]
+Tomb Sweeping Day in 2024
+festival: Tomb Sweeping Day
+year:2024
+[ITEM]
+2000 Losar Festival
+year:2000
+festival:Losar Festival
+[ITEM]
+2019 Canada Day
+year:2019
+festival:Canada Day
+[ITEM]
+Boxing Day in 2021
+festival:Boxing Day
+year:2021
+[ITEM]
+Easter in 1998
+festival:Easter
+year:1998
+[ITEM]
+2024 Patronal Festival
+year:2024
+festival:Patronal Festival
+[ITEM]
+2024, Valentine Day
+year:2024
+festival:Valentine Day
+[ITEM]
+2019, Thanksgiving Day
+year:2019
+festival:Thanksgiving Day
+[ITEM]
+1995, Dragon Boat Festival
+year:1995
+festival:Dragon Boat Festival
+[ITEM]
+2023, Halloween
+year:2023
+festival:Halloween
+[ITEM]
+2019, Songkran Festival
+year:2019
+festival:Songkran Festival
+[ITEM]
+Ascension Day in 2021
+festival:Ascension Day
+year:2021
+[ITEM]
+2024, Tomb Sweeping Day
+year:2024
+festival:Tomb Sweeping Day
+[ITEM]
+2005, Victory Day
+year:2005
+festival:Victory Day
+[ITEM]
+2022, Diwali
+year:2022
+festival:Diwali
+[ITEM]
+2024, Patronal Festival
+year:2024
+festival:Patronal Festival
+[ITEM]
+2020, Nowroz
+year:2020
+festival:Nowroz
+[ITEM]
+2016, Kadayawan Festival
+year:2016
+festival:Kadayawan Festival
+[ITEM]
+2021, Boxing Day
+year:2021
+festival:Boxing Day
+[ITEM]
+1997, Greenery Day
+year:1997
+festival:Greenery Day
+[ITEM]
+2018, Beltane Day
+year:2018
+festival:Beltane Day
+[ITEM]
+2000, Losar Festival
+year:2000
+festival:Losar Festival
+[ITEM]
+2009, Tsukimi Festival
+year:2009
+festival:Tsukimi Festival
+[ITEM]
+1993, Christmas
+year:1993
+festival:Christmas
+[ITEM]
+2002, German Unity Day
+year:2002
+festival:German Unity Day
+[ITEM]
+2021, Ascension Day
+year:2021
+festival:Ascension Day
+[ITEM]

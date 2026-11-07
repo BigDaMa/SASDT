@@ -1,0 +1,2142 @@
+Canada Vancouver, 2010, Symposium, OSDI
+country:Canada
+city:Vancouver
+year:2010
+event_type:Symposium
+event_name:OSDI
+[ITEM]
+Symposium: UIST 1997, Banff Canada
+event_type:Symposium
+event_name:UIST
+year:1997
+city:Banff
+country:Canada
+[ITEM]
+USA New Brunswick, 1994, Conference, COLT
+country:USA
+city:New Brunswick
+year:1994
+event_type:Conference
+event_name:COLT
+[ITEM]
+UK Edinburgh, 2006, Conference, WWW
+country:UK
+city:Edinburgh
+year:2006
+event_type:Conference
+event_name:WWW
+[ITEM]
+2006 UIST (Symposium) in Montreux, Switzerland
+year:2006
+event_name:UIST
+event_type:Symposium
+city:Montreux
+country:Switzerland
+[ITEM]
+2013 AAAI (Conference) in Bellevue, USA
+year:2013
+event_name:AAAI
+event_type:Conference
+city:Bellevue
+country:USA
+[ITEM]
+1995 IJCAI (Conference) in Montral, Canada
+year:1995
+event_name:IJCAI
+event_type:Conference
+city:Montral
+country:Canada
+[ITEM]
+Symposium: S&P 1987, Oakland USA
+event_type:Symposium
+event_name:S&P
+year:1987
+city:Oakland
+country:USA
+[ITEM]
+Germany Berlin, 2012, Conference, EDBT
+country:Germany
+city:Berlin
+year:2012
+event_type:Conference
+event_name:EDBT
+[ITEM]
+USA Tucson, 1997, Conference, PODS
+country:USA
+city:Tucson
+year:1997
+event_type:Conference
+event_name:PODS
+[ITEM]
+1987 IJCAI (Conference) in Milan, Italy
+year:1987
+event_name:IJCAI
+event_type:Conference
+city:Milan
+country:Italy
+[ITEM]
+2011 OOPSLA (Conference) in Portland, USA
+year:2011
+event_name:OOPSLA
+event_type:Conference
+city:Portland
+country:USA
+[ITEM]
+USA Denver, 1992, Conference, NIPS
+country:USA
+city:Denver
+year:1992
+event_type:Conference
+event_name:NIPS
+[ITEM]
+2013 UIST (Symposium) in St Andrews, UK
+year:2013
+event_name:UIST
+event_type:Symposium
+city:St Andrews
+country:UK
+[ITEM]
+Symposium: S&P 2007, Oakland USA
+event_type:Symposium
+event_name:S&P
+year:2007
+city:Oakland
+country:USA
+[ITEM]
+Symposium: PODC 1999, Atlanta USA
+event_type:Symposium
+event_name:PODC
+year:1999
+city:Atlanta
+country:USA
+[ITEM]
+USA Bellevue, 2013, Conference, AAAI
+country:USA
+city:Bellevue
+year:2013
+event_type:Conference
+event_name:AAAI
+[ITEM]
+Germany Bonn, 2005, Conference, IEEE VR
+country:Germany
+city:Bonn
+year:2005
+event_type:Conference
+event_name:IEEE VR
+[ITEM]
+1995 HPCA (Conference) in Raleigh, USA
+year:1995
+event_name:HPCA
+event_type:Conference
+city:Raleigh
+country:USA
+[ITEM]
+Conference: AAAI 2014, Qubec Canada
+event_type:Conference
+event_name:AAAI
+year:2014
+city:Qubec
+country:Canada
+[ITEM]
+USA New Orleans, 1999, Symposium, OSDI
+country:USA
+city:New Orleans
+year:1999
+event_type:Symposium
+event_name:OSDI
+[ITEM]
+USA Palo Alto, 1975, Symposium, POPL
+country:USA
+city:Palo Alto
+year:1975
+event_type:Symposium
+event_name:POPL
+[ITEM]
+Conference: ECML PKDD 2010, Barcelona Spain
+event_type:Conference
+event_name:ECML
+year:PKDD 2010
+city:Barcelona
+country:Spain
+[ITEM]
+Austria Vienna, 2007, Conference, VLDB
+country:Austria
+city:Vienna
+year:2007
+event_type:Conference
+event_name:VLDB
+[ITEM]
+2005 POPL (Symposium) in Long Beach, USA
+year:2005
+event_name:POPL
+event_type:Symposium
+city:Long Beach
+country:USA
+[ITEM]
+Symposium: PODC 1987, Vancouver Canada
+event_type:Symposium
+event_name:PODC
+year:1987
+city:Vancouver
+country:Canada
+[ITEM]
+Conference: HPCA 2012, New Orleans USA
+event_type:Conference
+event_name:HPCA
+year:2012
+city:New Orleans
+country:USA
+[ITEM]
+USA Boston, 1973, Symposium, POPL
+country:USA
+city:Boston
+year:1973
+event_type:Symposium
+event_name:POPL
+[ITEM]
+Symposium: UIST 2004, Santa Fe USA
+event_type:Symposium
+event_name:UIST
+year:2004
+city:Santa Fe
+country:USA
+[ITEM]
+1986 OOPSLA (Conference) in Portland, USA
+year:1986
+event_name:OOPSLA
+event_type:Conference
+city:Portland
+country:USA
+[ITEM]
+Canada Banff, 2007, Conference, WWW
+country:Canada
+city:Banff
+year:2007
+event_type:Conference
+event_name:WWW
+[ITEM]
+2002 ISMAR (Symposium) in Darmstadt, Germany
+year:2002
+event_name:ISMAR
+event_type:Symposium
+city:Darmstadt
+country:Germany
+[ITEM]
+1994 KR (Conference) in Bonn, Germany
+year:1994
+event_name:KR
+event_type:Conference
+city:Bonn
+country:Germany
+[ITEM]
+Conference: DSN 2017, Denver USA
+event_type:Conference
+event_name:DSN
+year:2017
+city:Denver
+country:USA
+[ITEM]
+USA Seattle, 1987, Conference, AAAI
+country:USA
+city:Seattle
+year:1987
+event_type:Conference
+event_name:AAAI
+[ITEM]
+Japan Hiroshima, 2004, Conference, ISWC
+country:Japan
+city:Hiroshima
+year:2004
+event_type:Conference
+event_name:ISWC
+[ITEM]
+Norway Trondheim, 1997, Conference, PKDD
+country:Norway
+city:Trondheim
+year:1997
+event_type:Conference
+event_name:PKDD
+[ITEM]
+Conference: PLDI 1990, White Plains USA
+event_type:Conference
+event_name:PLDI
+year:1990
+city:White Plains
+country:USA
+[ITEM]
+1996 ISCA (Symposium) in Philadephia, USA
+year:1996
+event_name:ISCA
+event_type:Symposium
+city:Philadephia
+country:USA
+[ITEM]
+2009 ESWC (Conference) in Heraklion, Greece
+year:2009
+event_name:ESWC
+event_type:Conference
+city:Heraklion
+country:Greece
+[ITEM]
+Symposium: UIST 1994, Marina del Rey USA
+event_type:Symposium
+event_name:UIST
+year:1994
+city:Marina del Rey
+country:USA
+[ITEM]
+1983 EuroCrypt (Conference) in Udine, Italy
+year:1983
+event_name:EuroCrypt
+event_type:Conference
+city:Udine
+country:Italy
+[ITEM]
+2015 WWW (Conference) in Florence, Italy
+year:2015
+event_name:WWW
+event_type:Conference
+city:Florence
+country:Italy
+[ITEM]
+China Xi'an, 2017, Conference, ASPLOS
+country:China
+city:Xi'an
+year:2017
+event_type:Conference
+event_name:ASPLOS
+[ITEM]
+Conference: CVPR 1999, Ft. Collins USA
+event_type:Conference
+event_name:CVPR
+year:1999
+city:Ft. Collins
+country:USA
+[ITEM]
+Turkey Istanbul, 2015, Conference, ASPLOS
+country:Turkey
+city:Istanbul
+year:2015
+event_type:Conference
+event_name:ASPLOS
+[ITEM]
+Netherlands Amsterdam, 2000, Conference, WWW
+country:Netherlands
+city:Amsterdam
+year:2000
+event_type:Conference
+event_name:WWW
+[ITEM]
+Conference: KR 1996, Cambridge USA
+event_type:Conference
+event_name:KR
+year:1996
+city:Cambridge
+country:USA
+[ITEM]
+2017 DSN (Conference) in Denver, USA
+year:2017
+event_name:DSN
+event_type:Conference
+city:Denver
+country:USA
+[ITEM]
+Conference: PODS 1985, Portland USA
+event_type:Conference
+event_name:PODS
+year:1985
+city:Portland
+country:USA
+[ITEM]
+Spain Barcelona, 2016, Conference, HPCA
+country:Spain
+city:Barcelona
+year:2016
+event_type:Conference
+event_name:HPCA
+[ITEM]
+2008 KR (Conference) in Sydney, Australia
+year:2008
+event_name:KR
+event_type:Conference
+city:Sydney
+country:Australia
+[ITEM]
+Canada Toronto, 2010, Conference, KR
+country:Canada
+city:Toronto
+year:2010
+event_type:Conference
+event_name:KR
+[ITEM]
+1989 VLDB (Conference) in Amsterdam, Netherlands
+year:1989
+event_name:VLDB
+event_type:Conference
+city:Amsterdam
+country:Netherlands
+[ITEM]
+Portugal Coimbra, 2016, Conference, IJCAR
+country:Portugal
+city:Coimbra
+year:2016
+event_type:Conference
+event_name:IJCAR
+[ITEM]
+Sapin Barcelona, 1998, Symposium, ISCA
+country:Sapin
+city:Barcelona
+year:1998
+event_type:Symposium
+event_name:ISCA
+[ITEM]
+2000 NIPS (Conference) in Denver, USA
+year:2000
+event_name:NIPS
+event_type:Conference
+city:Denver
+country:USA
+[ITEM]
+2000 OOPSLA (Conference) in Minneapolis, USA
+year:2000
+event_name:OOPSLA
+event_type:Conference
+city:Minneapolis
+country:USA
+[ITEM]
+Symposium: PODC 1996, Philadelphia USA
+event_type:Symposium
+event_name:PODC
+year:1996
+city:Philadelphia
+country:USA
+[ITEM]
+2005 NIPS (Conference) in Vancouver, Canada
+year:2005
+event_name:NIPS
+event_type:Conference
+city:Vancouver
+country:Canada
+[ITEM]
+Conference: ASPLOS 2012, London UK
+event_type:Conference
+event_name:ASPLOS
+year:2012
+city:London
+country:UK
+[ITEM]
+2008 S&P (Symposium) in Oakland, USA
+year:2008
+event_name:S&P
+event_type:Symposium
+city:Oakland
+country:USA
+[ITEM]
+Conference: OOPSLA 2008, Nashville USA
+event_type:Conference
+event_name:OOPSLA
+year:2008
+city:Nashville
+country:USA
+[ITEM]
+USA Santa Clara, 1991, Conference, ASPLOS
+country:USA
+city:Santa Clara
+year:1991
+event_type:Conference
+event_name:ASPLOS
+[ITEM]
+USA Greenville, 2016, Conference, IEEE VR
+country:USA
+city:Greenville
+year:2016
+event_type:Conference
+event_name:IEEE VR
+[ITEM]
+Conference: EDBT 1990, Venice Italy
+event_type:Conference
+event_name:EDBT
+year:1990
+city:Venice
+country:Italy
+[ITEM]
+Japan Nara, 2007, Symposium, ISMAR
+country:Japan
+city:Nara
+year:2007
+event_type:Symposium
+event_name:ISMAR
+[ITEM]
+2010 IJCAR (Conference) in Edinburgh, UK
+year:2010
+event_name:IJCAR
+event_type:Conference
+city:Edinburgh
+country:UK
+[ITEM]
+Conference: ISWC 2013, Sydney Australia
+event_type:Conference
+event_name:ISWC
+year:2013
+city:Sydney
+country:Australia
+[ITEM]
+USA San Diego, 1989, Conference, CVPR
+country:USA
+city:San Diego
+year:1989
+event_type:Conference
+event_name:CVPR
+[ITEM]
+2007 ESWC (Conference) in Innsbruck, Austria
+year:2007
+event_name:ESWC
+event_type:Conference
+city:Innsbruck
+country:Austria
+[ITEM]
+2001 ISAR (Symposium) in New York, USA
+year:2001
+event_name:ISAR
+event_type:Symposium
+city:New York
+country:USA
+[ITEM]
+Symposium: OSDI 2012, Hollywood USA
+event_type:Symposium
+event_name:OSDI
+year:2012
+city:Hollywood
+country:USA
+[ITEM]
+Conference: PODS 1990, Nashville USA
+event_type:Conference
+event_name:PODS
+year:1990
+city:Nashville
+country:USA
+[ITEM]
+USA Atlanta, 1997, Conference, OOPSLA
+country:USA
+city:Atlanta
+year:1997
+event_type:Conference
+event_name:OOPSLA
+[ITEM]
+USA Rochester, 1990, Conference, COLT
+country:USA
+city:Rochester
+year:1990
+event_type:Conference
+event_name:COLT
+[ITEM]
+Canada Montreal, 2007, Conference, OOPSLA
+country:Canada
+city:Montreal
+year:2007
+event_type:Conference
+event_name:OOPSLA
+[ITEM]
+Conference: EuroCrypt 2005, Aarhus Denmark
+event_type:Conference
+event_name:EuroCrypt
+year:2005
+city:Aarhus
+country:Denmark
+[ITEM]
+USA New Orleans, 1999, Symposium, OSDI
+country:USA
+city:New Orleans
+year:1999
+event_type:Symposium
+event_name:OSDI
+[ITEM]
+Symposium: POPL 2010, Madrid Spain
+event_type:Symposium
+event_name:POPL
+year:2010
+city:Madrid
+country:Spain
+[ITEM]
+2003 COLT (Conference) in Washington, USA
+year:2003
+event_name:COLT
+event_type:Conference
+city:Washington
+country:USA
+[ITEM]
+Conference: PODS 2009, Providence USA
+event_type:Conference
+event_name:PODS
+year:2009
+city:Providence
+country:USA
+[ITEM]
+USA Los Angeles, 2018, Symposium, ISCA
+country:USA
+city:Los Angeles
+year:2018
+event_type:Symposium
+event_name:ISCA
+[ITEM]
+USA Washington, 2004, Conference, PLDI
+country:USA
+city:Washington
+year:2004
+event_type:Conference
+event_name:PLDI
+[ITEM]
+Austria Vienna, 2018, Conference, EDBT
+country:Austria
+city:Vienna
+year:2018
+event_type:Conference
+event_name:EDBT
+[ITEM]
+USA Minneapolis, 2014, Conference, IEEE VR
+country:USA
+city:Minneapolis
+year:2014
+event_type:Conference
+event_name:IEEE VR
+[ITEM]
+Czech Republic Prague, 2013, Conference, ECML PKDD
+country:Czech Republic
+city:Prague
+year:2013
+event_type:Conference
+event_name:ECML PKDD
+[ITEM]
+2016 OOPSLA (Conference) in Amsterdam, Netherlands
+year:2016
+event_name:OOPSLA
+event_type:Conference
+city:Amsterdam
+country:Netherlands
+[ITEM]
+Australia Sydney, 2016, Conference, PERCOM
+country:Australia
+city:Sydney
+year:2016
+event_type:Conference
+event_name:PERCOM
+[ITEM]
+Conference: ICSE 1989, Pittsburg USA
+event_type:Conference
+event_name:ICSE
+year:1989
+city:Pittsburg
+country:USA
+[ITEM]
+1996 PODS (Conference) in Montreal, Canada
+year:1996
+event_name:PODS
+event_type:Conference
+city:Montreal
+country:Canada
+[ITEM]
+1979 ICSE (Conference) in Munich, Germany
+year:1979
+event_name:ICSE
+event_type:Conference
+city:Munich
+country:Germany
+[ITEM]
+2017 ISWC (Conference) in Vienna, Austria
+year:2017
+event_name:ISWC
+event_type:Conference
+city:Vienna
+country:Austria
+[ITEM]
+2012 ISMAR (Symposium) in Atlanta, USA
+year:2012
+event_name:ISMAR
+event_type:Symposium
+city:Atlanta
+country:USA
+[ITEM]
+Ireland Dublin, 2009, Conference, PLDI
+country:Ireland
+city:Dublin
+year:2009
+event_type:Conference
+event_name:PLDI
+[ITEM]
+Symposium: ISCA 1998, Barcelona Sapin
+event_type:Symposium
+event_name:ISCA
+year:1998
+city:Barcelona
+country:Sapin
+[ITEM]
+USA Salt Lake City, 2007, Conference, ICWS
+country:USA
+city:Salt Lake City
+year:2007
+event_type:Conference
+event_name:ICWS
+[ITEM]
+Conference: IEEE VR 1999, Houston USA
+event_type:Conference
+event_name:IEEE
+year:VR 1999
+city:Houston
+country:USA
+[ITEM]
+USA San Francisco, 2012, Symposium, S&P
+country:USA
+city:San Francisco
+year:2012
+event_type:Symposium
+event_name:S&P
+[ITEM]
+2008 ASPLOS (Conference) in Seattle, USA
+year:2008
+event_name:ASPLOS
+event_type:Conference
+city:Seattle
+country:USA
+[ITEM]
+OSDI 2010, Symposium, Vancouver Canada
+event_name:OSDI
+year:2010
+event_type:Symposium
+city:Vancouver
+country:Canada
+[ITEM]
+UIST 1997, Symposium, Banff Canada
+event_name:UIST
+year:1997
+event_type:Symposium
+city:Banff
+country:Canada
+[ITEM]
+COLT 1994, Conference, New Brunswick USA
+event_name:COLT
+year:1994
+event_type:Conference
+city:New Brunswick
+country:USA
+[ITEM]
+WWW 2006, Conference, Edinburgh UK
+event_name:WWW
+year:2006
+event_type:Conference
+city:Edinburgh
+country:UK
+[ITEM]
+UIST 2006, Symposium, Montreux Switzerland
+event_name:UIST
+year:2006
+event_type:Symposium
+city:Montreux
+country:Switzerland
+[ITEM]
+2002 FOGA (Workshop) in Torremolinos, Spain
+year:2002
+event_name:FOGA
+event_type:Workshop
+city:Torremolinos
+country:Spain
+[ITEM]
+2012 FOCS (Conference) in New Brunswick, USA
+year:2012
+event_name:FOCS
+event_type:Conference
+city:New Brunswick
+country:USA
+[ITEM]
+USA San Francisco, 1990, Symposium, POPL
+country:USA
+city:San Francisco
+year:1990
+event_type:Symposium
+event_name:POPL
+[ITEM]
+2015 PODS (Conference) in Melbourne, Australia
+year:2015
+event_name:PODS
+event_type:Conference
+city:Melbourne
+country:Australia
+[ITEM]
+1995 EuroCrypt (Conference) in Saint-Malo, France
+year:1995
+event_name:EuroCrypt
+event_type:Conference
+city:Saint-Malo
+country:France
+[ITEM]
+2015 PERCOM (Conference) in St. Louis, USA
+year:2015
+event_name:PERCOM
+event_type:Conference
+city:St. Louis
+country:USA
+[ITEM]
+Conference: WWW 2016, Montreal Canada
+event_type:Conference
+event_name:WWW
+year:2016
+city:Montreal
+country:Canada
+[ITEM]
+UK Cambridge, 1994, Conference, EDBT
+country:UK
+city:Cambridge
+year:1994
+event_type:Conference
+event_name:EDBT
+[ITEM]
+2004 ISWC (Conference) in Hiroshima, Japan
+year:2004
+event_name:ISWC
+event_type:Conference
+city:Hiroshima
+country:Japan
+[ITEM]
+2018 PERCOM (Conference) in Athens, Greece
+year:2018
+event_name:PERCOM
+event_type:Conference
+city:Athens
+country:Greece
+[ITEM]
+Conference: VLDB 1990, Brisbane Australia
+event_type:Conference
+event_name:VLDB
+year:1990
+city:Brisbane
+country:Australia
+[ITEM]
+2011 EDBT (Conference) in Uppsala, Sweden
+year:2011
+event_name:EDBT
+event_type:Conference
+city:Uppsala
+country:Sweden
+[ITEM]
+Belgium Houthalen, 1989, Conference, EuroCrypt
+country:Belgium
+city:Houthalen
+year:1989
+event_type:Conference
+event_name:EuroCrypt
+[ITEM]
+2002 OOPSLA (Conference) in Seattle, USA
+year:2002
+event_name:OOPSLA
+event_type:Conference
+city:Seattle
+country:USA
+[ITEM]
+France Paris, 1984, Conference, EuroCrypt
+country:France
+city:Paris
+year:1984
+event_type:Conference
+event_name:EuroCrypt
+[ITEM]
+USA Honolulu, 1988, Symposium, ISCA
+country:USA
+city:Honolulu
+year:1988
+event_type:Symposium
+event_name:ISCA
+[ITEM]
+1998 NIPS (Conference) in Denver, USA
+year:1998
+event_name:NIPS
+event_type:Conference
+city:Denver
+country:USA
+[ITEM]
+Symposium: ISCA 2018, Los Angeles USA
+event_type:Symposium
+event_name:ISCA
+year:2018
+city:Los Angeles
+country:USA
+[ITEM]
+Conference: ICSE 1999, Los Angeles USA
+event_type:Conference
+event_name:ICSE
+year:1999
+city:Los Angeles
+country:USA
+[ITEM]
+India New Delhi, 2016, Conference, VLDB
+country:India
+city:New Delhi
+year:2016
+event_type:Conference
+event_name:VLDB
+[ITEM]
+2008 ICSE (Conference) in Leipzig, Germany
+year:2008
+event_name:ICSE
+event_type:Conference
+city:Leipzig
+country:Germany
+[ITEM]
+Conference: EuroCrypt 2016, Vienna Austria
+event_type:Conference
+event_name:EuroCrypt
+year:2016
+city:Vienna
+country:Austria
+[ITEM]
+USA Boston, 2007, Conference, USENIX
+country:USA
+city:Boston
+year:2007
+event_type:Conference
+event_name:USENIX
+[ITEM]
+Conference: VLDB 1994, Santiago de Chile Chile
+event_type:Conference
+event_name:VLDB
+year:1994
+city:Santiago de Chile
+country:Chile
+[ITEM]
+USA Seattle, 2002, Conference, OOPSLA
+country:USA
+city:Seattle
+year:2002
+event_type:Conference
+event_name:OOPSLA
+[ITEM]
+USA San Diego, 2008, Symposium, OSDI
+country:USA
+city:San Diego
+year:2008
+event_type:Symposium
+event_name:OSDI
+[ITEM]
+Conference: IJCAR 2006, Seattle USA
+event_type:Conference
+event_name:IJCAR
+year:2006
+city:Seattle
+country:USA
+[ITEM]
+Conference: ICSE 1994, Sorrento Italy
+event_type:Conference
+event_name:ICSE
+year:1994
+city:Sorrento
+country:Italy
+[ITEM]
+Conference: CCS 2010, Chicago USA
+event_type:Conference
+event_name:CCS
+year:2010
+city:Chicago
+country:USA
+[ITEM]
+Conference: VRAIS 1995, Triangle Park USA
+event_type:Conference
+event_name:VRAIS
+year:1995
+city:Triangle Park
+country:USA
+[ITEM]
+Conference: FOGA 2015, Aberystwyth UK
+event_type:Conference
+event_name:FOGA
+year:2015
+city:Aberystwyth
+country:UK
+[ITEM]
+2005 UIST (Symposium) in Seattle, USA
+year:2005
+event_name:UIST
+event_type:Symposium
+city:Seattle
+country:USA
+[ITEM]
+USA Fairfax, 1994, Conference, CCS
+year:1994
+event_name:CCS
+event_type:Conference
+city:Fairfax
+country:USA
+[ITEM]
+2004 FOCS (Conference) in Rome, Italy
+year:2004
+event_name:FOCS
+event_type:Conference
+city:Rome
+country:Italy
+[ITEM]
+1997 PLDI (Conference) in Las Vegas, USA
+year:1997
+event_name:PLDI
+event_type:Conference
+city:Las Vegas
+country:USA
+[ITEM]
+2014 AAAI (Conference) in Qubec, Canada
+year:2014
+event_name:AAAI
+event_type:Conference
+city:Qubec
+country:Canada
+[ITEM]
+Conference: VLDB 1986, Kyoto Japan
+event_type:Conference
+event_name:VLDB
+year:1986
+city:Kyoto
+country:Japan
+[ITEM]
+Conference: OOPSLA 1987, Orlando USA
+event_type:Conference
+event_name:OOPSLA
+year:1987
+city:Orlando
+country:USA
+[ITEM]
+Conference: PODS 1998, Seattle USA
+event_type:Conference
+event_name:PODS
+year:1998
+city:Seattle
+country:USA
+[ITEM]
+Canada Toronto, 2008, Symposium, PODC
+country:Canada
+city:Toronto
+year:2008
+event_type:Symposium
+event_name:PODC
+[ITEM]
+2018 VLDB (Conference) in Rio De Janiero, Brazil
+year:2018
+event_name:VLDB
+event_type:Conference
+city:Rio De Janiero
+country:Brazil
+[ITEM]
+UK Egham, 2018, Symposium, PODC
+country:UK
+city:Egham
+year:2018
+event_type:Symposium
+event_name:PODC
+[ITEM]
+Conference: COLT 1995, Santa Cruz USA
+event_type:Conference
+event_name:COLT
+year:1995
+city:Santa Cruz
+country:USA
+[ITEM]
+1994 FOGA (Workshop) in Estes Park, USA
+year:1994
+event_name:FOGA
+event_type:Workshop
+city:Estes Park
+country:USA
+[ITEM]
+Symposium: S&P 1986, Oakland USA
+event_type:Symposium
+event_name:S&P
+year:1986
+city:Oakland
+country:USA
+[ITEM]
+2015 USENIX (Conference) in Washington, USA
+year:2015
+event_name:USENIX
+event_type:Conference
+city:Washington
+country:USA
+[ITEM]
+Conference: AAAI 1996, Portland USA
+event_type:Conference
+event_name:AAAI
+year:1996
+city:Portland
+country:USA
+[ITEM]
+UK Brighton, 1991, Conference, EuroCrypt
+country:UK
+city:Brighton
+year:1991
+event_type:Conference
+event_name:EuroCrypt
+[ITEM]
+USA Portland, 1996, Conference, AAAI
+country:USA
+city:Portland
+year:1996
+event_type:Conference
+event_name:AAAI
+[ITEM]
+Symposium: ISCA 2001, Gteborg Sweden
+event_type:Symposium
+event_name:ISCA
+year:2001
+city:Gteborg
+country:Sweden
+[ITEM]
+USA Hollywood, 2012, Symposium, OSDI
+country:USA
+city:Hollywood
+year:2012
+event_type:Symposium
+event_name:OSDI
+[ITEM]
+USA Providence, 2012, Conference, CVPR
+country:USA
+city:Providence
+year:2012
+event_type:Conference
+event_name:CVPR
+[ITEM]
+USA Providence, 2009, Conference, PODS
+country:USA
+city:Providence
+year:2009
+event_type:Conference
+event_name:PODS
+[ITEM]
+Symposium: ISMAR 2016, Merida Mexico
+event_type:Symposium
+event_name:ISMAR
+year:2016
+city:Merida
+country:Mexico
+[ITEM]
+2018 EuroCrypt (Conference) in Tel Aviv, Isreal
+year:2018
+event_name:EuroCrypt
+event_type:Conference
+city:Tel Aviv
+country:Isreal
+[ITEM]
+2000 NDSS (Symposium) in San Diego, USA
+year:2000
+event_name:NDSS
+event_type:Symposium
+city:San Diego
+country:USA
+[ITEM]
+Conference: EuroCrypt 2007, Barcelona Spain
+event_type:Conference
+event_name:EuroCrypt
+year:2007
+city:Barcelona
+country:Spain
+[ITEM]
+Conference: PODS 1986, Cambridge USA
+event_type:Conference
+event_name:PODS
+year:1986
+city:Cambridge
+country:USA
+[ITEM]
+Conference: ICSE 1998, Kyoto Japan
+event_type:Conference
+event_name:ICSE
+year:1998
+city:Kyoto
+country:Japan
+[ITEM]
+USA Denver, 1999, Conference, OOPSLA
+country:USA
+city:Denver
+year:1999
+event_type:Conference
+event_name:OOPSLA
+[ITEM]
+Sweden Gteborg, 2001, Conference, DSN
+country:Sweden
+city:Gteborg
+year:2001
+event_type:Conference
+event_name:DSN
+[ITEM]
+1987 PODC (Symposium) in Vancouver, Canada
+year:1987
+event_name:PODC
+event_type:Symposium
+city:Vancouver
+country:Canada
+[ITEM]
+Australia Sydney, 2002, Conference, COLT
+country:Australia
+city:Sydney
+year:2002
+event_type:Conference
+event_name:COLT
+[ITEM]
+USA Anchorage, 2002, Symposium, ISCA
+country:USA
+city:Anchorage
+year:2002
+event_type:Symposium
+event_name:ISCA
+[ITEM]
+1993 PODS (Conference) in Washington, USA
+year:1993
+event_name:PODS
+event_type:Conference
+city:Washington
+country:USA
+[ITEM]
+1996 KR (Conference) in Cambridge, USA
+year:1996
+event_name:KR
+event_type:Conference
+city:Cambridge
+country:USA
+[ITEM]
+Luxembourg Luxembourg, 2018, Conference, DSN
+country:Luxembourg
+city:Luxembourg
+year:2018
+event_type:Conference
+event_name:DSN
+[ITEM]
+Conference: VLDB 1985, Stockholm Sweden
+event_type:Conference
+event_name:VLDB
+year:1985
+city:Stockholm
+country:Sweden
+[ITEM]
+1992 USENIX (Conference) in Berkeley, USA
+year:1992
+event_name:USENIX
+event_type:Conference
+city:Berkeley
+country:USA
+[ITEM]
+USA San Diego, 2014, Conference, USENIX
+country:USA
+city:San Diego
+year:2014
+event_type:Conference
+event_name:USENIX
+[ITEM]
+USA Boston, 2003, Symposium, PODC
+country:USA
+city:Boston
+year:2003
+event_type:Symposium
+event_name:PODC
+[ITEM]
+Conference: OOPSLA 2016, Amsterdam Netherlands
+event_type:Conference
+event_name:OOPSLA
+year:2016
+city:Amsterdam
+country:Netherlands
+[ITEM]
+Greece Athens, 2018, Conference, PERCOM
+country:Greece
+city:Athens
+year:2018
+event_type:Conference
+event_name:PERCOM
+[ITEM]
+Conference: AAAI 1980, Stanford USA
+event_type:Conference
+event_name:AAAI
+year:1980
+city:Stanford
+country:USA
+[ITEM]
+2017 PODC (Symposium) in Washington, USA
+year:2017
+event_name:PODC
+event_type:Symposium
+city:Washington
+country:USA
+[ITEM]
+Conference: DSN 2002, Washington USA
+event_type:Conference
+event_name:DSN
+year:2002
+city:Washington
+country:USA
+[ITEM]
+1998 PLDI (Conference) in Montreal, Canada
+year:1998
+event_name:PLDI
+event_type:Conference
+city:Montreal
+country:Canada
+[ITEM]
+USA Nashville, 1997, Conference, COLT
+country:USA
+city:Nashville
+year:1997
+event_type:Conference
+event_name:COLT
+[ITEM]
+USA San Diego, 2000, Symposium, NDSS
+country:USA
+city:San Diego
+year:2000
+event_type:Symposium
+event_name:NDSS
+[ITEM]
+Symposium: OSDI 2010, Vancouver Canada
+event_type:Symposium
+event_name:OSDI
+year:2010
+city:Vancouver
+country:Canada
+[ITEM]
+Conference: WSDM 2011, Hong Kong China
+event_type:Conference
+event_name:WSDM
+year:2011
+city:Hong Kong
+country:China
+[ITEM]
+USA Portland, 2006, Conference, OOPSLA
+country:USA
+city:Portland
+year:2006
+event_type:Conference
+event_name:OOPSLA
+[ITEM]
+Scotland Edinburgh, 1999, Conference, VLDB
+country:Scotland
+city:Edinburgh
+year:1999
+event_type:Conference
+event_name:VLDB
+[ITEM]
+1995 S&P (Symposium) in Oakland, USA
+year:1995
+event_name:S&P
+event_type:Symposium
+city:Oakland
+country:USA
+[ITEM]
+Austria Vienna, 2017, Conference, ISWC
+country:Austria
+city:Vienna
+year:2017
+event_type:Conference
+event_name:ISWC
+[ITEM]
+Australia Melbourne, 1992, Conference, ICSE
+country:Australia
+city:Melbourne
+year:1992
+event_type:Conference
+event_name:ICSE
+[ITEM]
+Conference: ICSE 2000, Limerick Ireland
+event_type:Conference
+event_name:ICSE
+year:2000
+city:Limerick
+country:Ireland
+[ITEM]
+1994 FOCS (Conference) in Santa Fe, USA
+year:1994
+event_name:FOCS
+event_type:Conference
+city:Santa Fe
+country:USA
+[ITEM]
+USA Anaheim, 2003, Conference, OOPSLA
+country:USA
+city:Anaheim
+year:2003
+event_type:Conference
+event_name:OOPSLA
+[ITEM]
+USA Athens, 2006, Conference, ISWC
+country:USA
+city:Athens
+year:2006
+event_type:Conference
+event_name:ISWC
+[ITEM]
+Conference: ICSE 1981, San Diego USA
+event_type:Conference
+event_name:ICSE
+year:1981
+city:San Diego
+country:USA
+[ITEM]
+USA San Diego, 2008, Symposium, NDSS
+country:USA
+city:San Diego
+year:2008
+event_type:Symposium
+event_name:NDSS
+[ITEM]
+USA Minneapolis, 2007, Conference, RecSys
+country:USA
+city:Minneapolis
+year:2007
+event_type:Conference
+event_name:RecSys
+[ITEM]
+Netherlands Amsterdam, 1987, Conference, EuroCrypt
+country:Netherlands
+city:Amsterdam
+year:1987
+event_type:Conference
+event_name:EuroCrypt
+[ITEM]
+Conference: VLDB 2001, Roma Italy
+event_type:Conference
+event_name:VLDB
+year:2001
+city:Roma
+country:Italy
+[ITEM]
+Hungary Budapest, 2003, Conference, WWW
+country:Hungary
+city:Budapest
+year:2003
+event_type:Conference
+event_name:WWW
+[ITEM]
+1990 EDBT (Conference) in Venice, Italy
+year:1990
+event_name:EDBT
+event_type:Conference
+city:Venice
+country:Italy
+[ITEM]
+USA Portland, 1989, Conference, PLDI
+country:USA
+city:Portland
+year:1989
+event_type:Conference
+event_name:PLDI
+[ITEM]
+FOGA 2002, Workshop, Torremolinos Spain
+event_name:FOGA
+year:2002
+event_type:Workshop
+city:Torremolinos
+country:Spain
+[ITEM]
+FOCS 2012, Conference, New Brunswick USA
+event_name:FOCS
+year:2012
+event_type:Conference
+city:New Brunswick
+country:USA
+[ITEM]
+POPL 1990, Symposium, San Francisco USA
+event_name:POPL
+year:1990
+event_type:Symposium
+city:San Francisco
+country:USA
+[ITEM]
+PODS 2015, Conference, Melbourne Australia
+event_name:PODS
+year:2015
+event_type:Conference
+city:Melbourne
+country:Australia
+[ITEM]
+EuroCrypt 1995, Conference, Saint-Malo France
+event_name:EuroCrypt
+year:1995
+event_type:Conference
+city:Saint-Malo
+country:France
+[ITEM]
+USA Denver, 1999, Conference, NIPS
+country:USA
+city:Denver
+year:1999
+event_type:Conference
+event_name:NIPS
+[ITEM]
+France Paris, 2015, Conference, COLT
+country:France
+city:Paris
+year:2015
+event_type:Conference
+event_name:COLT
+[ITEM]
+USA Chicago, 2016, Symposium, PODC
+country:USA
+city:Chicago
+year:2016
+event_type:Symposium
+event_name:PODC
+[ITEM]
+2005 IJCAI (Conference) in Edinburgh, UK
+year:2005
+event_name:IJCAI
+event_type:Conference
+city:Edinburgh
+country:UK
+[ITEM]
+Canada Montreal, 2014, Conference, NIPS
+country:Canada
+city:Montreal
+year:2014
+event_type:Conference
+event_name:NIPS
+[ITEM]
+2011 ECML PKDD (Conference) in Athens, Greece
+year:2011
+event_name:ECML PKDD
+event_type:Conference
+city:Athens
+country:Greece
+[ITEM]
+Conference: IJCAI 2003, Acapulco Mexico
+event_type:Conference
+event_name:IJCAI
+year:2003
+city:Acapulco
+country:Mexico
+[ITEM]
+Chile Santiago, 2015, Conference, ICCV
+country:Chile
+city:Santiago
+year:2015
+event_type:Conference
+event_name:ICCV
+[ITEM]
+USA Las Vegas, 2010, Conference, FOCS
+country:USA
+city:Las Vegas
+year:2010
+event_type:Conference
+event_name:FOCS
+[ITEM]
+Canada Vancouver, 2006, Conference, NIPS
+country:Canada
+city:Vancouver
+year:2006
+event_type:Conference
+event_name:NIPS
+[ITEM]
+Korea Seoul, 2016, Symposium, ISCA
+country:Korea
+city:Seoul
+year:2016
+event_type:Symposium
+event_name:ISCA
+[ITEM]
+Brazil Rio de Janeiro, 2013, Conference, WWW
+country:Brazil
+city:Rio de Janeiro
+year:2013
+event_type:Conference
+event_name:WWW
+[ITEM]
+Conference: OOPSLA 1986, Portland USA
+event_type:Conference
+event_name:OOPSLA
+year:1986
+city:Portland
+country:USA
+[ITEM]
+Conference: FOCS 2001, Las Vegas USA
+event_type:Conference
+event_name:FOCS
+year:2001
+city:Las Vegas
+country:USA
+[ITEM]
+USA Philadelphia, 2008, Conference, FOCS
+country:USA
+city:Philadelphia
+year:2008
+event_type:Conference
+event_name:FOCS
+[ITEM]
+Israel Haifa, 2010, Conference, COLT
+country:Israel
+city:Haifa
+year:2010
+event_type:Conference
+event_name:COLT
+[ITEM]
+2011 ESWC (Conference) in Heraklion, Greece
+year:2011
+event_name:ESWC
+event_type:Conference
+city:Heraklion
+country:Greece
+[ITEM]
+USA Seattle, 2013, Conference, PLDI
+country:USA
+city:Seattle
+year:2013
+event_type:Conference
+event_name:PLDI
+[ITEM]
+Symposium: PODC 1988, Toronto Canada
+event_type:Symposium
+event_name:PODC
+year:1988
+city:Toronto
+country:Canada
+[ITEM]
+Canada Alberta, 1988, Symposium, UIST
+country:Canada
+city:Alberta
+year:1988
+event_type:Symposium
+event_name:UIST
+[ITEM]
+Spain Barcelona, 1991, Conference, VLDB
+country:Spain
+city:Barcelona
+year:1991
+event_type:Conference
+event_name:VLDB
+[ITEM]
+Austria Linz, 1985, Conference, EuroCrypt
+country:Austria
+city:Linz
+year:1985
+event_type:Conference
+event_name:EuroCrypt
+[ITEM]
+Symposium: NDSS 2008, San Diego USA
+event_type:Symposium
+event_name:NDSS
+year:2008
+city:San Diego
+country:USA
+[ITEM]
+USA Pasadena, 2009, Conference, IJCAI
+country:USA
+city:Pasadena
+year:2009
+event_type:Conference
+event_name:IJCAI
+[ITEM]
+USA San Diego, 2003, Conference, PLDI
+country:USA
+city:San Diego
+year:2003
+event_type:Conference
+event_name:PLDI
+[ITEM]
+2010 WWW (Conference) in Raleigh, USA
+year:2010
+event_name:WWW
+event_type:Conference
+city:Raleigh
+country:USA
+[ITEM]
+2014 CCS (Conference) in Scottsdale, USA
+year:2014
+event_name:CCS
+event_type:Conference
+city:Scottsdale
+country:USA
+[ITEM]
+1989 PODS (Conference) in Philadelphia, USA
+year:1989
+event_name:PODS
+event_type:Conference
+city:Philadelphia
+country:USA
+[ITEM]
+2010 ISWC (Conference) in Shanghai, China
+year:2010
+event_name:ISWC
+event_type:Conference
+city:Shanghai
+country:China
+[ITEM]
+1994 COLT (Conference) in New Brunswick, USA
+year:1994
+event_name:COLT
+event_type:Conference
+city:New Brunswick
+country:USA
+[ITEM]
+Symposium: POPL 1991, Orlando USA
+event_type:Symposium
+event_name:POPL
+year:1991
+city:Orlando
+country:USA
+[ITEM]
+Canada St. John's, 2004, Symposium, PODC
+country:Canada
+city:St. John's
+year:2004
+event_type:Symposium
+event_name:PODC
+[ITEM]
+Netherlands Amsterdam, 1998, Workshop, FOGA
+country:Netherlands
+city:Amsterdam
+year:1998
+event_type:Workshop
+event_name:FOGA
+[ITEM]
+Conference: WSDM 2016, San Francisco USA
+event_type:Conference
+event_name:WSDM
+year:2016
+city:San Francisco
+country:USA
+[ITEM]
+Conference: USENIX 2006, Vancouver Canada
+event_type:Conference
+event_name:USENIX
+year:2006
+city:Vancouver
+country:Canada
+[ITEM]
+Germany Berlin, 2018, Symposium, UIST
+country:Germany
+city:Berlin
+year:2018
+event_type:Symposium
+event_name:UIST
+[ITEM]
+Symposium: S&P 1984, Oakland USA
+event_type:Symposium
+event_name:S&P
+year:1984
+city:Oakland
+country:USA
+[ITEM]
+1984 PODS (Conference) in Waterloo, Canada
+year:1984
+event_name:PODS
+event_type:Conference
+city:Waterloo
+country:Canada
+[ITEM]
+USA Palm Springs, 2011, Conference, FOCS
+country:USA
+city:Palm Springs
+year:2011
+event_type:Conference
+event_name:FOCS
+[ITEM]
+USA Kauai, 2001, Conference, CVPR
+country:USA
+city:Kauai
+year:2001
+event_type:Conference
+event_name:CVPR
+[ITEM]
+1999 VLDB (Conference) in Edinburgh, Scotland
+year:1999
+event_name:VLDB
+event_type:Conference
+city:Edinburgh
+country:Scotland
+[ITEM]
+Symposium: NDSS 1998, San Diego USA
+event_type:Symposium
+event_name:NDSS
+year:1998
+city:San Diego
+country:USA
+[ITEM]
+USA Triangle Park, 1995, Conference, VRAIS
+country:USA
+city:Triangle Park
+year:1995
+event_type:Conference
+event_name:VRAIS
+[ITEM]
+1989 IJCAI (Conference) in Detroit, USA
+year:1989
+event_name:IJCAI
+event_type:Conference
+city:Detroit
+country:USA
+[ITEM]
+2006 KR (Conference) in Lake District, UK
+year:2006
+event_name:KR
+event_type:Conference
+city:Lake District
+country:UK
+[ITEM]
+Conference: PODS 2001, Santa Barbara USA
+event_type:Conference
+event_name:PODS
+year:2001
+city:Santa Barbara
+country:USA
+[ITEM]
+Symposium: POPL 1989, Austin USA
+event_type:Symposium
+event_name:POPL
+year:1989
+city:Austin
+country:USA
+[ITEM]
+Korea Seoul, 2006, Conference, VLDB
+country:Korea
+city:Seoul
+year:2006
+event_type:Conference
+event_name:VLDB
+[ITEM]
+1997 NIPS (Conference) in Denver, USA
+year:1997
+event_name:NIPS
+event_type:Conference
+city:Denver
+country:USA
+[ITEM]
+USA Oakland, 1994, Symposium, S&P
+country:USA
+city:Oakland
+year:1994
+event_type:Symposium
+event_name:S&P
+[ITEM]
+Conference: FOGA 2017, Copenhagen Denmark
+event_type:Conference
+event_name:FOGA
+year:2017
+city:Copenhagen
+country:Denmark
+[ITEM]
+Symposium: IWAR 1999, San Francisco USA
+event_type:Symposium
+event_name:IWAR
+year:1999
+city:San Francisco
+country:USA
+[ITEM]
+Symposium: SIGPLAN 1984 1982, Boston USA
+event_type:Symposium
+event_name:SIGPLAN 1984
+year:1982
+city:Boston
+country:USA
+[ITEM]
+Conference: VLDB 2000, Cairo Egypt
+event_type:Conference
+event_name:VLDB
+year:2000
+city:Cairo
+country:Egypt
+[ITEM]
+Workshop: FOGA 1998, Amsterdam Netherlands
+event_type:Workshop
+event_name:FOGA
+year:1998
+city:Amsterdam
+country:Netherlands
+[ITEM]
+USA Reno, 2008, Conference, IEEE VR
+country:USA
+city:Reno
+year:2008
+event_type:Conference
+event_name:IEEE VR
+[ITEM]
+USA Berkeley, 2002, Symposium, S&P
+country:USA
+city:Berkeley
+year:2002
+event_type:Symposium
+event_name:S&P
+[ITEM]
+Japan Tokyo, 1982, Conference, ICSE
+country:Japan
+city:Tokyo
+year:1982
+event_type:Conference
+event_name:ICSE
+[ITEM]
+USA Milwaukee, 1995, Conference, FOCS
+country:USA
+city:Milwaukee
+year:1995
+event_type:Conference
+event_name:FOCS
+[ITEM]
+2000 CCS (Conference) in Athens, Greece
+year:2000
+event_name:CCS
+event_type:Conference
+city:Athens
+country:Greece
+[ITEM]
+Conference: AAAI 2002, Edmonton Canada
+event_type:Conference
+event_name:AAAI
+year:2002
+city:Edmonton
+country:Canada
+[ITEM]
+Singapore Singapore, 2011, Conference, IEEE VR
+country:Singapore
+city:Singapore
+year:2011
+event_type:Conference
+event_name:IEEE VR
+[ITEM]
+USA Boston, 2006, Symposium, ISCA
+country:USA
+city:Boston
+year:2006
+event_type:Symposium
+event_name:ISCA
+[ITEM]
+Conference: VRAIS 1996, Santa Clara USA
+event_type:Conference
+event_name:VRAIS
+year:1996
+city:Santa Clara
+country:USA
+[ITEM]
+USA Honolulu, 2017, Conference, ICWS
+country:USA
+city:Honolulu
+year:2017
+event_type:Conference
+event_name:ICWS
+[ITEM]
+1991 FOCS (Conference) in San Juan, USA
+year:1991
+event_name:FOCS
+event_type:Conference
+city:San Juan
+country:USA
+[ITEM]
+Greece Heraklion, 2011, Conference, ESWC
+country:Greece
+city:Heraklion
+year:2011
+event_type:Conference
+event_name:ESWC
+[ITEM]
+Conference: USENIX 2017, Vancouver Canada
+event_type:Conference
+event_name:USENIX
+year:2017
+city:Vancouver
+country:Canada
+[ITEM]
+Japan Aizu-Wakamatsu, 2005, Workshop, FOGA
+country:Japan
+city:Aizu-Wakamatsu
+year:2005
+event_type:Workshop
+event_name:FOGA
+[ITEM]
+USA Monterey, 1987, Conference, ICSE
+country:USA
+city:Monterey
+year:1987
+event_type:Conference
+event_name:ICSE
+[ITEM]
+Sweden Stockholm, 1999, Conference, IJCAI
+country:Sweden
+city:Stockholm
+year:1999
+event_type:Conference
+event_name:IJCAI
+[ITEM]
+Conference: ICSE 1988, Singapore Singapore
+event_type:Conference
+event_name:ICSE
+year:1988
+city:Singapore
+country:Singapore
+[ITEM]
+South Africa Cape Town, 2016, Conference, KR
+country:South Africa
+city:Cape Town
+year:2016
+event_type:Conference
+event_name:KR
+[ITEM]
+1981 POPL (Symposium) in Williamsburg, USA
+year:1981
+event_name:POPL
+event_type:Symposium
+city:Williamsburg
+country:USA
+[ITEM]
+1992 POPL (Symposium) in Albuquerque, USA
+year:1992
+event_name:POPL
+event_type:Symposium
+city:Albuquerque
+country:USA
+[ITEM]
+Conference: PODS 1994, Minneapolis USA
+event_type:Conference
+event_name:PODS
+year:1994
+city:Minneapolis
+country:USA
+[ITEM]
+USA San Jose, 1992, Conference, AAAI
+country:USA
+city:San Jose
+year:1992
+event_type:Conference
+event_name:AAAI
+[ITEM]
+Conference: KR 2008, Sydney Australia
+event_type:Conference
+event_name:KR
+year:2008
+city:Sydney
+country:Australia
+[ITEM]
+Conference: EuroCrypt 1982, Burg Feuerstein Germany
+event_type:Conference
+event_name:EuroCrypt
+year:1982
+city:Burg Feuerstein
+country:Germany
+[ITEM]
+1987 S&P (Symposium) in Oakland, USA
+year:1987
+event_name:S&P
+event_type:Symposium
+city:Oakland
+country:USA
+[ITEM]
+India Hyderabad, 2011, Conference, WWW
+country:India
+city:Hyderabad
+year:2011
+event_type:Conference
+event_name:WWW
+[ITEM]
+Conference: ICSE 2006, Shanghai China
+event_type:Conference
+event_name:ICSE
+year:2006
+city:Shanghai
+country:China
+[ITEM]
+Conference: NIPS 1988, Denver USA
+event_type:Conference
+event_name:NIPS
+year:1988
+city:Denver
+country:USA
+[ITEM]
+2018 RecSys (Conference) in Vancouver, Canada
+year:2018
+event_name:RecSys
+event_type:Conference
+city:Vancouver
+country:Canada
+[ITEM]
+2003 PLDI (Conference) in San Diego, USA
+year:2003
+event_name:PLDI
+event_type:Conference
+city:San Diego
+country:USA
+[ITEM]
+Symposium: UIST 1990, Snowbird USA
+event_type:Symposium
+event_name:UIST
+year:1990
+city:Snowbird
+country:USA
+[ITEM]
+USA Petersburg, 2016, Symposium, POPL
+country:USA
+city:Petersburg
+year:2016
+event_type:Symposium
+event_name:POPL
+[ITEM]
+Symposium: S&P 1993, Oakland USA
+event_type:Symposium
+event_name:S&P
+year:1993
+city:Oakland
+country:USA
+[ITEM]
+Conference: NIPS 2001, Vancouver Canada
+event_type:Conference
+event_name:NIPS
+year:2001
+city:Vancouver
+country:Canada
+[ITEM]
+Symposium: S&P 1983, Oakland USA
+event_type:Symposium
+event_name:S&P
+year:1983
+city:Oakland
+country:USA
+[ITEM]
+USA Minneapolis, 1994, Conference, PODS
+country:USA
+city:Minneapolis
+year:1994
+event_type:Conference
+event_name:PODS
+[ITEM]
+1992 EuroCrypt (Conference) in Balatonfred, Hungary
+year:1992
+event_name:EuroCrypt
+event_type:Conference
+city:Balatonfred
+country:Hungary
+[ITEM]
+Symposium: NDSS 1996, San Diego USA
+event_type:Symposium
+event_name:NDSS
+year:1996
+city:San Diego
+country:USA
+[ITEM]
+NIPS 1999, Conference, Denver USA
+event_name:NIPS
+year:1999
+event_type:Conference
+city:Denver
+country:USA
+[ITEM]
+COLT 2015, Conference, Paris France
+event_name:COLT
+year:2015
+event_type:Conference
+city:Paris
+country:France
+[ITEM]
+PODC 2016, Symposium, Chicago USA
+event_name:PODC
+year:2016
+event_type:Symposium
+city:Chicago
+country:USA
+[ITEM]
+ISCA 2018, Symposium, Los Angeles USA
+event_name:ISCA
+year:2018
+event_type:Symposium
+city:Los Angeles
+country:USA
+[ITEM]
+PERCOM 2018, Conference, Athens Greece
+event_name:PERCOM
+year:2018
+event_type:Conference
+city:Athens
+country:Greece
+[ITEM]

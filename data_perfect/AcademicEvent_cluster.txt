@@ -1,0 +1,316 @@
+Canada Vancouver, 2010, Symposium, OSDI
+UK Edinburgh, 2006, Conference, WWW
+Germany Berlin, 2012, Conference, EDBT
+USA Tucson, 1997, Conference, PODS
+USA Denver, 1992, Conference, NIPS
+USA Bellevue, 2013, Conference, AAAI
+Germany Bonn, 2005, Conference, IEEE VR
+Austria Vienna, 2007, Conference, VLDB
+USA Boston, 1973, Symposium, POPL
+Canada Banff, 2007, Conference, WWW
+USA Seattle, 1987, Conference, AAAI
+Japan Hiroshima, 2004, Conference, ISWC
+Norway Trondheim, 1997, Conference, PKDD
+China Xi'an, 2017, Conference, ASPLOS
+Turkey Istanbul, 2015, Conference, ASPLOS
+Spain Barcelona, 2016, Conference, HPCA
+Canada Toronto, 2010, Conference, KR
+Portugal Coimbra, 2016, Conference, IJCAR
+Sapin Barcelona, 1998, Symposium, ISCA
+USA Greenville, 2016, Conference, IEEE VR
+Japan Nara, 2007, Symposium, ISMAR
+USA Atlanta, 1997, Conference, OOPSLA
+USA Rochester, 1990, Conference, COLT
+Canada Montreal, 2007, Conference, OOPSLA
+USA Washington, 2004, Conference, PLDI
+Austria Vienna, 2018, Conference, EDBT
+USA Minneapolis, 2014, Conference, IEEE VR
+Australia Sydney, 2016, Conference, PERCOM
+Ireland Dublin, 2009, Conference, PLDI
+UK Cambridge, 1994, Conference, EDBT
+Belgium Houthalen, 1989, Conference, EuroCrypt
+France Paris, 1984, Conference, EuroCrypt
+USA Honolulu, 1988, Symposium, ISCA
+USA Boston, 2007, Conference, USENIX
+USA Seattle, 2002, Conference, OOPSLA
+USA Fairfax, 1994, Conference, CCS
+Canada Toronto, 2008, Symposium, PODC
+UK Egham, 2018, Symposium, PODC
+UK Brighton, 1991, Conference, EuroCrypt
+USA Denver, 1999, Conference, OOPSLA
+Sweden Gteborg, 2001, Conference, DSN
+Australia Sydney, 2002, Conference, COLT
+USA Portland, 1996, Conference, AAAI
+USA Hollywood, 2012, Symposium, OSDI
+USA Providence, 2012, Conference, CVPR
+USA Providence, 2009, Conference, PODS
+USA Anchorage, 2002, Symposium, ISCA
+Luxembourg Luxembourg, 2018, Conference, DSN
+USA Boston, 2003, Symposium, PODC
+Greece Athens, 2018, Conference, PERCOM
+USA Nashville, 1997, Conference, COLT
+USA Portland, 2006, Conference, OOPSLA
+Scotland Edinburgh, 1999, Conference, VLDB
+Austria Vienna, 2017, Conference, ISWC
+Australia Melbourne, 1992, Conference, ICSE
+USA Anaheim, 2003, Conference, OOPSLA
+USA Athens, 2006, Conference, ISWC
+USA Minneapolis, 2007, Conference, RecSys
+Netherlands Amsterdam, 1987, Conference, EuroCrypt
+Hungary Budapest, 2003, Conference, WWW
+USA Portland, 1989, Conference, PLDI
+USA Denver, 1999, Conference, NIPS
+France Paris, 2015, Conference, COLT
+USA Chicago, 2016, Symposium, PODC
+Canada Montreal, 2014, Conference, NIPS
+Chile Santiago, 2015, Conference, ICCV
+Canada Vancouver, 2006, Conference, NIPS
+Korea Seoul, 2016, Symposium, ISCA
+USA Philadelphia, 2008, Conference, FOCS
+Israel Haifa, 2010, Conference, COLT
+USA Seattle, 2013, Conference, PLDI
+Canada Alberta, 1988, Symposium, UIST
+Spain Barcelona, 1991, Conference, VLDB
+Austria Linz, 1985, Conference, EuroCrypt
+USA Pasadena, 2009, Conference, IJCAI
+Netherlands Amsterdam, 1998, Workshop, FOGA
+Germany Berlin, 2018, Symposium, UIST
+USA Kauai, 2001, Conference, CVPR
+Korea Seoul, 2006, Conference, VLDB
+USA Oakland, 1994, Symposium, S&P
+USA Berkeley, 2002, Symposium, S&P
+Japan Tokyo, 1982, Conference, ICSE
+USA Milwaukee, 1995, Conference, FOCS
+USA Boston, 2006, Symposium, ISCA
+USA Honolulu, 2017, Conference, ICWS
+Greece Heraklion, 2011, Conference, ESWC
+Japan Aizu-Wakamatsu, 2005, Workshop, FOGA
+USA Monterey, 1987, Conference, ICSE
+Sweden Stockholm, 1999, Conference, IJCAI
+India Hyderabad, 2011, Conference, WWW
+USA Petersburg, 2016, Symposium, POPL
+USA Minneapolis, 1994, Conference, PODS
+USA Reno, 2008, Conference, IEEE VR
+Singapore Singapore, 2011, Conference, IEEE VR
+[ITEM]
+USA New Brunswick, 1994, Conference, COLT
+USA New Orleans, 1999, Symposium, OSDI
+USA Palo Alto, 1975, Symposium, POPL
+Netherlands Amsterdam, 2000, Conference, WWW
+USA Santa Clara, 1991, Conference, ASPLOS
+USA San Diego, 1989, Conference, CVPR
+USA New Orleans, 1999, Symposium, OSDI
+USA Los Angeles, 2018, Symposium, ISCA
+Czech Republic Prague, 2013, Conference, ECML PKDD
+USA San Francisco, 2012, Symposium, S&P
+USA San Francisco, 1990, Symposium, POPL
+India New Delhi, 2016, Conference, VLDB
+USA San Diego, 2008, Symposium, OSDI
+USA San Diego, 2014, Conference, USENIX
+USA San Diego, 2000, Symposium, NDSS
+USA San Diego, 2008, Symposium, NDSS
+USA Las Vegas, 2010, Conference, FOCS
+USA San Diego, 2003, Conference, PLDI
+Canada St. John's, 2004, Symposium, PODC
+USA Palm Springs, 2011, Conference, FOCS
+USA Triangle Park, 1995, Conference, VRAIS
+USA San Jose, 1992, Conference, AAAI
+[ITEM]
+USA Salt Lake City, 2007, Conference, ICWS
+Brazil Rio de Janeiro, 2013, Conference, WWW
+[ITEM]
+Symposium: UIST 1997, Banff Canada
+Symposium: S&P 1987, Oakland USA
+Symposium: S&P 2007, Oakland USA
+Symposium: PODC 1999, Atlanta USA
+Conference: AAAI 2014, Qubec Canada
+Conference: ECML PKDD 2010, Barcelona Spain
+Symposium: PODC 1987, Vancouver Canada
+Conference: DSN 2017, Denver USA
+Conference: KR 1996, Cambridge USA
+Conference: PODS 1985, Portland USA
+Symposium: PODC 1996, Philadelphia USA
+Conference: ASPLOS 2012, London UK
+Conference: OOPSLA 2008, Nashville USA
+Conference: EDBT 1990, Venice Italy
+Conference: ISWC 2013, Sydney Australia
+Symposium: OSDI 2012, Hollywood USA
+Conference: PODS 1990, Nashville USA
+Conference: EuroCrypt 2005, Aarhus Denmark
+Symposium: POPL 2010, Madrid Spain
+Conference: PODS 2009, Providence USA
+Conference: ICSE 1989, Pittsburg USA
+Symposium: ISCA 1998, Barcelona Sapin
+Conference: IEEE VR 1999, Houston USA
+Conference: WWW 2016, Montreal Canada
+Conference: VLDB 1990, Brisbane Australia
+Conference: EuroCrypt 2016, Vienna Austria
+Conference: IJCAR 2006, Seattle USA
+Conference: ICSE 1994, Sorrento Italy
+Conference: CCS 2010, Chicago USA
+Conference: FOGA 2015, Aberystwyth UK
+Conference: VLDB 1986, Kyoto Japan
+Conference: OOPSLA 1987, Orlando USA
+Conference: PODS 1998, Seattle USA
+Symposium: S&P 1986, Oakland USA
+Conference: AAAI 1996, Portland USA
+Symposium: ISCA 2001, Gteborg Sweden
+Symposium: ISMAR 2016, Merida Mexico
+Conference: EuroCrypt 2007, Barcelona Spain
+Conference: PODS 1986, Cambridge USA
+Conference: ICSE 1998, Kyoto Japan
+Conference: VLDB 1985, Stockholm Sweden
+Conference: OOPSLA 2016, Amsterdam Netherlands
+Conference: AAAI 1980, Stanford USA
+Conference: DSN 2002, Washington USA
+Symposium: OSDI 2010, Vancouver Canada
+Conference: ICSE 2000, Limerick Ireland
+Conference: VLDB 2001, Roma Italy
+Conference: IJCAI 2003, Acapulco Mexico
+Conference: OOPSLA 1986, Portland USA
+Symposium: PODC 1988, Toronto Canada
+Symposium: POPL 1991, Orlando USA
+Conference: USENIX 2006, Vancouver Canada
+Symposium: S&P 1984, Oakland USA
+Symposium: POPL 1989, Austin USA
+Conference: FOGA 2017, Copenhagen Denmark
+Conference: VLDB 2000, Cairo Egypt
+Workshop: FOGA 1998, Amsterdam Netherlands
+Conference: AAAI 2002, Edmonton Canada
+Conference: USENIX 2017, Vancouver Canada
+Conference: ICSE 1988, Singapore Singapore
+Conference: PODS 1994, Minneapolis USA
+Conference: KR 2008, Sydney Australia
+Conference: ICSE 2006, Shanghai China
+Conference: NIPS 1988, Denver USA
+Symposium: UIST 1990, Snowbird USA
+Symposium: S&P 1993, Oakland USA
+Conference: NIPS 2001, Vancouver Canada
+Symposium: S&P 1983, Oakland USA
+Symposium: SIGPLAN 1984 1982, Boston USA
+[ITEM]
+Conference: HPCA 2012, New Orleans USA
+Symposium: UIST 2004, Santa Fe USA
+Conference: PLDI 1990, White Plains USA
+Conference: CVPR 1999, Ft. Collins USA
+Symposium: ISCA 2018, Los Angeles USA
+Conference: ICSE 1999, Los Angeles USA
+Conference: VRAIS 1995, Triangle Park USA
+Conference: COLT 1995, Santa Cruz USA
+Conference: WSDM 2011, Hong Kong China
+Conference: ICSE 1981, San Diego USA
+Conference: FOCS 2001, Las Vegas USA
+Symposium: NDSS 2008, San Diego USA
+Conference: WSDM 2016, San Francisco USA
+Symposium: NDSS 1998, San Diego USA
+Conference: PODS 2001, Santa Barbara USA
+Symposium: IWAR 1999, San Francisco USA
+Conference: VRAIS 1996, Santa Clara USA
+Conference: EuroCrypt 1982, Burg Feuerstein Germany
+Symposium: NDSS 1996, San Diego USA
+[ITEM]
+Symposium: UIST 1994, Marina del Rey USA
+Conference: VLDB 1994, Santiago de Chile Chile
+[ITEM]
+2006 UIST (Symposium) in Montreux, Switzerland
+2013 AAAI (Conference) in Bellevue, USA
+1995 IJCAI (Conference) in Montral, Canada
+1987 IJCAI (Conference) in Milan, Italy
+2011 OOPSLA (Conference) in Portland, USA
+1995 HPCA (Conference) in Raleigh, USA
+1986 OOPSLA (Conference) in Portland, USA
+2002 ISMAR (Symposium) in Darmstadt, Germany
+1994 KR (Conference) in Bonn, Germany
+1996 ISCA (Symposium) in Philadephia, USA
+2009 ESWC (Conference) in Heraklion, Greece
+1983 EuroCrypt (Conference) in Udine, Italy
+2015 WWW (Conference) in Florence, Italy
+2017 DSN (Conference) in Denver, USA
+2008 KR (Conference) in Sydney, Australia
+2000 NIPS (Conference) in Denver, USA
+2000 OOPSLA (Conference) in Minneapolis, USA
+2005 NIPS (Conference) in Vancouver, Canada
+2008 S&P (Symposium) in Oakland, USA
+2010 IJCAR (Conference) in Edinburgh, UK
+2007 ESWC (Conference) in Innsbruck, Austria
+2003 COLT (Conference) in Washington, USA
+1996 PODS (Conference) in Montreal, Canada
+1979 ICSE (Conference) in Munich, Germany
+2017 ISWC (Conference) in Vienna, Austria
+2012 ISMAR (Symposium) in Atlanta, USA
+2008 ASPLOS (Conference) in Seattle, USA
+2002 FOGA (Workshop) in Torremolinos, Spain
+2016 OOPSLA (Conference) in Amsterdam, Netherlands
+1989 VLDB (Conference) in Amsterdam, Netherlands
+2015 PODS (Conference) in Melbourne, Australia
+1995 EuroCrypt (Conference) in Saint-Malo, France
+2004 ISWC (Conference) in Hiroshima, Japan
+2018 PERCOM (Conference) in Athens, Greece
+2011 EDBT (Conference) in Uppsala, Sweden
+2002 OOPSLA (Conference) in Seattle, USA
+1998 NIPS (Conference) in Denver, USA
+2008 ICSE (Conference) in Leipzig, Germany
+2005 UIST (Symposium) in Seattle, USA
+2004 FOCS (Conference) in Rome, Italy
+2014 AAAI (Conference) in Qubec, Canada
+2015 USENIX (Conference) in Washington, USA
+1987 PODC (Symposium) in Vancouver, Canada
+1993 PODS (Conference) in Washington, USA
+1996 KR (Conference) in Cambridge, USA
+1992 USENIX (Conference) in Berkeley, USA
+2017 PODC (Symposium) in Washington, USA
+1998 PLDI (Conference) in Montreal, Canada
+1995 S&P (Symposium) in Oakland, USA
+1990 EDBT (Conference) in Venice, Italy
+2005 IJCAI (Conference) in Edinburgh, UK
+2011 ESWC (Conference) in Heraklion, Greece
+2010 WWW (Conference) in Raleigh, USA
+2014 CCS (Conference) in Scottsdale, USA
+1989 PODS (Conference) in Philadelphia, USA
+2010 ISWC (Conference) in Shanghai, China
+1984 PODS (Conference) in Waterloo, Canada
+1999 VLDB (Conference) in Edinburgh, Scotland
+1989 IJCAI (Conference) in Detroit, USA
+1997 NIPS (Conference) in Denver, USA
+2000 CCS (Conference) in Athens, Greece
+1981 POPL (Symposium) in Williamsburg, USA
+1992 POPL (Symposium) in Albuquerque, USA
+1987 S&P (Symposium) in Oakland, USA
+2018 RecSys (Conference) in Vancouver, Canada
+1992 EuroCrypt (Conference) in Balatonfred, Hungary
+2011 ECML PKDD (Conference) in Athens, Greece
+[ITEM]
+2013 UIST (Symposium) in St Andrews, UK
+2005 POPL (Symposium) in Long Beach, USA
+2001 ISAR (Symposium) in New York, USA
+2012 FOCS (Conference) in New Brunswick, USA
+2015 PERCOM (Conference) in St. Louis, USA
+1997 PLDI (Conference) in Las Vegas, USA
+1994 FOGA (Workshop) in Estes Park, USA
+2018 EuroCrypt (Conference) in Tel Aviv, Isreal
+2000 NDSS (Symposium) in San Diego, USA
+1994 FOCS (Conference) in Santa Fe, USA
+1994 COLT (Conference) in New Brunswick, USA
+2006 KR (Conference) in Lake District, UK
+1991 FOCS (Conference) in San Juan, USA
+2003 PLDI (Conference) in San Diego, USA
+[ITEM]
+2018 VLDB (Conference) in Rio De Janiero, Brazil
+[ITEM]
+OSDI 2010, Symposium, Vancouver Canada
+UIST 1997, Symposium, Banff Canada
+COLT 1994, Conference, New Brunswick USA
+WWW 2006, Conference, Edinburgh UK
+UIST 2006, Symposium, Montreux Switzerland
+FOGA 2002, Workshop, Torremolinos Spain
+PODS 2015, Conference, Melbourne Australia
+EuroCrypt 1995, Conference, Saint-Malo France
+NIPS 1999, Conference, Denver USA
+COLT 2015, Conference, Paris France
+PODC 2016, Symposium, Chicago USA
+PERCOM 2018, Conference, Athens Greece
+FOCS 2012, Conference, New Brunswick USA
+POPL 1990, Symposium, San Francisco USA
+ISCA 2018, Symposium, Los Angeles USA
+[ITEM]
+South Africa Cape Town, 2016, Conference, KR

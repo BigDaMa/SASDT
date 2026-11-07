@@ -1,0 +1,92 @@
+Sternbuschweg 52, 47057 Duisburg
+Bd de la Plaine 2, 1050 Ixelles
+Karolinenplatz 5, 64289 Darmstadt
+Europaplatz 1, 10557 Berlin
+Welfengarten 1, 30167 Hannover
+Kaiserstr 10, 47051 Duisburg
+Hallerstr 25, 30161 Hannover
+Pl. du Vingt Aout 7, 4000 Liege
+Geschwister-Scholl-Platz 1, 80539 Munich
+Universiteitstraat 4, 9000 Gent
+Rue Joseph II 32, 1000 Bruxelles
+Forsthausweg 2, 47057 Duisburg
+Ernst-Reuter-Platz 8, 10611 Berlin
+Hirschengraben 49, 6003 Luzern
+Charitepl. 1, 10117 Berlin
+[ITEM]
+Het Eeuwsel 53, 5612 AZ Eindhoven
+Mathenesserlaan 145, 3015 CJ Rotterdam
+Boompjes 40, 3011 XB Rotterdam
+Burgemeester Tellegenstraat 128, 1073 KG Amsterdam
+Drienerlolaan 5, 7522 NB Enschede
+[ITEM]
+77 Massachusetts Avenue, Cambridge, MA 02139, USA
+88 Altona St, Kensington, VIC 3031, Australia
+333 Biscayne Boulevard Way, Miami, Florida 33131, USA
+2331 Broadway, Sacramento, CA 95818, USA
+201 W Center St, Rochester, MN 55902, USA
+141 Goodwood Rd, Goodwood, SA 5034, Australia
+33 Milligan St, Perth, WA 6000, Australia
+9 Hertford St, London, W1J 7RJ, United Kingdom
+1 William St, Darlinghurst, NSW 2010, Australia
+350 Trolley Line Blvd, Mashantucket, Connecticut 06338, USA
+1600 Pennsylvania Ave, Washington DC 20500, USA
+[ITEM]
+3356 Kraus Rd, Roberts Creek, BC V0N 2W2, Canada
+555 Great Northern Wy, Vancouver, BC V5T 1E1, Canada
+910 Victoria Ave, Saskatoon, SK S7N 0Z6, Canada
+34 Windmill Rd, Moneymore, Drogheda, Co. Louth A92 AYH7, Ireland
+827 Lansdowne Ave, Toronto, ON M6H 3Z2, Canada
+6 Western Ave, Perth, PH1 1NY, United Kingdom
+5 Albatross Ct, Yellowknife, NT X1A 1Y7, Canada
+8 Bride St, Dublin, D08 Y2AY, Ireland
+[ITEM]
+5 Chipping Norton Rd, Chadlington, Chipping Norton OX7 3PE, United Kingdom
+[ITEM]
+Pl. del Pte., 3, 47003 Valladolid, Spain
+Av. Complutense, s/n, 28040 Madrid, Spain
+Av. Vizcaya, 8, 26200 Haro, La Rioja
+Rambla de Mar, s/n, 08039 Barcelona, Spain
+Viale Europa, 22, 00122 Roma RM
+[ITEM]
+Via Castello di Verrazzano, 1, 50022 Greve in Chianti FI
+Via Festa del Perdono, 7, 20122 Milano
+[ITEM]
+Av. D., Joao II, 1900-233, Lisboa
+[ITEM]
+R. da Firmeza 138, 4000-225 Porto, Portugal
+[ITEM]
+Rua do Choupelo, 39, 4400-088 Vila Nova de Gaia
+Rua do Quelhas, 6, 1200-781 Lisbon
+[ITEM]
+C. Alba de Tormes, 2, 37188 Carbajosa de la Sagrada, Salamanca, Spain
+Carrer de Sant Pau, 99, Ciutat Vella, 08001 Barcelona, Spain
+[ITEM]
+Avda. del Cid, 2 bis, 09005 Burgos, Spain
+[ITEM]
+Piazzale Aldo Moro, 5, 00185 Roma, Italy
+Piazza del Duomo, 1, 50122 Firenze, Italy
+C. de Embajadores, 138, Arganzuela, 28045 Madrid, Spain
+[ITEM]
+Calle Ote., 5, 37187 Aldeatejada, Salamanca, Spain
+C. Castillo, 1, 45460 Manzaneque, Toledo, Spain
+[ITEM]
+Av. Dom Carlos I, 17-25, 1200-000 Lisboa, Portugal
+[ITEM]
+Sternbuschweg 52
+Bd de la Plaine 2
+Karolinenplatz 5
+Massachusetts Avenue 77
+Europaplatz 1
+Hallerstr 25
+Hirschengraben 49
+Ernst-Reuter-Platz 8
+Broadway 2331
+C. Alba de Tormes 2
+Via Castello di Verrazzano 1
+Trolley Line Blvd 350
+Rua do Choupelo 39
+Chipping Norton Rd 5
+Biscayne Boulevard Way 333
+Rua do Quelhas 6
+Burgemeester Tellegenstraat 128

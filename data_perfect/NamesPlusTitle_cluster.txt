@@ -1,0 +1,62 @@
+Albert Einstein
+Stephen Hawking
+Mayim Bialik
+Tsungdao Lee
+Dorothy Hodgkin
+Marie Curie
+David Baltimore
+Yousef Sobouti
+Samuel Ting
+Walter Kohn
+Robert Koch
+Steven Weinberg
+Konstantin Novoselov
+Martin Karplus
+Enrico Fermi
+Niels Bohr
+Richard Axel
+Edgar Codd
+Edsger Dijkstra
+Syed Ahson
+[ITEM]
+Yukawa Hideki
+Yang Zhenning
+Wang Ganchang
+Kajita Takaaki
+Koshiba Masatoshi
+Nakamura Shuji
+Kobayashi Makoto
+Amano Hiroshi
+Fukui Kenichi
+Wu Chienshiung
+Masukawa Toshihide
+Akasaki Isamu
+Enrico Fermi
+Wu Chienshiung
+Li Kai
+Li Sanli
+[ITEM]
+Richard Phillips Feynman
+Julius Robert Oppenheimer
+Philip William Higgs
+Donald Arthur Glaser
+Andrew Fielding Huxley
+Har Gobind Khorana
+[ITEM]
+Dr. Einstein
+Dr. Yukawa
+Dr. Feynman
+Dr. Hawking
+Dr. Yang
+Dr. Codd
+Dr. Oppenheimer
+Dr. Masukawa
+Dr. Koch
+Dr. Koshiba
+Dr. Kobayashi
+Dr. Wu
+Dr. Ting
+Dr. Bohr
+Dr. Nakamura
+Dr. Weinberg
+[ITEM]
